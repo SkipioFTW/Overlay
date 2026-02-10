@@ -1,0 +1,49 @@
+{
+    "team": "TBA",
+    "team_averages": {
+        "avg_acs": 206.43,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Breeze": "50.0%",
+        "Bind": "100.0%",
+        "f": "100.0%"
+    },
+    "players": {
+        "@ladybug_glhf": {
+            "Riot Id": "ladybug#glhf",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 80.33333333333333,
+            "Average K/D": 0.3958333333333333,
+            "Most Played Agent": "Viper"
+        },
+        "@coax24.": {
+            "Riot Id": "Coax#4315",
+            "Rank": "Ascendant",
+            "Average ACS": 252.8,
+            "Average K/D": 1.1022727272727273,
+            "Most Played Agent": "Jett"
+        },
+        "@morc.a": {
+            "Riot Id": "Orsone#NA1",
+            "Rank": "Diamond",
+            "Average ACS": null,
+            "Average K/D": null,
+            "Most Played Agent": null
+        },
+        "@colourized.": {
+            "Riot Id": "sprinkle cake#yum",
+            "Rank": "Silver",
+            "Average ACS": 154.5,
+            "Average K/D": 0.7377049180327869,
+            "Most Played Agent": "Clove"
+        },
+        "@imnotkorean": {
+            "Riot Id": "Hv0ung#123",
+            "Rank": "Ascendant",
+            "Average ACS": 292.0,
+            "Average K/D": 2.0,
+            "Most Played Agent": "Chamber"
+        }
+    }
+}

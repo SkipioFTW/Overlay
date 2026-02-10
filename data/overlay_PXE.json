@@ -1,0 +1,49 @@
+{
+    "team": "PXE",
+    "team_averages": {
+        "avg_acs": 204.7,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "f": "50.0%",
+        "Abyss": "0.0%",
+        "Haven": "100.0%"
+    },
+    "players": {
+        "@mikyiis": {
+            "Riot Id": "Mikyiis#MKY",
+            "Rank": "Gold",
+            "Average ACS": 179.0,
+            "Average K/D": 0.8235294117647058,
+            "Most Played Agent": "Vyse"
+        },
+        "@patchesafk": {
+            "Riot Id": "PatchesAFK#IWNL",
+            "Rank": "Gold",
+            "Average ACS": null,
+            "Average K/D": null,
+            "Most Played Agent": null
+        },
+        "@friedpop.": {
+            "Riot Id": "popp#tarts",
+            "Rank": "Platinum",
+            "Average ACS": 217.5,
+            "Average K/D": 1.1428571428571428,
+            "Most Played Agent": "Omen"
+        },
+        "@vaibhav": {
+            "Riot Id": "Vaibhav#IL Re",
+            "Rank": "Gold",
+            "Average ACS": 215.0,
+            "Average K/D": 1.1111111111111112,
+            "Most Played Agent": "Cypher"
+        },
+        "@yuzik111": {
+            "Riot Id": "ELCTN soyorin#ZXNNJ",
+            "Rank": "Platinum",
+            "Average ACS": 212.5,
+            "Average K/D": 1.2352941176470589,
+            "Most Played Agent": "Sova"
+        }
+    }
+}

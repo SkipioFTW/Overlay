@@ -1,0 +1,49 @@
+{
+    "team": "DSA",
+    "team_averages": {
+        "avg_acs": 204.03,
+        "avg_kd": 0.99
+    },
+    "map_win_rates": {
+        "Bind": "50.0%",
+        "f": "100.0%",
+        "Haven": "100.0%"
+    },
+    "players": {
+        "@necromzo": {
+            "Riot Id": "Necromzo#KOREA",
+            "Rank": "Diamond",
+            "Average ACS": 229.0,
+            "Average K/D": 0.9814814814814815,
+            "Most Played Agent": "Sova"
+        },
+        "@wet sand": {
+            "Riot Id": "WetSand#Groov",
+            "Rank": "Platinum",
+            "Average ACS": 297.0,
+            "Average K/D": 1.446808510638298,
+            "Most Played Agent": "Neon"
+        },
+        "@felix": {
+            "Riot Id": "Bruhs#bruh",
+            "Rank": "Gold",
+            "Average ACS": 121.0,
+            "Average K/D": 0.5714285714285714,
+            "Most Played Agent": "Sova"
+        },
+        "@squidyy": {
+            "Riot Id": "SquidYa0#090",
+            "Rank": "Gold",
+            "Average ACS": 161.5,
+            "Average K/D": 0.8285714285714286,
+            "Most Played Agent": "Reyna"
+        },
+        "@cmoneygaming": {
+            "Riot Id": "CmoneyGaming#Dodge",
+            "Rank": "Gold",
+            "Average ACS": 141.33333333333334,
+            "Average K/D": 0.5833333333333334,
+            "Most Played Agent": "Omen"
+        }
+    }
+}

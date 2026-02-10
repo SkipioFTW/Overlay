@@ -1,0 +1,48 @@
+{
+    "team": "SK",
+    "team_averages": {
+        "avg_acs": 199.9,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Bind": "50.0%",
+        "Corrode": "100.0%"
+    },
+    "players": {
+        "@your_local_asain_midget": {
+            "Riot Id": "YukiForce1#NA1",
+            "Rank": "Gold",
+            "Average ACS": 155.0,
+            "Average K/D": 0.8769230769230769,
+            "Most Played Agent": "Omen"
+        },
+        "@limit7078": {
+            "Riot Id": "Limit80#NA1",
+            "Rank": "Platinum",
+            "Average ACS": 180.25,
+            "Average K/D": 0.8428571428571429,
+            "Most Played Agent": "Waylay"
+        },
+        "@nickjunyor": {
+            "Riot Id": "El Psy Kongroo#Skuld",
+            "Rank": "Diamond",
+            "Average ACS": 267.25,
+            "Average K/D": 1.518987341772152,
+            "Most Played Agent": "Sova"
+        },
+        "@haylo995": {
+            "Riot Id": "HayLo995#Boss",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 118.0,
+            "Average K/D": 0.578125,
+            "Most Played Agent": "Chamber"
+        },
+        "@justcallmebot": {
+            "Riot Id": "Ophi#blind",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 311.4,
+            "Average K/D": 1.6666666666666667,
+            "Most Played Agent": "Phoenix"
+        }
+    }
+}

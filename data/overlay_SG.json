@@ -1,0 +1,49 @@
+{
+    "team": "SG",
+    "team_averages": {
+        "avg_acs": 212.22,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "0.0%",
+        "Bind": "0.0%",
+        "Haven": "0.0%"
+    },
+    "players": {
+        "@fortniteenjoyer": {
+            "Riot Id": "FortniteEnjoyer#4549",
+            "Rank": "Silver",
+            "Average ACS": 118.5,
+            "Average K/D": 0.4935064935064935,
+            "Most Played Agent": "Tejo"
+        },
+        "@merrt": {
+            "Riot Id": "merrt#doom",
+            "Rank": "Diamond",
+            "Average ACS": 221.5,
+            "Average K/D": 0.8795180722891566,
+            "Most Played Agent": "Waylay"
+        },
+        "@vix134": {
+            "Riot Id": "Solvin#6087",
+            "Rank": "Ascendant",
+            "Average ACS": 256.5,
+            "Average K/D": 1.0116279069767442,
+            "Most Played Agent": "Yoru"
+        },
+        "@wolf0057": {
+            "Riot Id": "WOLF#TRASH",
+            "Rank": "Platinum",
+            "Average ACS": 172.2,
+            "Average K/D": 0.7934782608695652,
+            "Most Played Agent": "Breach"
+        },
+        "@addsunn": {
+            "Riot Id": "addsunn#meow",
+            "Rank": "Gold",
+            "Average ACS": 174.66666666666666,
+            "Average K/D": 0.9166666666666666,
+            "Most Played Agent": "Skye"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "team": "DUSK",
+    "team_averages": {
+        "avg_acs": 212.1,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "50.0%",
+        "Abyss": "0.0%",
+        "Haven": "0.0%"
+    },
+    "players": {
+        "@beesmii": {
+            "Riot Id": "Beesmii#mwah",
+            "Rank": "Gold",
+            "Average ACS": 199.0,
+            "Average K/D": 0.8888888888888888,
+            "Most Played Agent": "Killjoy"
+        },
+        "@sirsqu1d": {
+            "Riot Id": "Squ1d#flv",
+            "Rank": "Ascendant",
+            "Average ACS": 167.66666666666666,
+            "Average K/D": 0.6808510638297872,
+            "Most Played Agent": "Yoru"
+        },
+        "@lazarus5300": {
+            "Riot Id": "Lazarus#urbad",
+            "Rank": "Diamond",
+            "Average ACS": 200.33333333333334,
+            "Average K/D": 1.0425531914893618,
+            "Most Played Agent": "Skye"
+        },
+        "@zynder16": {
+            "Riot Id": "ZANGETSU#ROIT",
+            "Rank": "Gold",
+            "Average ACS": 195.0,
+            "Average K/D": 0.696969696969697,
+            "Most Played Agent": "Reyna"
+        },
+        "@pinkublink": {
+            "Riot Id": "Ken Gyo#BLINK",
+            "Rank": "Silver",
+            "Average ACS": 168.0,
+            "Average K/D": 0.5849056603773585,
+            "Most Played Agent": "Clove"
+        }
+    }
+}

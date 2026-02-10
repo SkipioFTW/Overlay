@@ -1,0 +1,49 @@
+{
+    "team": "RAT",
+    "team_averages": {
+        "avg_acs": 207.62,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Pearl": "0.0%",
+        "Corrode": "50.0%",
+        "Bind": "0.0%"
+    },
+    "players": {
+        "@vic.bum": {
+            "Riot Id": "vic#Tubby",
+            "Rank": "Platinum",
+            "Average ACS": 232.0,
+            "Average K/D": 0.9696969696969697,
+            "Most Played Agent": "Clove"
+        },
+        "@yulisa7634": {
+            "Riot Id": "yuhlisa#NA1",
+            "Rank": "Diamond",
+            "Average ACS": 128.5,
+            "Average K/D": 0.45454545454545453,
+            "Most Played Agent": "Reyna"
+        },
+        "@ntry": {
+            "Riot Id": "Ntry#bang",
+            "Rank": "Platinum",
+            "Average ACS": 177.25,
+            "Average K/D": 0.6666666666666666,
+            "Most Played Agent": "Jett"
+        },
+        "@haaj": {
+            "Riot Id": "haaj#yona",
+            "Rank": "Gold",
+            "Average ACS": 144.0,
+            "Average K/D": 0.6111111111111112,
+            "Most Played Agent": "Vyse"
+        },
+        "@luv.em": {
+            "Riot Id": "3mxter#void",
+            "Rank": "Gold",
+            "Average ACS": 150.0,
+            "Average K/D": 0.6,
+            "Most Played Agent": "Vyse"
+        }
+    }
+}

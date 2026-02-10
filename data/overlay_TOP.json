@@ -1,0 +1,50 @@
+{
+    "team": "TOP",
+    "team_averages": {
+        "avg_acs": 206.97,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Bind": "0.0%",
+        "Corrode": "0.0%",
+        "Haven": "0.0%",
+        "f": "100.0%"
+    },
+    "players": {
+        "@djbeesquared": {
+            "Riot Id": "HellsBells#Queen",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 75.5,
+            "Average K/D": 0.23684210526315788,
+            "Most Played Agent": "Omen"
+        },
+        "@matt3r_": {
+            "Riot Id": "MATT3R#007",
+            "Rank": "Gold",
+            "Average ACS": 310.0,
+            "Average K/D": 1.4339622641509433,
+            "Most Played Agent": "Chamber"
+        },
+        "@whoviancat": {
+            "Riot Id": "WhovianCat#Mew",
+            "Rank": "Gold",
+            "Average ACS": 146.33333333333334,
+            "Average K/D": 0.6326530612244898,
+            "Most Played Agent": "Killjoy"
+        },
+        "@.woc.": {
+            "Riot Id": "Cash Carti#vampp",
+            "Rank": "Platinum",
+            "Average ACS": 239.33333333333334,
+            "Average K/D": 1.2244897959183674,
+            "Most Played Agent": "Jett"
+        },
+        "@skylilyy": {
+            "Riot Id": "Skylily#wine",
+            "Rank": "Ascendant",
+            "Average ACS": 183.0,
+            "Average K/D": 0.7692307692307693,
+            "Most Played Agent": "Fade"
+        }
+    }
+}

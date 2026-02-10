@@ -1,0 +1,48 @@
+{
+    "team": "ATB",
+    "team_averages": {
+        "avg_acs": 211.0,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "100.0%",
+        "Haven": "50.0%"
+    },
+    "players": {
+        "@clawsator": {
+            "Riot Id": "CLAWS#ATOR",
+            "Rank": "Ascendant",
+            "Average ACS": 307.14285714285717,
+            "Average K/D": 1.456,
+            "Most Played Agent": "Reyna"
+        },
+        "@jawator": {
+            "Riot Id": "JAWS#ATOR",
+            "Rank": "Ascendant",
+            "Average ACS": 305.75,
+            "Average K/D": 1.6615384615384616,
+            "Most Played Agent": "Yoru"
+        },
+        "@mention": {
+            "Riot Id": "RipWideJoy#sleep",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 89.25,
+            "Average K/D": 0.3380281690140845,
+            "Most Played Agent": "Killjoy"
+        },
+        "@enyarjaja": {
+            "Riot Id": "ikeabear#SKOG",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 121.0,
+            "Average K/D": 0.6865671641791045,
+            "Most Played Agent": "Vyse"
+        },
+        "@pender": {
+            "Riot Id": "pender#goat",
+            "Rank": "Ascendant",
+            "Average ACS": 264.5,
+            "Average K/D": 1.2361111111111112,
+            "Most Played Agent": "Omen"
+        }
+    }
+}

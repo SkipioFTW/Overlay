@@ -1,0 +1,49 @@
+{
+    "team": "ATW",
+    "team_averages": {
+        "avg_acs": 211.85,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "100.0%",
+        "Corrode": "100.0%",
+        "Bind": "100.0%"
+    },
+    "players": {
+        "@eggsdies": {
+            "Riot Id": "sweddie#MSS",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 397.0,
+            "Average K/D": 1.90625,
+            "Most Played Agent": "Yoru"
+        },
+        "@ariso_": {
+            "Riot Id": "ariso#0202",
+            "Rank": "Ascendant",
+            "Average ACS": 320.5,
+            "Average K/D": 1.7586206896551724,
+            "Most Played Agent": "Raze"
+        },
+        "@pastvayne": {
+            "Riot Id": "pastvayne#vayne",
+            "Rank": "Silver",
+            "Average ACS": 175.75,
+            "Average K/D": 0.9482758620689655,
+            "Most Played Agent": "Clove"
+        },
+        "@acepilot147": {
+            "Riot Id": "acepilot147#3719",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 95.25,
+            "Average K/D": 0.4461538461538462,
+            "Most Played Agent": "Killjoy"
+        },
+        "@mrrainbow56": {
+            "Riot Id": "mrrainbow56#nice",
+            "Rank": "Silver",
+            "Average ACS": 120.0,
+            "Average K/D": 0.6031746031746031,
+            "Most Played Agent": "Fade"
+        }
+    }
+}

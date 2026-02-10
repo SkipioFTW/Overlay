@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valorant Overlay</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="control-panel">
+        <h2>MATCH SETUP</h2>
+        <div class="control-group">
+            <label>TEAM A (Light Blue)</label>
+            <select id="teamA-select"></select>
+        </div>
+        <div class="control-group">
+            <label>TEAM B (Red)</label>
+            <select id="teamB-select"></select>
+        </div>
+        <button class="btn-update" onclick="applySettings()">START OVERLAY</button>
+        <button class="btn-hide" onclick="toggleControls()">HIDE PANEL (H)</button>
+        <p style="font-size: 10px; color: #555; margin-top: 10px;">Settings persist on refresh</p>
+    </div>
+
+    <div id="overlay-container">
+        <div id="view-content"></div>
+    </div>
+
+    <script src="overlay.js"></script>
+</body>
+</html>

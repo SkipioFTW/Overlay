@@ -1,0 +1,49 @@
+{
+    "team": "FF",
+    "team_averages": {
+        "avg_acs": 206.47,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Corrode": "0.0%",
+        "Bind": "100.0%",
+        "Split": "100.0%"
+    },
+    "players": {
+        "@idoruler": {
+            "Riot Id": "plorbin#plrbn",
+            "Rank": "Gold",
+            "Average ACS": 195.5,
+            "Average K/D": 1.0579710144927537,
+            "Most Played Agent": "Omen"
+        },
+        "@._.nico": {
+            "Riot Id": "TRICKLASH#785",
+            "Rank": "Ascendant",
+            "Average ACS": 259.25,
+            "Average K/D": 1.3287671232876712,
+            "Most Played Agent": "Breach"
+        },
+        "@bloosh": {
+            "Riot Id": "goopy#plrbn",
+            "Rank": "Diamond",
+            "Average ACS": 246.25,
+            "Average K/D": 1.2465753424657535,
+            "Most Played Agent": "Waylay"
+        },
+        "@ukiyo.1.": {
+            "Riot Id": "joni#plrbn",
+            "Rank": "Platinum",
+            "Average ACS": 198.25,
+            "Average K/D": 0.9375,
+            "Most Played Agent": "Sova"
+        },
+        "@victowwia": {
+            "Riot Id": "Starwalker#orig",
+            "Rank": "Silver",
+            "Average ACS": 141.25,
+            "Average K/D": 0.6285714285714286,
+            "Most Played Agent": "Cypher"
+        }
+    }
+}

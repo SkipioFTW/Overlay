@@ -1,0 +1,49 @@
+{
+    "team": "BP",
+    "team_averages": {
+        "avg_acs": 214.8,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Pearl": "100.0%",
+        "Haven": "100.0%",
+        "Breeze": "100.0%"
+    },
+    "players": {
+        "@riot_nt09": {
+            "Riot Id": "NickJunyorJr#1417",
+            "Rank": "Silver",
+            "Average ACS": 137.25,
+            "Average K/D": 0.5735294117647058,
+            "Most Played Agent": "Raze"
+        },
+        "@firevenom": {
+            "Riot Id": "Lost From Light#Asuna",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 345.0,
+            "Average K/D": 1.4901960784313726,
+            "Most Played Agent": "Clove"
+        },
+        "@kroppii": {
+            "Riot Id": "s1n#anna",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 341.5,
+            "Average K/D": 2.0816326530612246,
+            "Most Played Agent": "Reyna"
+        },
+        "@prachan": {
+            "Riot Id": "Erischan#777",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 138.66666666666666,
+            "Average K/D": 0.8571428571428571,
+            "Most Played Agent": "Fade"
+        },
+        "@tempoe": {
+            "Riot Id": "Jolteon#Tempo",
+            "Rank": "Silver",
+            "Average ACS": 145.6,
+            "Average K/D": 0.7878787878787878,
+            "Most Played Agent": "Vyse"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "team": "TVE",
+    "team_averages": {
+        "avg_acs": 213.68,
+        "avg_kd": 0.99
+    },
+    "map_win_rates": {
+        "Split": "66.66666666666666%",
+        "Corrode": "0.0%"
+    },
+    "players": {
+        "@dipinchocolate": {
+            "Riot Id": "DipInChocolate#1007",
+            "Rank": "Ascendant",
+            "Average ACS": 270.0,
+            "Average K/D": 1.125,
+            "Most Played Agent": "Clove"
+        },
+        "@mighty_bug": {
+            "Riot Id": "MightyBug464#NA1",
+            "Rank": "Gold",
+            "Average ACS": 167.5,
+            "Average K/D": 0.6986301369863014,
+            "Most Played Agent": "Fade"
+        },
+        "@apmoberg": {
+            "Riot Id": "apmoberg#NA1",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 132.0,
+            "Average K/D": 0.6666666666666666,
+            "Most Played Agent": "Sage"
+        },
+        "@jfkpeakedglaz21": {
+            "Riot Id": "Ignore#999",
+            "Rank": "Silver",
+            "Average ACS": 140.25,
+            "Average K/D": 0.6666666666666666,
+            "Most Played Agent": "Chamber"
+        },
+        "@.avyy.": {
+            "Riot Id": "i play osu#1234",
+            "Rank": "Ascendant",
+            "Average ACS": 361.5,
+            "Average K/D": 1.6388888888888888,
+            "Most Played Agent": "Raze"
+        }
+    }
+}

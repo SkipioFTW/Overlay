@@ -1,0 +1,48 @@
+{
+    "team": "GT",
+    "team_averages": {
+        "avg_acs": 201.32,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Breeze": "0.0%",
+        "Split": "100.0%"
+    },
+    "players": {
+        "@orangereptile": {
+            "Riot Id": "Garfield#910",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 181.2,
+            "Average K/D": 0.8939393939393939,
+            "Most Played Agent": "Brimstone"
+        },
+        "@dbasian": {
+            "Riot Id": "Briiban#birb",
+            "Rank": "Gold",
+            "Average ACS": 184.2,
+            "Average K/D": 0.8947368421052632,
+            "Most Played Agent": "KAY/O"
+        },
+        "@kiw1ki": {
+            "Riot Id": "kiwi#melon",
+            "Rank": "Platinum",
+            "Average ACS": 103.5,
+            "Average K/D": 0.8125,
+            "Most Played Agent": "Skye"
+        },
+        "@asianganggaming": {
+            "Riot Id": "Pho Dac Biet\u03a8#6969",
+            "Rank": "Ascendant",
+            "Average ACS": 297.5,
+            "Average K/D": 1.2575757575757576,
+            "Most Played Agent": "Jett"
+        },
+        "@myhowto": {
+            "Riot Id": "myhowto#1234",
+            "Rank": "Ascendant",
+            "Average ACS": 312.75,
+            "Average K/D": 2.0816326530612246,
+            "Most Played Agent": "Chamber"
+        }
+    }
+}

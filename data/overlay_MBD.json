@@ -1,0 +1,49 @@
+{
+    "team": "MBD",
+    "team_averages": {
+        "avg_acs": 201.1,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Bind": "0.0%",
+        "Haven": "50.0%",
+        "Corrode": "0.0%"
+    },
+    "players": {
+        "@kai.5784": {
+            "Riot Id": "koi#mnch",
+            "Rank": "Diamond",
+            "Average ACS": 196.25,
+            "Average K/D": 0.9464285714285714,
+            "Most Played Agent": "Viper"
+        },
+        "@yoursretro": {
+            "Riot Id": "akashi#ezwin",
+            "Rank": "Gold",
+            "Average ACS": 181.25,
+            "Average K/D": 0.8727272727272727,
+            "Most Played Agent": "Yoru"
+        },
+        "@xpsyqe": {
+            "Riot Id": "pookiegaming64#pook",
+            "Rank": "Gold",
+            "Average ACS": 232.75,
+            "Average K/D": 1.1071428571428572,
+            "Most Played Agent": "Waylay"
+        },
+        "@astrillik": {
+            "Riot Id": "mizore#yuri",
+            "Rank": "Gold",
+            "Average ACS": 129.0,
+            "Average K/D": 0.6538461538461539,
+            "Most Played Agent": "Sova"
+        },
+        "@wallbee_": {
+            "Riot Id": "Wallbee#BBCRM",
+            "Rank": "Ascendant",
+            "Average ACS": 266.0,
+            "Average K/D": 1.2857142857142858,
+            "Most Played Agent": "Waylay"
+        }
+    }
+}

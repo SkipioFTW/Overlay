@@ -1,0 +1,49 @@
+{
+    "team": "10T",
+    "team_averages": {
+        "avg_acs": 207.95,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "100.0%",
+        "Bind": "50.0%",
+        "Breeze": "0.0%"
+    },
+    "players": {
+        "@lkwamazing9": {
+            "Riot Id": "lkwamazing9#tft",
+            "Rank": "Gold",
+            "Average ACS": 193.66666666666666,
+            "Average K/D": 0.8596491228070176,
+            "Most Played Agent": "Viper"
+        },
+        "@penguinz": {
+            "Riot Id": "Penguin#P0LAR",
+            "Rank": "Platinum",
+            "Average ACS": 170.125,
+            "Average K/D": 0.7246376811594203,
+            "Most Played Agent": "Fade"
+        },
+        "@ansussy": {
+            "Riot Id": "ansussy#sus",
+            "Rank": "Ascendant",
+            "Average ACS": 290.0,
+            "Average K/D": 1.6721311475409837,
+            "Most Played Agent": "Yoru"
+        },
+        "@mysticz": {
+            "Riot Id": "MysticZ#000",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 109.25,
+            "Average K/D": 0.4782608695652174,
+            "Most Played Agent": "Cypher"
+        },
+        "@thesopsupplier": {
+            "Riot Id": "TheSopSupplier#7130",
+            "Rank": "Ascendant",
+            "Average ACS": 297.5,
+            "Average K/D": 1.4927536231884058,
+            "Most Played Agent": "Sova"
+        }
+    }
+}

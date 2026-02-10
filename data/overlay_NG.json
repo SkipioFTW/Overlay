@@ -1,0 +1,49 @@
+{
+    "team": "NG",
+    "team_averages": {
+        "avg_acs": 209.35,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "50.0%",
+        "Haven": "0.0%",
+        "Bind": "0.0%"
+    },
+    "players": {
+        "@psi_pkchu": {
+            "Riot Id": "Pkchu#7965",
+            "Rank": "Platinum",
+            "Average ACS": 209.0,
+            "Average K/D": 1.0,
+            "Most Played Agent": "Omen"
+        },
+        "@muddicksizgud": {
+            "Riot Id": "friskymango24#simga",
+            "Rank": "Diamond",
+            "Average ACS": 196.75,
+            "Average K/D": 0.9117647058823529,
+            "Most Played Agent": "Jett"
+        },
+        "@zratio": {
+            "Riot Id": "G2 \u00d8ffice W\u00f8rker#6767",
+            "Rank": "Platinum",
+            "Average ACS": 200.0,
+            "Average K/D": 0.8714285714285714,
+            "Most Played Agent": "Killjoy"
+        },
+        "@hjkikimorx2": {
+            "Riot Id": "donny#dal",
+            "Rank": "Gold",
+            "Average ACS": 220.5,
+            "Average K/D": 1.1475409836065573,
+            "Most Played Agent": "Yoru"
+        },
+        "@shadeisnthere": {
+            "Riot Id": "Shade#Six9",
+            "Rank": "Gold",
+            "Average ACS": 161.25,
+            "Average K/D": 0.6571428571428571,
+            "Most Played Agent": "Fade"
+        }
+    }
+}

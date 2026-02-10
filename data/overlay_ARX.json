@@ -1,0 +1,49 @@
+{
+    "team": "ARX",
+    "team_averages": {
+        "avg_acs": 201.07,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Bind": "100.0%",
+        "Split": "0.0%",
+        "Corrode": "0.0%"
+    },
+    "players": {
+        "@joemonkey.": {
+            "Riot Id": "Outplayed#Run",
+            "Rank": "Gold",
+            "Average ACS": 180.66666666666666,
+            "Average K/D": 1.119047619047619,
+            "Most Played Agent": "Skye"
+        },
+        "@cyteri": {
+            "Riot Id": "Cyteri#P1QNK",
+            "Rank": "Gold",
+            "Average ACS": 171.0,
+            "Average K/D": 0.8095238095238095,
+            "Most Played Agent": "Omen"
+        },
+        "@zdyzze": {
+            "Riot Id": "Infinite ZDYZZE#SDS",
+            "Rank": "Gold",
+            "Average ACS": 161.66666666666666,
+            "Average K/D": 0.7450980392156863,
+            "Most Played Agent": "Yoru"
+        },
+        "@moistloonie": {
+            "Riot Id": "Loon#6741",
+            "Rank": "Diamond",
+            "Average ACS": 257.0,
+            "Average K/D": 1.1176470588235294,
+            "Most Played Agent": "Raze"
+        },
+        "@matcha_muncher.": {
+            "Riot Id": "Suo san\u30c4#Haru",
+            "Rank": "Diamond",
+            "Average ACS": 242.5,
+            "Average K/D": 1.3703703703703705,
+            "Most Played Agent": "Yoru"
+        }
+    }
+}

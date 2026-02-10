@@ -1,0 +1,50 @@
+{
+    "team": "LUL",
+    "team_averages": {
+        "avg_acs": 201.82,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Split": "0.0%",
+        "Haven": "0.0%",
+        "Pearl": "0.0%",
+        "Breeze": "100.0%"
+    },
+    "players": {
+        "@chisooo": {
+            "Riot Id": "chiso#uwu",
+            "Rank": "Ascendant",
+            "Average ACS": 141.0,
+            "Average K/D": 0.46296296296296297,
+            "Most Played Agent": "Killjoy"
+        },
+        "@bjyornk": {
+            "Riot Id": "OldAsianGrandpa#ASIAN",
+            "Rank": "Diamond",
+            "Average ACS": 249.0,
+            "Average K/D": 1.1379310344827587,
+            "Most Played Agent": "Astra"
+        },
+        "@maiadorable": {
+            "Riot Id": "Whelmed#UwU",
+            "Rank": "Gold",
+            "Average ACS": 101.33333333333333,
+            "Average K/D": 0.3333333333333333,
+            "Most Played Agent": "Skye"
+        },
+        "@guxximane_36013": {
+            "Riot Id": "gangbangingcat67#6767",
+            "Rank": "Diamond",
+            "Average ACS": 252.5,
+            "Average K/D": 1.1388888888888888,
+            "Most Played Agent": "Yoru"
+        },
+        "@papa_sports9318": {
+            "Riot Id": "Kaji#immo",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 134.5,
+            "Average K/D": 0.6,
+            "Most Played Agent": "KAY/O"
+        }
+    }
+}

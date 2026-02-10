@@ -1,0 +1,50 @@
+{
+    "team": "ECO",
+    "team_averages": {
+        "avg_acs": 199.8,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Haven": "100.0%",
+        "Bind": "0.0%",
+        "Pearl": "0.0%",
+        "Abyss": "100.0%"
+    },
+    "players": {
+        "@sweepzjr": {
+            "Riot Id": "sweepzjr#ggez",
+            "Rank": "Ascendant",
+            "Average ACS": 243.5,
+            "Average K/D": 1.346938775510204,
+            "Most Played Agent": "Yoru"
+        },
+        "@kamm2sexy": {
+            "Riot Id": "Humble King#hmble",
+            "Rank": "Diamond",
+            "Average ACS": 214.75,
+            "Average K/D": 1.0357142857142858,
+            "Most Played Agent": "Jett"
+        },
+        "@keegan_23": {
+            "Riot Id": "Splash#5070",
+            "Rank": "Platinum",
+            "Average ACS": 196.66666666666666,
+            "Average K/D": 1.0238095238095237,
+            "Most Played Agent": "Sova"
+        },
+        "@t1dal.wave": {
+            "Riot Id": "t1dalwave#MSST",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 160.0,
+            "Average K/D": 0.6976744186046512,
+            "Most Played Agent": "Veto"
+        },
+        "@superfly7124": {
+            "Riot Id": "Superf1ytv#Perc",
+            "Rank": "Platinum",
+            "Average ACS": 173.0,
+            "Average K/D": 0.9473684210526315,
+            "Most Played Agent": "Sova"
+        }
+    }
+}

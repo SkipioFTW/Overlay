@@ -1,0 +1,49 @@
+{
+    "team": "GOON",
+    "team_averages": {
+        "avg_acs": 211.2,
+        "avg_kd": 1.0
+    },
+    "map_win_rates": {
+        "Corrode": "100.0%",
+        "Haven": "100.0%",
+        "Pearl": "0.0%"
+    },
+    "players": {
+        "@impod": {
+            "Riot Id": "alchemist#yae",
+            "Rank": "Diamond",
+            "Average ACS": 263.75,
+            "Average K/D": 1.25,
+            "Most Played Agent": "Clove"
+        },
+        "@szos4n": {
+            "Riot Id": "Teto#szo",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 309.3333333333333,
+            "Average K/D": 1.2830188679245282,
+            "Most Played Agent": "Yoru"
+        },
+        "@iceboats": {
+            "Riot Id": "Miku#Big B",
+            "Rank": "Ascendant",
+            "Average ACS": 258.25,
+            "Average K/D": 1.4181818181818182,
+            "Most Played Agent": "Yoru"
+        },
+        "@ilovecats7_": {
+            "Riot Id": "facade#1030",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 109.75,
+            "Average K/D": 0.48484848484848486,
+            "Most Played Agent": "Killjoy"
+        },
+        "@FeebleBoi": {
+            "Riot Id": "NobaCobra#80085",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 122.0,
+            "Average K/D": 0.8222222222222222,
+            "Most Played Agent": "KAY/O"
+        }
+    }
+}
