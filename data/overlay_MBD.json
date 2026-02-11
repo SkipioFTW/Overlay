@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Bind": "0.0%",
         "Haven": "50.0%",
-        "Corrode": "0.0%"
+        "Corrode": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@kai.5784": {
@@ -22,7 +23,7 @@
             "Rank": "Gold",
             "Average ACS": 181.25,
             "Average K/D": 0.8727272727272727,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Omen"
         },
         "@xpsyqe": {
             "Riot Id": "pookiegaming64#pook",

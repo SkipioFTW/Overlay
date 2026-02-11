@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Bind": "100.0%",
-        "Corrode": "50.0%"
+        "Corrode": "50.0%",
+        "f": "0.0%"
     },
     "players": {
         "@dannyyf": {

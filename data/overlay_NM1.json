@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Haven": "50.0%",
         "Pearl": "0.0%",
-        "Split": "0.0%"
+        "Split": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@kuuderech3rryz": {
@@ -43,7 +44,7 @@
             "Rank": "Diamond",
             "Average ACS": 185.66666666666666,
             "Average K/D": 0.9523809523809523,
-            "Most Played Agent": "Raze"
+            "Most Played Agent": "Killjoy"
         }
     }
 }

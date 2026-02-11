@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Bind": "50.0%",
-        "Corrode": "100.0%"
+        "Corrode": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@your_local_asain_midget": {
@@ -26,8 +27,8 @@
         "@nickjunyor": {
             "Riot Id": "El Psy Kongroo#Skuld",
             "Rank": "Diamond",
-            "Average ACS": 267.25,
-            "Average K/D": 1.518987341772152,
+            "Average ACS": 270.3636363636364,
+            "Average K/D": 1.584507042253521,
             "Most Played Agent": "Sova"
         },
         "@haylo995": {

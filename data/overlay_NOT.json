@@ -6,14 +6,15 @@
     },
     "map_win_rates": {
         "Bind": "33.33333333333333%",
-        "Haven": "100.0%"
+        "Haven": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@doomvlr": {
             "Riot Id": "NOT doom#NOT",
             "Rank": "Ascendant",
             "Average ACS": 341.75,
-            "Average K/D": 1.88135593220339,
+            "Average K/D": 1.8813559322033897,
             "Most Played Agent": "Waylay"
         },
         "@.minik0ng": {
@@ -21,13 +22,13 @@
             "Rank": "Diamond",
             "Average ACS": 202.5,
             "Average K/D": 0.9295774647887324,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Raze"
         },
         "@applezzz03": {
             "Riot Id": "AppleZZZ#lcky",
             "Rank": "Platinum",
             "Average ACS": 219.5,
-            "Average K/D": 1.2545454545454546,
+            "Average K/D": 1.2545454545454544,
             "Most Played Agent": "Brimstone"
         },
         "@ok_im_miko": {

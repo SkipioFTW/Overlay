@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Corrode": "50.0%",
-        "Pearl": "100.0%"
+        "Pearl": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@solarsour": {
@@ -14,21 +15,21 @@
             "Rank": "Platinum",
             "Average ACS": 209.57142857142858,
             "Average K/D": 1.0588235294117647,
-            "Most Played Agent": "Neon"
+            "Most Played Agent": "Astra"
         },
         "@dangtan14": {
             "Riot Id": "Facade#Beep",
             "Rank": "Silver",
             "Average ACS": 122.57142857142857,
             "Average K/D": 0.5294117647058824,
-            "Most Played Agent": "Tejo"
+            "Most Played Agent": "Breach"
         },
         "@junkim7": {
             "Riot Id": "KIMCHI67676#77777",
             "Rank": "Diamond",
             "Average ACS": 211.0,
             "Average K/D": 0.9444444444444444,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Jett"
         },
         "@zyph_is_dumb": {
             "Riot Id": "NRG Baitr#zyph",

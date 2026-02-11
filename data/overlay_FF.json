@@ -1,13 +1,14 @@
 {
     "team": "FF",
     "team_averages": {
-        "avg_acs": 206.47,
+        "avg_acs": 206.48,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "0.0%",
         "Bind": "100.0%",
-        "Split": "100.0%"
+        "Split": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@idoruler": {
@@ -28,8 +29,8 @@
             "Riot Id": "goopy#plrbn",
             "Rank": "Diamond",
             "Average ACS": 246.25,
-            "Average K/D": 1.2465753424657535,
-            "Most Played Agent": "Waylay"
+            "Average K/D": 1.2465753424657533,
+            "Most Played Agent": "Raze"
         },
         "@ukiyo.1.": {
             "Riot Id": "joni#plrbn",

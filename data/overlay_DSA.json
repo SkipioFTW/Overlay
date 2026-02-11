@@ -6,7 +6,7 @@
     },
     "map_win_rates": {
         "Bind": "50.0%",
-        "f": "100.0%",
+        "f": "50.0%",
         "Haven": "100.0%"
     },
     "players": {
@@ -15,7 +15,7 @@
             "Rank": "Diamond",
             "Average ACS": 229.0,
             "Average K/D": 0.9814814814814815,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Raze"
         },
         "@wet sand": {
             "Riot Id": "WetSand#Groov",
@@ -29,14 +29,14 @@
             "Rank": "Gold",
             "Average ACS": 121.0,
             "Average K/D": 0.5714285714285714,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Chamber"
         },
         "@squidyy": {
             "Riot Id": "SquidYa0#090",
             "Rank": "Gold",
             "Average ACS": 161.5,
             "Average K/D": 0.8285714285714286,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Cypher"
         },
         "@cmoneygaming": {
             "Riot Id": "CmoneyGaming#Dodge",

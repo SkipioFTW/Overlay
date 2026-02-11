@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Pearl": "0.0%",
         "Corrode": "50.0%",
-        "Bind": "0.0%"
+        "Bind": "0.0%",
+        "f": "100.0%"
     },
     "players": {
         "@vic.bum": {
@@ -22,7 +23,7 @@
             "Rank": "Diamond",
             "Average ACS": 128.5,
             "Average K/D": 0.45454545454545453,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Iso"
         },
         "@ntry": {
             "Riot Id": "Ntry#bang",
@@ -36,7 +37,7 @@
             "Rank": "Gold",
             "Average ACS": 144.0,
             "Average K/D": 0.6111111111111112,
-            "Most Played Agent": "Vyse"
+            "Most Played Agent": "Cypher"
         },
         "@luv.em": {
             "Riot Id": "3mxter#void",

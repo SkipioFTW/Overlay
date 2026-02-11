@@ -8,7 +8,8 @@
         "Bind": "100.0%",
         "Abyss": "100.0%",
         "Pearl": "0.0%",
-        "Haven": "0.0%"
+        "Haven": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@chief_queef___10708": {
@@ -23,7 +24,7 @@
             "Rank": "Platinum",
             "Average ACS": 193.66666666666666,
             "Average K/D": 0.75,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Astra"
         },
         "@coolerchill": {
             "Riot Id": "Coolerchill#cool",

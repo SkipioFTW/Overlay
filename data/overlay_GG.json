@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Corrode": "50.0%",
         "Bind": "0.0%",
-        "Haven": "0.0%"
+        "Haven": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@dwt507": {
@@ -42,7 +43,7 @@
             "Riot Id": "Nabber#liz",
             "Rank": "Immortal 1/2",
             "Average ACS": 365.25,
-            "Average K/D": 1.8412698412698412,
+            "Average K/D": 1.8412698412698414,
             "Most Played Agent": "Viper"
         }
     }

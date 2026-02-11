@@ -8,7 +8,8 @@
         "Haven": "100.0%",
         "Bind": "0.0%",
         "Pearl": "0.0%",
-        "Abyss": "100.0%"
+        "Abyss": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@sweepzjr": {
@@ -30,21 +31,21 @@
             "Rank": "Platinum",
             "Average ACS": 196.66666666666666,
             "Average K/D": 1.0238095238095237,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Fade"
         },
         "@t1dal.wave": {
             "Riot Id": "t1dalwave#MSST",
             "Rank": "Iron/Bronze",
             "Average ACS": 160.0,
             "Average K/D": 0.6976744186046512,
-            "Most Played Agent": "Veto"
+            "Most Played Agent": "Deadlock"
         },
         "@superfly7124": {
             "Riot Id": "Superf1ytv#Perc",
             "Rank": "Platinum",
             "Average ACS": 173.0,
             "Average K/D": 0.9473684210526315,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Fade"
         }
     }
 }

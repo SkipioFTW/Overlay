@@ -1,13 +1,14 @@
 {
     "team": "LGKS",
     "team_averages": {
-        "avg_acs": 201.93,
+        "avg_acs": 201.92,
         "avg_kd": 0.99
     },
     "map_win_rates": {
         "Haven": "100.0%",
         "Bind": "0.0%",
-        "Split": "100.0%"
+        "Split": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@drakken_": {
@@ -29,21 +30,21 @@
             "Rank": "Diamond",
             "Average ACS": 306.25,
             "Average K/D": 1.5862068965517242,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Chamber"
         },
         "@mikkitw": {
             "Riot Id": "MikkitW#ttv",
             "Rank": "Silver",
             "Average ACS": 102.75,
             "Average K/D": 0.509090909090909,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Killjoy"
         },
         "@julezzz06": {
             "Riot Id": "Julezzz06#6708",
             "Rank": "Iron/Bronze",
             "Average ACS": 83.0,
             "Average K/D": 0.4897959183673469,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Fade"
         }
     }
 }

@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Corrode": "100.0%",
         "Haven": "100.0%",
-        "Pearl": "0.0%"
+        "Pearl": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@impod": {
@@ -22,7 +23,7 @@
             "Rank": "Immortal 1/2",
             "Average ACS": 309.3333333333333,
             "Average K/D": 1.2830188679245282,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Clove"
         },
         "@iceboats": {
             "Riot Id": "Miku#Big B",

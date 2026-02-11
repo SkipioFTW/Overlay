@@ -7,7 +7,7 @@
     "map_win_rates": {
         "Split": "0.0%",
         "Haven": "0.0%",
-        "f": "100.0%",
+        "f": "50.0%",
         "Bind": "100.0%"
     },
     "players": {
@@ -23,14 +23,14 @@
             "Rank": "Platinum",
             "Average ACS": 114.5,
             "Average K/D": 0.4117647058823529,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Neon"
         },
         "@vdup": {
             "Riot Id": "julie#aim",
             "Rank": "Diamond",
             "Average ACS": 257.3333333333333,
             "Average K/D": 1.1224489795918366,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Jett"
         },
         "@.sprees": {
             "Riot Id": "Ping#China",

@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Split": "50.0%",
         "Haven": "0.0%",
-        "Bind": "0.0%"
+        "Bind": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@psi_pkchu": {
@@ -29,7 +30,7 @@
             "Rank": "Platinum",
             "Average ACS": 200.0,
             "Average K/D": 0.8714285714285714,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Clove"
         },
         "@hjkikimorx2": {
             "Riot Id": "donny#dal",

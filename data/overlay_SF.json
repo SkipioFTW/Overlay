@@ -7,7 +7,7 @@
     "map_win_rates": {
         "Split": "100.0%",
         "Haven": "0.0%",
-        "Abyss": "100.0%"
+        "f": "0.0%"
     },
     "players": {
         "@gohawks413": {
@@ -15,34 +15,34 @@
             "Rank": "Iron/Bronze",
             "Average ACS": 84.5,
             "Average K/D": 0.35294117647058826,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Sage"
         },
         "@greenhumanbeing.": {
             "Riot Id": "gweenest#being",
             "Rank": "Silver",
-            "Average ACS": 182.0,
-            "Average K/D": 1.0,
-            "Most Played Agent": "Skye"
+            "Average ACS": 200.33333333333334,
+            "Average K/D": 1.0810810810810811,
+            "Most Played Agent": "Clove"
         },
         "@_mcren": {
             "Riot Id": "Midnight#LFD",
             "Rank": "Diamond",
             "Average ACS": 246.0,
             "Average K/D": 1.2,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Clove"
         },
         "@v3zy.": {
             "Riot Id": "vezyy#patos",
             "Rank": "Platinum",
             "Average ACS": 229.0,
             "Average K/D": 0.9375,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Clove"
         },
         "@boostedv3": {
             "Riot Id": "boostedv3#4969",
             "Rank": "Diamond",
-            "Average ACS": 327.75,
-            "Average K/D": 1.5862068965517242,
+            "Average ACS": 360.0,
+            "Average K/D": 1.6521739130434783,
             "Most Played Agent": "Raze"
         }
     }

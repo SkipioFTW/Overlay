@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Bind": "0.0%",
         "Haven": "50.0%",
-        "Split": "100.0%"
+        "Split": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@scar6859": {
@@ -29,7 +30,7 @@
             "Rank": "Immortal 1/2",
             "Average ACS": 358.75,
             "Average K/D": 1.734375,
-            "Most Played Agent": "Waylay"
+            "Most Played Agent": "Reyna"
         },
         "@klyoko": {
             "Riot Id": "oKamura#XIC",

@@ -6,14 +6,15 @@
     },
     "map_win_rates": {
         "Split": "0.0%",
-        "Haven": "100.0%"
+        "Haven": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@dilligent12": {
             "Riot Id": "itachi#tuff",
             "Rank": "Gold",
             "Average ACS": 249.75,
-            "Average K/D": 1.1304347826086956,
+            "Average K/D": 1.1304347826086958,
             "Most Played Agent": "Raze"
         },
         "@fraudulent0200": {
@@ -21,7 +22,7 @@
             "Rank": "Silver",
             "Average ACS": 98.5,
             "Average K/D": 0.4827586206896552,
-            "Most Played Agent": "Deadlock"
+            "Most Played Agent": "Cypher"
         },
         "@littlebeo927": {
             "Riot Id": "bobbysauce#mild",
@@ -41,7 +42,7 @@
             "Riot Id": "DKgaz YT#Gay",
             "Rank": "Diamond",
             "Average ACS": 308.25,
-            "Average K/D": 1.8275862068965518,
+            "Average K/D": 1.8275862068965516,
             "Most Played Agent": "Skye"
         }
     }

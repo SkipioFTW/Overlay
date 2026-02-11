@@ -7,7 +7,7 @@
     "map_win_rates": {
         "Breeze": "50.0%",
         "Bind": "100.0%",
-        "f": "100.0%"
+        "f": "50.0%"
     },
     "players": {
         "@ladybug_glhf": {
@@ -36,7 +36,7 @@
             "Rank": "Silver",
             "Average ACS": 154.5,
             "Average K/D": 0.7377049180327869,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Breach"
         },
         "@imnotkorean": {
             "Riot Id": "Hv0ung#123",

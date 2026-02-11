@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Split": "0.0%",
         "Bind": "0.0%",
-        "Haven": "0.0%"
+        "Haven": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@fortniteenjoyer": {
@@ -15,7 +16,7 @@
             "Rank": "Silver",
             "Average ACS": 118.5,
             "Average K/D": 0.4935064935064935,
-            "Most Played Agent": "Tejo"
+            "Most Played Agent": "Chamber"
         },
         "@merrt": {
             "Riot Id": "merrt#doom",
@@ -29,7 +30,7 @@
             "Rank": "Ascendant",
             "Average ACS": 256.5,
             "Average K/D": 1.0116279069767442,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Clove"
         },
         "@wolf0057": {
             "Riot Id": "WOLF#TRASH",
@@ -43,7 +44,7 @@
             "Rank": "Gold",
             "Average ACS": 174.66666666666666,
             "Average K/D": 0.9166666666666666,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Clove"
         }
     }
 }

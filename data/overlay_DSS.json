@@ -1,12 +1,13 @@
 {
     "team": "DSS",
     "team_averages": {
-        "avg_acs": 199.43,
+        "avg_acs": 199.42,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "50.0%",
-        "Bind": "0.0%"
+        "Bind": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@trombonemannoah": {
@@ -14,7 +15,7 @@
             "Rank": "Diamond",
             "Average ACS": 226.25,
             "Average K/D": 1.2419354838709677,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Brimstone"
         },
         "@_toastlord": {
             "Riot Id": "FrenchToast#dss",
@@ -42,7 +43,7 @@
             "Rank": "Iron/Bronze",
             "Average ACS": 93.0,
             "Average K/D": 0.42857142857142855,
-            "Most Played Agent": "Tejo"
+            "Most Played Agent": "Fade"
         }
     }
 }

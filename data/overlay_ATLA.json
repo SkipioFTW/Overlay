@@ -1,13 +1,14 @@
 {
     "team": "ATLA",
     "team_averages": {
-        "avg_acs": 211.57,
+        "avg_acs": 211.58,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "0.0%",
         "Split": "0.0%",
-        "Corrode": "100.0%"
+        "Corrode": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@k1ng_razorr": {
@@ -42,7 +43,7 @@
             "Riot Id": "saiki k#caffe",
             "Rank": "Platinum",
             "Average ACS": 287.25,
-            "Average K/D": 1.5636363636363637,
+            "Average K/D": 1.5636363636363635,
             "Most Played Agent": "Fade"
         }
     }

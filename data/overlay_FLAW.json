@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Corrode": "0.0%",
         "Split": "0.0%",
-        "Abyss": "0.0%"
+        "Abyss": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@pigeonwithsniper": {
@@ -15,7 +16,7 @@
             "Rank": "Iron/Bronze",
             "Average ACS": 99.33333333333333,
             "Average K/D": 0.37037037037037035,
-            "Most Played Agent": "Sage"
+            "Most Played Agent": "Cypher"
         },
         "@uh.oh.spaghettio_75725": {
             "Riot Id": "cultr1de#zen",
@@ -29,7 +30,7 @@
             "Rank": "Diamond",
             "Average ACS": 243.25,
             "Average K/D": 1.0422535211267605,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Waylay"
         },
         "@nick305x": {
             "Riot Id": "DFM Fan Moss#Gon",

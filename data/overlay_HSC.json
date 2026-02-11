@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Corrode": "0.0%",
-        "Breeze": "0.0%"
+        "Breeze": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@mayflower1324": {
@@ -21,7 +22,7 @@
             "Rank": "Ascendant",
             "Average ACS": 274.5,
             "Average K/D": 1.2419354838709677,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Fade"
         },
         "@commi_killer": {
             "Riot Id": "WiffMagnet#777",
@@ -42,7 +43,7 @@
             "Rank": "Gold",
             "Average ACS": 193.66666666666666,
             "Average K/D": 1.0,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Fade"
         }
     }
 }

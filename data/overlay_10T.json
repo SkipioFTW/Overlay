@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Split": "100.0%",
         "Bind": "50.0%",
-        "Breeze": "0.0%"
+        "Breeze": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@lkwamazing9": {
@@ -15,7 +16,7 @@
             "Rank": "Gold",
             "Average ACS": 193.66666666666666,
             "Average K/D": 0.8596491228070176,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Brimstone"
         },
         "@penguinz": {
             "Riot Id": "Penguin#P0LAR",
@@ -43,7 +44,7 @@
             "Rank": "Ascendant",
             "Average ACS": 297.5,
             "Average K/D": 1.4927536231884058,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Jett"
         }
     }
 }

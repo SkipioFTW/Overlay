@@ -8,7 +8,7 @@
         "Haven": "0.0%",
         "Split": "0.0%",
         "Bind": "0.0%",
-        "f": "100.0%"
+        "f": "50.0%"
     },
     "players": {
         "@zyroni": {
@@ -23,14 +23,14 @@
             "Rank": "Silver",
             "Average ACS": 172.0,
             "Average K/D": 0.9354838709677419,
-            "Most Played Agent": "Deadlock"
+            "Most Played Agent": "Clove"
         },
         "@chadmama": {
             "Riot Id": "CatInABox#catt",
             "Rank": "Platinum",
             "Average ACS": 214.0,
             "Average K/D": 1.0,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Breach"
         },
         "@bigsxyrvg": {
             "Riot Id": "NaKo888RvG#NA2",

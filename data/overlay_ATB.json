@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Split": "100.0%",
-        "Haven": "50.0%"
+        "Haven": "50.0%",
+        "f": "0.0%"
     },
     "players": {
         "@clawsator": {
@@ -14,14 +15,14 @@
             "Rank": "Ascendant",
             "Average ACS": 307.14285714285717,
             "Average K/D": 1.456,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Fade"
         },
         "@jawator": {
             "Riot Id": "JAWS#ATOR",
             "Rank": "Ascendant",
             "Average ACS": 305.75,
-            "Average K/D": 1.6615384615384616,
-            "Most Played Agent": "Yoru"
+            "Average K/D": 1.6615384615384614,
+            "Most Played Agent": "Chamber"
         },
         "@mention": {
             "Riot Id": "RipWideJoy#sleep",
@@ -35,7 +36,7 @@
             "Rank": "Iron/Bronze",
             "Average ACS": 121.0,
             "Average K/D": 0.6865671641791045,
-            "Most Played Agent": "Vyse"
+            "Most Played Agent": "Fade"
         },
         "@pender": {
             "Riot Id": "pender#goat",

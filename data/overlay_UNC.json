@@ -1,13 +1,14 @@
 {
     "team": "UNC",
     "team_averages": {
-        "avg_acs": 208.07,
+        "avg_acs": 208.08,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "100.0%",
         "Bind": "100.0%",
-        "Pearl": "100.0%"
+        "Pearl": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@wanderboi.": {
@@ -20,15 +21,15 @@
         "@mkn_pancakes": {
             "Riot Id": "mugi#her",
             "Rank": "Ascendant",
-            "Average ACS": 347.8333333333333,
-            "Average K/D": 1.7792207792207793,
+            "Average ACS": 357.0,
+            "Average K/D": 1.9180327868852458,
             "Most Played Agent": "Jett"
         },
         "@breezvy": {
             "Riot Id": "Uncle Bill#unc",
             "Rank": "Immortal 1/2",
             "Average ACS": 334.25,
-            "Average K/D": 2.227272727272727,
+            "Average K/D": 2.2272727272727275,
             "Most Played Agent": "Reyna"
         },
         "@_smither": {

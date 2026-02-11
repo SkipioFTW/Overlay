@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Split": "66.66666666666666%",
-        "Corrode": "0.0%"
+        "Corrode": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@dipinchocolate": {

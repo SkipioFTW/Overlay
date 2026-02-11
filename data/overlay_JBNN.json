@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Haven": "100.0%",
         "Corrode": "100.0%",
-        "Bind": "100.0%"
+        "Bind": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@imsombr": {
@@ -15,7 +16,7 @@
             "Rank": "Gold",
             "Average ACS": 243.25,
             "Average K/D": 1.1833333333333333,
-            "Most Played Agent": "Waylay"
+            "Most Played Agent": "Jett"
         },
         "@depeaa": {
             "Riot Id": "dep#high",
@@ -29,7 +30,7 @@
             "Rank": "Gold",
             "Average ACS": 237.25,
             "Average K/D": 1.3495145631067962,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "KAY/O"
         },
         "@bloodhunter": {
             "Riot Id": "BloodHunter#2329",

@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Bind": "0.0%",
         "Corrode": "100.0%",
-        "Haven": "50.0%"
+        "Haven": "50.0%",
+        "f": "0.0%"
     },
     "players": {
         "@bransxn": {
@@ -22,14 +23,14 @@
             "Rank": "Platinum",
             "Average ACS": 240.0,
             "Average K/D": 1.28,
-            "Most Played Agent": "KAY/O"
+            "Most Played Agent": "Gekko"
         },
         "@rubby3352": {
             "Riot Id": "reggie#8541",
             "Rank": "Ascendant",
             "Average ACS": 270.25,
             "Average K/D": 1.1818181818181819,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Fade"
         },
         "@jul.i.ane": {
             "Riot Id": "JovesRedRuby#BRUH",

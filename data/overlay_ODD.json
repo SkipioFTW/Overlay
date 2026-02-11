@@ -1,13 +1,13 @@
 {
     "team": "ODD",
     "team_averages": {
-        "avg_acs": 213.03,
+        "avg_acs": 211.8,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "50.0%",
         "Split": "100.0%",
-        "Abyss": "0.0%"
+        "f": "50.0%"
     },
     "players": {
         "@fsjose": {
@@ -15,21 +15,21 @@
             "Rank": "Ascendant",
             "Average ACS": 215.0,
             "Average K/D": 1.0232558139534884,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Cypher"
         },
         "@_e_c_o_": {
             "Riot Id": "jamji#wee",
             "Rank": "Immortal 1/2",
-            "Average ACS": 409.3333333333333,
-            "Average K/D": 1.8444444444444446,
+            "Average ACS": 431.5,
+            "Average K/D": 2.111111111111111,
             "Most Played Agent": "Reyna"
         },
         "@hamidr9": {
             "Riot Id": "hamon#2394",
             "Rank": "Iron/Bronze",
-            "Average ACS": 111.66666666666667,
-            "Average K/D": 0.5813953488372093,
-            "Most Played Agent": "Sova"
+            "Average ACS": 94.5,
+            "Average K/D": 0.5185185185185185,
+            "Most Played Agent": "Gekko"
         },
         "@ilovecattz1_49785": {
             "Riot Id": "haunt#1212",
@@ -41,8 +41,8 @@
         "@yourantidepressant_": {
             "Riot Id": "i fill#loser",
             "Rank": "Platinum",
-            "Average ACS": 186.0,
-            "Average K/D": 0.8548387096774194,
+            "Average ACS": 200.66666666666666,
+            "Average K/D": 0.9565217391304348,
             "Most Played Agent": "Jett"
         }
     }

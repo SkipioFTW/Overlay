@@ -5,7 +5,7 @@
         "avg_kd": 1.0
     },
     "map_win_rates": {
-        "f": "50.0%",
+        "f": "33.33333333333333%",
         "Abyss": "0.0%",
         "Haven": "100.0%"
     },
@@ -43,7 +43,7 @@
             "Rank": "Platinum",
             "Average ACS": 212.5,
             "Average K/D": 1.2352941176470589,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Gekko"
         }
     }
 }

@@ -8,7 +8,8 @@
         "Haven": "100.0%",
         "Breeze": "100.0%",
         "Split": "0.0%",
-        "Corrode": "100.0%"
+        "Corrode": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@cooltcm": {
@@ -42,8 +43,8 @@
         "@ilomilod": {
             "Riot Id": "louphoria#0228",
             "Rank": "Diamond",
-            "Average ACS": 260.0,
-            "Average K/D": 1.271186440677966,
+            "Average ACS": 230.66666666666666,
+            "Average K/D": 1.1904761904761905,
             "Most Played Agent": "Raze"
         }
     }

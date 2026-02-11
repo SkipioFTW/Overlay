@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Bind": "100.0%",
-        "Haven": "33.33333333333333%"
+        "Haven": "33.33333333333333%",
+        "f": "0.0%"
     },
     "players": {
         "@fw.scrub": {
@@ -34,7 +35,7 @@
             "Riot Id": "ACA Puff#9733",
             "Rank": "Diamond",
             "Average ACS": 256.0,
-            "Average K/D": 1.3157894736842106,
+            "Average K/D": 1.3157894736842104,
             "Most Played Agent": "Sova"
         },
         "@bowsamonya": {
