@@ -25,13 +25,6 @@
             "Average K/D": 1.4901960784313726,
             "Most Played Agent": "Clove"
         },
-        "@kroppii": {
-            "Riot Id": "s1n#anna",
-            "Rank": "Immortal 1/2",
-            "Average ACS": 341.5,
-            "Average K/D": 2.0816326530612246,
-            "Most Played Agent": "Reyna"
-        },
         "@prachan": {
             "Riot Id": "Erischan#777",
             "Rank": "Iron/Bronze",
@@ -45,6 +38,13 @@
             "Average ACS": 145.6,
             "Average K/D": 0.7878787878787878,
             "Most Played Agent": "Vyse"
+        },
+        "@kroppii": {
+            "Riot Id": "s1n#anna",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 341.5,
+            "Average K/D": 2.0816326530612246,
+            "Most Played Agent": "Reyna"
         }
     }
 }

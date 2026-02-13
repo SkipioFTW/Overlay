@@ -1,50 +1,50 @@
 {
     "team": "FLAW",
     "team_averages": {
-        "avg_acs": 209.25,
+        "avg_acs": 210.1,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "0.0%",
         "Split": "0.0%",
         "Abyss": "0.0%",
-        "f": "0.0%"
+        "Bind": "0.0%"
     },
     "players": {
         "@pigeonwithsniper": {
             "Riot Id": "Pigeonwithsniper#IRON1",
             "Rank": "Iron/Bronze",
-            "Average ACS": 99.33333333333333,
-            "Average K/D": 0.37037037037037035,
-            "Most Played Agent": "Cypher"
-        },
-        "@uh.oh.spaghettio_75725": {
-            "Riot Id": "cultr1de#zen",
-            "Rank": "Silver",
-            "Average ACS": 184.0,
-            "Average K/D": 0.9230769230769231,
-            "Most Played Agent": "Omen"
+            "Average ACS": 113.25,
+            "Average K/D": 0.4507042253521127,
+            "Most Played Agent": "Brimstone"
         },
         "@syno_ow": {
             "Riot Id": "Syno#eevee",
             "Rank": "Diamond",
-            "Average ACS": 243.25,
-            "Average K/D": 1.0422535211267605,
+            "Average ACS": 231.8,
+            "Average K/D": 0.9887640449438202,
             "Most Played Agent": "Waylay"
         },
         "@nick305x": {
             "Riot Id": "DFM Fan Moss#Gon",
             "Rank": "Diamond",
-            "Average ACS": 210.75,
-            "Average K/D": 0.9420289855072463,
+            "Average ACS": 190.4,
+            "Average K/D": 0.8604651162790697,
             "Most Played Agent": "Sova"
         },
         "@icyhotloser": {
             "Riot Id": "Shoto#IcyHo",
             "Rank": "Platinum",
-            "Average ACS": 207.2,
-            "Average K/D": 1.0,
+            "Average ACS": 218.66666666666666,
+            "Average K/D": 1.0594059405940595,
             "Most Played Agent": "Chamber"
+        },
+        "@welovenb": {
+            "Riot Id": "nb1#zera",
+            "Rank": "Diamond",
+            "Average ACS": 324.0,
+            "Average K/D": 1.625,
+            "Most Played Agent": "Viper"
         }
     }
 }

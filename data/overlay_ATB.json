@@ -1,27 +1,34 @@
 {
     "team": "ATB",
     "team_averages": {
-        "avg_acs": 211.0,
+        "avg_acs": 211.94,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Split": "100.0%",
         "Haven": "50.0%",
-        "f": "0.0%"
+        "Bind": "100.0%"
     },
     "players": {
         "@clawsator": {
             "Riot Id": "CLAWS#ATOR",
             "Rank": "Ascendant",
-            "Average ACS": 307.14285714285717,
-            "Average K/D": 1.456,
+            "Average ACS": 302.875,
+            "Average K/D": 1.4335664335664335,
             "Most Played Agent": "Fade"
+        },
+        "@pender": {
+            "Riot Id": "pender#goat",
+            "Rank": "Ascendant",
+            "Average ACS": 269.4,
+            "Average K/D": 1.2307692307692308,
+            "Most Played Agent": "Omen"
         },
         "@jawator": {
             "Riot Id": "JAWS#ATOR",
             "Rank": "Ascendant",
-            "Average ACS": 305.75,
-            "Average K/D": 1.6615384615384614,
+            "Average ACS": 308.8,
+            "Average K/D": 1.6341463414634145,
             "Most Played Agent": "Chamber"
         },
         "@mention": {
@@ -34,16 +41,9 @@
         "@enyarjaja": {
             "Riot Id": "ikeabear#SKOG",
             "Rank": "Iron/Bronze",
-            "Average ACS": 121.0,
-            "Average K/D": 0.6865671641791045,
-            "Most Played Agent": "Fade"
-        },
-        "@pender": {
-            "Riot Id": "pender#goat",
-            "Rank": "Ascendant",
-            "Average ACS": 264.5,
-            "Average K/D": 1.2361111111111112,
-            "Most Played Agent": "Omen"
+            "Average ACS": 113.0,
+            "Average K/D": 0.6190476190476191,
+            "Most Played Agent": "Killjoy"
         }
     }
 }

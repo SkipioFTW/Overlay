@@ -1,42 +1,41 @@
 {
     "team": "LGKS",
     "team_averages": {
-        "avg_acs": 201.92,
-        "avg_kd": 0.99
+        "avg_acs": 203.68,
+        "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "100.0%",
         "Bind": "0.0%",
-        "Split": "100.0%",
-        "f": "0.0%"
+        "Split": "100.0%"
     },
     "players": {
         "@drakken_": {
             "Riot Id": "Drakken#miro",
             "Rank": "Diamond",
-            "Average ACS": 227.4,
-            "Average K/D": 1.0526315789473684,
+            "Average ACS": 224.0,
+            "Average K/D": 1.064516129032258,
             "Most Played Agent": "Omen"
         },
         "@s0ckfps": {
             "Riot Id": "s0ck#yap",
             "Rank": "Immortal 1/2",
-            "Average ACS": 367.6666666666667,
-            "Average K/D": 2.6666666666666665,
+            "Average ACS": 398.0,
+            "Average K/D": 2.7142857142857144,
             "Most Played Agent": "Waylay"
         },
         "@jonuchappy": {
             "Riot Id": "jonuchappy#bappy",
             "Rank": "Diamond",
-            "Average ACS": 306.25,
-            "Average K/D": 1.5862068965517242,
+            "Average ACS": 295.8,
+            "Average K/D": 1.5263157894736843,
             "Most Played Agent": "Chamber"
         },
         "@mikkitw": {
             "Riot Id": "MikkitW#ttv",
             "Rank": "Silver",
-            "Average ACS": 102.75,
-            "Average K/D": 0.509090909090909,
+            "Average ACS": 98.4,
+            "Average K/D": 0.4520547945205479,
             "Most Played Agent": "Killjoy"
         },
         "@julezzz06": {

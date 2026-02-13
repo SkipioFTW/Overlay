@@ -1,49 +1,48 @@
 {
     "team": "SK",
     "team_averages": {
-        "avg_acs": 199.9,
+        "avg_acs": 202.5,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "50.0%",
-        "Corrode": "100.0%",
-        "f": "0.0%"
+        "Corrode": "66.66666666666666%"
     },
     "players": {
         "@your_local_asain_midget": {
             "Riot Id": "YukiForce1#NA1",
             "Rank": "Gold",
-            "Average ACS": 155.0,
-            "Average K/D": 0.8769230769230769,
+            "Average ACS": 146.2,
+            "Average K/D": 0.7951807228915663,
             "Most Played Agent": "Omen"
         },
         "@limit7078": {
             "Riot Id": "Limit80#NA1",
             "Rank": "Platinum",
-            "Average ACS": 180.25,
-            "Average K/D": 0.8428571428571429,
+            "Average ACS": 193.2,
+            "Average K/D": 0.8977272727272727,
             "Most Played Agent": "Waylay"
-        },
-        "@nickjunyor": {
-            "Riot Id": "El Psy Kongroo#Skuld",
-            "Rank": "Diamond",
-            "Average ACS": 270.3636363636364,
-            "Average K/D": 1.584507042253521,
-            "Most Played Agent": "Sova"
         },
         "@haylo995": {
             "Riot Id": "HayLo995#Boss",
             "Rank": "Iron/Bronze",
-            "Average ACS": 118.0,
-            "Average K/D": 0.578125,
+            "Average ACS": 121.0,
+            "Average K/D": 0.5783132530120482,
             "Most Played Agent": "Chamber"
         },
         "@justcallmebot": {
             "Riot Id": "Ophi#blind",
             "Rank": "Immortal 1/2",
-            "Average ACS": 311.4,
-            "Average K/D": 1.6666666666666667,
+            "Average ACS": 312.3333333333333,
+            "Average K/D": 1.5862068965517242,
             "Most Played Agent": "Phoenix"
+        },
+        "@nickjunyor": {
+            "Riot Id": "El Psy Kongroo#Skuld",
+            "Rank": "Diamond",
+            "Average ACS": 266.46153846153845,
+            "Average K/D": 1.4943181818181819,
+            "Most Played Agent": "Sova"
         }
     }
 }

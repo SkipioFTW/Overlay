@@ -11,6 +11,13 @@
         "f": "0.0%"
     },
     "players": {
+        "@zynder16": {
+            "Riot Id": "ZANGETSU#ROIT",
+            "Rank": "Gold",
+            "Average ACS": 195.0,
+            "Average K/D": 0.696969696969697,
+            "Most Played Agent": "Reyna"
+        },
         "@beesmii": {
             "Riot Id": "Beesmii#mwah",
             "Rank": "Gold",
@@ -31,13 +38,6 @@
             "Average ACS": 200.33333333333334,
             "Average K/D": 1.0425531914893618,
             "Most Played Agent": "Skye"
-        },
-        "@zynder16": {
-            "Riot Id": "ZANGETSU#ROIT",
-            "Rank": "Gold",
-            "Average ACS": 195.0,
-            "Average K/D": 0.696969696969697,
-            "Most Played Agent": "Reyna"
         },
         "@pinkublink": {
             "Riot Id": "Ken Gyo#BLINK",

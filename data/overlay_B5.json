@@ -1,48 +1,47 @@
 {
     "team": "B5",
     "team_averages": {
-        "avg_acs": 211.05,
+        "avg_acs": 207.08,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "100.0%",
-        "Corrode": "50.0%",
-        "f": "0.0%"
+        "Corrode": "50.0%"
     },
     "players": {
         "@dannyyf": {
             "Riot Id": "d4nny#0011",
             "Rank": "Immortal 1/2",
-            "Average ACS": 329.1,
-            "Average K/D": 1.641025641025641,
+            "Average ACS": 333.54545454545456,
+            "Average K/D": 1.6706586826347305,
             "Most Played Agent": "Yoru"
         },
         "@noahet": {
             "Riot Id": "NOAHZONES#love",
             "Rank": "Immortal 1/2",
-            "Average ACS": 401.4,
-            "Average K/D": 2.076923076923077,
+            "Average ACS": 390.8333333333333,
+            "Average K/D": 2.1904761904761907,
             "Most Played Agent": "Jett"
         },
         "@choccy1672": {
             "Riot Id": "bbL#monke",
             "Rank": "Platinum",
-            "Average ACS": 199.5,
-            "Average K/D": 0.967032967032967,
+            "Average ACS": 214.28571428571428,
+            "Average K/D": 1.07,
             "Most Played Agent": "Deadlock"
         },
         "@carseatgaming": {
             "Riot Id": "carseatgaming#sad",
             "Rank": "Iron/Bronze",
-            "Average ACS": 122.0,
-            "Average K/D": 0.5609756097560976,
+            "Average ACS": 115.16666666666667,
+            "Average K/D": 0.5666666666666667,
             "Most Played Agent": "Viper"
         },
         "@st.scoop": {
             "Riot Id": "Milkk#2121",
             "Rank": "Iron/Bronze",
-            "Average ACS": 90.5,
-            "Average K/D": 0.484375,
+            "Average ACS": 95.0,
+            "Average K/D": 0.5285714285714286,
             "Most Played Agent": "Fade"
         }
     }

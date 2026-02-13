@@ -1,48 +1,48 @@
 {
     "team": "DSS",
     "team_averages": {
-        "avg_acs": 199.42,
+        "avg_acs": 201.18,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "50.0%",
         "Bind": "0.0%",
-        "f": "0.0%"
+        "Split": "100.0%"
     },
     "players": {
         "@trombonemannoah": {
             "Riot Id": "TromboneManNoah#dss",
             "Rank": "Diamond",
-            "Average ACS": 226.25,
-            "Average K/D": 1.2419354838709677,
+            "Average ACS": 225.0,
+            "Average K/D": 1.205128205128205,
             "Most Played Agent": "Brimstone"
         },
         "@_toastlord": {
             "Riot Id": "FrenchToast#dss",
             "Rank": "Diamond",
-            "Average ACS": 256.25,
-            "Average K/D": 1.121212121212121,
+            "Average ACS": 272.6,
+            "Average K/D": 1.2784810126582278,
             "Most Played Agent": "Raze"
         },
         "@jackk.frost": {
             "Riot Id": "frost#2118",
             "Rank": "Diamond",
-            "Average ACS": 186.5,
-            "Average K/D": 0.9833333333333333,
+            "Average ACS": 191.2,
+            "Average K/D": 1.0833333333333333,
             "Most Played Agent": "Yoru"
         },
         "@mr.physicsgod": {
             "Riot Id": "BigSlime#BS69",
             "Rank": "Platinum",
-            "Average ACS": 238.0,
-            "Average K/D": 1.2,
+            "Average ACS": 235.6,
+            "Average K/D": 1.2098765432098766,
             "Most Played Agent": "Cypher"
         },
         "@fife0123": {
             "Riot Id": "FIFE01#3292",
             "Rank": "Iron/Bronze",
-            "Average ACS": 93.0,
-            "Average K/D": 0.42857142857142855,
+            "Average ACS": 106.2,
+            "Average K/D": 0.4878048780487805,
             "Most Played Agent": "Fade"
         }
     }

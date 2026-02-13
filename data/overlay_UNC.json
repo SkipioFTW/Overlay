@@ -1,49 +1,48 @@
 {
     "team": "UNC",
     "team_averages": {
-        "avg_acs": 208.08,
+        "avg_acs": 209.42,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "100.0%",
         "Bind": "100.0%",
-        "Pearl": "100.0%",
-        "f": "0.0%"
+        "Pearl": "100.0%"
     },
     "players": {
         "@wanderboi.": {
             "Riot Id": "Wander#Mhm",
             "Rank": "Silver",
-            "Average ACS": 143.33333333333334,
-            "Average K/D": 0.5490196078431373,
+            "Average ACS": 170.75,
+            "Average K/D": 0.6612903225806451,
             "Most Played Agent": "Clove"
         },
         "@mkn_pancakes": {
             "Riot Id": "mugi#her",
             "Rank": "Ascendant",
-            "Average ACS": 357.0,
-            "Average K/D": 1.9180327868852458,
+            "Average ACS": 346.0,
+            "Average K/D": 1.9558823529411764,
             "Most Played Agent": "Jett"
         },
         "@breezvy": {
             "Riot Id": "Uncle Bill#unc",
             "Rank": "Immortal 1/2",
-            "Average ACS": 334.25,
-            "Average K/D": 2.2272727272727275,
+            "Average ACS": 325.4,
+            "Average K/D": 2.074074074074074,
             "Most Played Agent": "Reyna"
         },
         "@_smither": {
             "Riot Id": "FemBob#6769",
             "Rank": "Iron/Bronze",
-            "Average ACS": 140.66666666666666,
-            "Average K/D": 0.7045454545454546,
+            "Average ACS": 149.5,
+            "Average K/D": 0.84,
             "Most Played Agent": "Deadlock"
         },
         "@real_grey": {
             "Riot Id": "Grey#0430",
             "Rank": "Gold",
-            "Average ACS": 194.5,
-            "Average K/D": 1.127659574468085,
+            "Average ACS": 203.4,
+            "Average K/D": 1.2452830188679245,
             "Most Played Agent": "Gekko"
         }
     }

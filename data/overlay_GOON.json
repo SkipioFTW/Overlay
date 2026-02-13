@@ -1,49 +1,49 @@
 {
     "team": "GOON",
     "team_averages": {
-        "avg_acs": 211.2,
+        "avg_acs": 207.2,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "100.0%",
         "Haven": "100.0%",
         "Pearl": "0.0%",
-        "f": "0.0%"
+        "Bind": "0.0%"
     },
     "players": {
         "@impod": {
             "Riot Id": "alchemist#yae",
             "Rank": "Diamond",
-            "Average ACS": 263.75,
-            "Average K/D": 1.25,
-            "Most Played Agent": "Clove"
-        },
-        "@szos4n": {
-            "Riot Id": "Teto#szo",
-            "Rank": "Immortal 1/2",
-            "Average ACS": 309.3333333333333,
-            "Average K/D": 1.2830188679245282,
+            "Average ACS": 262.77777777777777,
+            "Average K/D": 1.1830065359477124,
             "Most Played Agent": "Clove"
         },
         "@iceboats": {
             "Riot Id": "Miku#Big B",
             "Rank": "Ascendant",
-            "Average ACS": 258.25,
-            "Average K/D": 1.4181818181818182,
+            "Average ACS": 254.6,
+            "Average K/D": 1.3098591549295775,
             "Most Played Agent": "Yoru"
+        },
+        "@szos4n": {
+            "Riot Id": "misaki#szo",
+            "Rank": "Immortal 1/2",
+            "Average ACS": 277.25,
+            "Average K/D": 1.1791044776119404,
+            "Most Played Agent": "Clove"
         },
         "@ilovecats7_": {
             "Riot Id": "facade#1030",
             "Rank": "Iron/Bronze",
-            "Average ACS": 109.75,
-            "Average K/D": 0.48484848484848486,
-            "Most Played Agent": "Killjoy"
+            "Average ACS": 104.6,
+            "Average K/D": 0.4567901234567901,
+            "Most Played Agent": "Cypher"
         },
         "@FeebleBoi": {
             "Riot Id": "NobaCobra#80085",
             "Rank": "Iron/Bronze",
-            "Average ACS": 122.0,
-            "Average K/D": 0.8222222222222222,
+            "Average ACS": 112.2,
+            "Average K/D": 0.6666666666666666,
             "Most Played Agent": "KAY/O"
         }
     }

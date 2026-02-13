@@ -1,14 +1,14 @@
 {
     "team": "NM1",
     "team_averages": {
-        "avg_acs": 207.45,
+        "avg_acs": 208.66,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "50.0%",
         "Pearl": "0.0%",
         "Split": "0.0%",
-        "f": "0.0%"
+        "Bind": "100.0%"
     },
     "players": {
         "@kuuderech3rryz": {
@@ -21,29 +21,29 @@
         "@sipalitor": {
             "Riot Id": "VARESAMYMOMMY#THIGH",
             "Rank": "Gold",
-            "Average ACS": 236.25,
-            "Average K/D": 1.0746268656716418,
+            "Average ACS": 214.2,
+            "Average K/D": 1.0,
             "Most Played Agent": "Killjoy"
         },
         "@766284_.": {
             "Riot Id": "NilouMyMommy#Thigh",
             "Rank": "Platinum",
-            "Average ACS": 204.25,
-            "Average K/D": 0.9230769230769231,
+            "Average ACS": 231.6,
+            "Average K/D": 1.1,
             "Most Played Agent": "Neon"
         },
         "@relatior": {
             "Riot Id": "DAHLIAMYMOMMY#THIGH",
             "Rank": "Gold",
-            "Average ACS": 181.0,
-            "Average K/D": 0.8225806451612904,
+            "Average ACS": 186.2,
+            "Average K/D": 0.8148148148148148,
             "Most Played Agent": "Sova"
         },
         "@wahakamaba": {
             "Riot Id": "HYUNJIN#FEAR",
             "Rank": "Diamond",
-            "Average ACS": 185.66666666666666,
-            "Average K/D": 0.9523809523809523,
+            "Average ACS": 176.0,
+            "Average K/D": 0.8793103448275862,
             "Most Played Agent": "Killjoy"
         }
     }
