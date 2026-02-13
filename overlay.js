@@ -2,17 +2,29 @@ const TEAMS = ['10T', 'ATB', 'ATW', 'ARX', 'B5', 'RAT', 'BP', 'CM', 'DOUG', 'DSS
 
 let intervalId = null;
 
-// Populate dropdowns
+// ─── Agent role mapping ───
+const AGENT_ROLES = {
+    jett: 'DUELIST', reyna: 'DUELIST', raze: 'DUELIST', phoenix: 'DUELIST',
+    yoru: 'DUELIST', neon: 'DUELIST', iso: 'DUELIST', waylay: 'DUELIST',
+    sova: 'INITIATOR', breach: 'INITIATOR', skye: 'INITIATOR', kayo: 'INITIATOR',
+    fade: 'INITIATOR', gekko: 'INITIATOR', tejo: 'INITIATOR',
+    brimstone: 'CONTROLLER', viper: 'CONTROLLER', omen: 'CONTROLLER',
+    astra: 'CONTROLLER', harbor: 'CONTROLLER', clove: 'CONTROLLER',
+    sage: 'SENTINEL', cypher: 'SENTINEL', killjoy: 'SENTINEL',
+    chamber: 'SENTINEL', deadlock: 'SENTINEL', vyse: 'SENTINEL', veto: 'SENTINEL'
+};
+
+// ─── Populate dropdowns ───
 function setupDropdowns() {
     const selA = document.getElementById('teamA-select');
     const selB = document.getElementById('teamB-select');
-    
     TEAMS.forEach(t => {
         selA.options.add(new Option(t, t));
         selB.options.add(new Option(t, t));
     });
 }
 
+// ─── Load JSON ───
 async function loadTeamData(teamName) {
     try {
         const response = await fetch(`./data/overlay_${teamName}.json`);
@@ -21,57 +33,155 @@ async function loadTeamData(teamName) {
     } catch (e) { return null; }
 }
 
-function renderTeam(data, color) {
+// ─── Render Team View ───
+function renderTeam(data, color, isTeamA) {
     if (!data) return;
     const content = document.getElementById('view-content');
-    let playersHtml = '';
 
+    // Build player cards
+    let playersHtml = '';
     Object.entries(data.players).forEach(([handle, info]) => {
-        const agent = info["Most Played Agent"].toLowerCase();
+        const agentRaw = info["Most Played Agent"];
+        const agentLower = agentRaw.toLowerCase();
+        const role = AGENT_ROLES[agentLower] || 'AGENT';
+        const acs = Math.round(info["Average ACS"]);
+        const kd = info["Average K/D"] != null ? info["Average K/D"].toFixed(2) : '—';
+
         playersHtml += `
             <div class="player-card" style="--accent-color: ${color}">
-                <div class="agent-label">MOST PLAYED</div>
-                <img src="./agents/${agent}.jfif" class="agent-icon" onerror="this.src='agents/default.jfif'">
-                <div class="player-name">${handle}</div>
-                <div class="player-rank">${info.Rank}</div>
-                <div class="stat-box">ACS: ${Math.round(info["Average ACS"])}</div>
+                <div class="card-image-area">
+                    <img src="./agents/${agentLower}.jfif"
+                         onerror="this.style.display='none'"
+                         alt="${agentRaw}">
+                    <div class="role-badge">${role}</div>
+                </div>
+                <div class="card-info">
+                    <div class="player-name">${handle.replace('@', '')}</div>
+                    <div class="player-rank">🏆 ${info.Rank}</div>
+                    <div class="stats-grid">
+                        <div class="stat-row">
+                            <span class="stat-label">ACS</span>
+                            <span class="stat-value">${acs}</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">K/D</span>
+                            <span class="stat-value">${kd}</span>
+                        </div>
+                    </div>
+                </div>
             </div>`;
     });
 
-    content.innerHTML = `<h1 class="team-title" style="color:${color}">TEAM ${data.team}</h1><div class="players-container">${playersHtml}</div>`;
-}
-
-function renderComparison(dataA, dataB) {
-    const content = document.getElementById('view-content');
-    const allMaps = [...new Set([...Object.keys(dataA.map_win_rates), ...Object.keys(dataB.map_win_rates)])];
-    
-    let mapsHtml = allMaps.map(map => `
-        <div class="map-row">
-            <span style="color:var(--team-a-color)">${dataA.map_win_rates[map] || '0%'}</span>
-            <span class="map-name">${map.toUpperCase()}</span>
-            <span style="color:var(--team-b-color)">${dataB.map_win_rates[map] || '0%'}</span>
-        </div>`).join('');
+    const sideLabel = isTeamA ? 'TEAM A' : 'TEAM B';
 
     content.innerHTML = `
-        <div class="comparison-layout">
-            <div class="comp-header">
-                <div class="team-info-box" style="color:var(--team-a-color)">
-                    <div>${dataA.team}</div>
-                    <div class="acs-val">${dataA.team_averages.avg_acs}</div>
-                </div>
-                <div class="vs-text">VS</div>
-                <div class="team-info-box" style="color:var(--team-b-color)">
-                    <div>${dataB.team}</div>
-                    <div class="acs-val">${dataB.team_averages.avg_acs}</div>
-                </div>
+        <div class="team-view" style="--accent-color: ${color}">
+            <div class="team-header" style="--accent-color: ${color}">
+                <div class="team-icon">${data.team}</div>
+                <div class="team-name">${data.team}</div>
+                <div class="team-side">${sideLabel}</div>
             </div>
-            <div class="maps-section">${mapsHtml}</div>
+            <div class="players-container">${playersHtml}</div>
         </div>`;
 }
 
+// ─── Render Comparison View ───
+function renderComparison(dataA, dataB) {
+    const content = document.getElementById('view-content');
+    const colorA = 'var(--team-a-color)';
+    const colorB = 'var(--team-b-color)';
+
+    // Union of all maps played by either team
+    const allMaps = [...new Set([
+        ...Object.keys(dataA.map_win_rates),
+        ...Object.keys(dataB.map_win_rates)
+    ])];
+
+    // Map rows
+    const mapsHtml = allMaps.map(map => {
+        const rateA = dataA.map_win_rates[map] || '—';
+        const rateB = dataB.map_win_rates[map] || '—';
+        return `
+            <div class="map-row">
+                <span class="map-val left" style="color:${colorA}">${rateA}</span>
+                <span class="map-name">${map.toUpperCase()}</span>
+                <span class="map-val right" style="color:${colorB}">${rateB}</span>
+            </div>`;
+    }).join('');
+
+    // Avg ACS
+    const acsA = dataA.team_averages.avg_acs;
+    const acsB = dataB.team_averages.avg_acs;
+    const acsMax = Math.max(acsA, acsB, 1);
+
+    // Avg K/D
+    const kdA = dataA.team_averages.avg_kd;
+    const kdB = dataB.team_averages.avg_kd;
+    const kdMax = Math.max(kdA, kdB, 0.01);
+
+    content.innerHTML = `
+        <div class="comparison-layout">
+            <!-- Header -->
+            <div class="comp-header">
+                <div class="comp-team-block">
+                    <div class="comp-team-name" style="color:${colorA}; --glow-color: var(--team-a-glow)">${dataA.team}</div>
+                    <span class="comp-team-side" style="color:${colorA}; border-color:${colorA}">TEAM A</span>
+                </div>
+                <div class="vs-circle">VS</div>
+                <div class="comp-team-block">
+                    <div class="comp-team-name" style="color:${colorB}; --glow-color: var(--team-b-glow)">${dataB.team}</div>
+                    <span class="comp-team-side" style="color:${colorB}; border-color:${colorB}">TEAM B</span>
+                </div>
+            </div>
+
+            <!-- Stat boxes -->
+            <div class="comp-stats-row">
+                <div class="comp-stat-pair">
+                    <div class="comp-stat-box">
+                        <div class="comp-stat-label">AVERAGE ACS</div>
+                        <div class="comp-stat-value" style="color:${colorA}">${acsA.toFixed(1)}</div>
+                        <div class="comp-stat-bar">
+                            <div class="comp-stat-bar-fill" style="width:${(acsA / acsMax * 100)}%; background:${colorA}"></div>
+                        </div>
+                    </div>
+                    <div class="comp-stat-box">
+                        <div class="comp-stat-label">AVERAGE ACS</div>
+                        <div class="comp-stat-value" style="color:${colorB}">${acsB.toFixed(1)}</div>
+                        <div class="comp-stat-bar">
+                            <div class="comp-stat-bar-fill" style="width:${(acsB / acsMax * 100)}%; background:${colorB}"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="comp-stat-pair">
+                    <div class="comp-stat-box">
+                        <div class="comp-stat-label">AVERAGE K/D</div>
+                        <div class="comp-stat-value" style="color:${colorA}">${kdA.toFixed(2)}</div>
+                        <div class="comp-stat-bar">
+                            <div class="comp-stat-bar-fill" style="width:${(kdA / kdMax * 100)}%; background:${colorA}"></div>
+                        </div>
+                    </div>
+                    <div class="comp-stat-box">
+                        <div class="comp-stat-label">AVERAGE K/D</div>
+                        <div class="comp-stat-value" style="color:${colorB}">${kdB.toFixed(2)}</div>
+                        <div class="comp-stat-bar">
+                            <div class="comp-stat-bar-fill" style="width:${(kdB / kdMax * 100)}%; background:${colorB}"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Map win rates -->
+            <div class="maps-section">
+                <div class="maps-section-header">MAP WIN RATES</div>
+                ${mapsHtml}
+            </div>
+        </div>`;
+}
+
+// ─── Animation Cycle ───
 async function startAnimation(teamA, teamB) {
     if (intervalId) clearInterval(intervalId);
-    
+
     const dataA = await loadTeamData(teamA);
     const dataB = await loadTeamData(teamB);
 
@@ -82,17 +192,17 @@ async function startAnimation(teamA, teamB) {
 
     let state = 0;
     const cycle = () => {
-        if (state === 0) renderTeam(dataA, '#add8e6');
-        else if (state === 1) renderTeam(dataB, '#ff4b4b');
+        if (state === 0) renderTeam(dataA, '#00e5ff', true);
+        else if (state === 1) renderTeam(dataB, '#ff4655', false);
         else renderComparison(dataA, dataB);
         state = (state + 1) % 3;
     };
-    
+
     cycle();
     intervalId = setInterval(cycle, 10000);
 }
 
-// Save to storage and start
+// ─── Controls ───
 function applySettings() {
     const a = document.getElementById('teamA-select').value;
     const b = document.getElementById('teamB-select').value;
@@ -109,16 +219,14 @@ function toggleControls() {
 
 window.addEventListener('keydown', (e) => { if (e.key.toLowerCase() === 'h') toggleControls(); });
 
-// Initialization logic
+// ─── Init ───
 window.onload = () => {
     setupDropdowns();
-    
-    // 1. Check URL (e.g., ?a=10T&b=ARX)
+
     const params = new URLSearchParams(window.location.search);
     let a = params.get('a');
     let b = params.get('b');
 
-    // 2. Check LocalStorage
     if (!a) a = localStorage.getItem('overlay_teamA');
     if (!b) b = localStorage.getItem('overlay_teamB');
 
