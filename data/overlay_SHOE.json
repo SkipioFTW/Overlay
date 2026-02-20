@@ -1,50 +1,51 @@
 {
     "team": "SHOE",
     "team_averages": {
-        "avg_acs": 211.65,
+        "avg_acs": 211.46,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "0.0%",
         "Corrode": "100.0%",
         "Haven": "50.0%",
+        "Abyss": "100.0%",
         "f": "0.0%"
     },
     "players": {
         "@bransxn": {
             "Riot Id": "solace#bran",
             "Rank": "Platinum",
-            "Average ACS": 152.5,
-            "Average K/D": 0.7164179104477612,
+            "Average ACS": 151.6,
+            "Average K/D": 0.7564102564102564,
             "Most Played Agent": "Neon"
-        },
-        "@.senyen": {
-            "Riot Id": "Haerin#yen",
-            "Rank": "Platinum",
-            "Average ACS": 240.0,
-            "Average K/D": 1.28,
-            "Most Played Agent": "Gekko"
         },
         "@rubby3352": {
             "Riot Id": "reggie#8541",
             "Rank": "Ascendant",
-            "Average ACS": 270.25,
-            "Average K/D": 1.1818181818181819,
-            "Most Played Agent": "Fade"
+            "Average ACS": 274.8,
+            "Average K/D": 1.2375,
+            "Most Played Agent": "Jett"
         },
         "@jul.i.ane": {
             "Riot Id": "JovesRedRuby#BRUH",
             "Rank": "Gold",
-            "Average ACS": 169.0,
-            "Average K/D": 0.6708860759493671,
+            "Average ACS": 178.0,
+            "Average K/D": 0.7472527472527473,
             "Most Played Agent": "Clove"
         },
         "@goldfishfarts": {
             "Riot Id": "jellycats#nwjns",
             "Rank": "Gold",
-            "Average ACS": 168.0,
-            "Average K/D": 0.7843137254901961,
+            "Average ACS": 175.0,
+            "Average K/D": 0.7878787878787878,
             "Most Played Agent": "Killjoy"
+        },
+        "@kgikay": {
+            "Riot Id": "magicFlyingobiln#gobin",
+            "Rank": "Gold",
+            "Average ACS": 207.0,
+            "Average K/D": 1.1111111111111112,
+            "Most Played Agent": "Chamber"
         }
     }
 }

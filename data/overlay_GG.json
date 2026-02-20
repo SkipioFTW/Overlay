@@ -1,49 +1,49 @@
 {
     "team": "GG",
     "team_averages": {
-        "avg_acs": 206.8,
+        "avg_acs": 206.85,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "50.0%",
         "Bind": "0.0%",
         "Haven": "0.0%",
-        "f": "0.0%"
+        "Abyss": "50.0%"
     },
     "players": {
         "@dwt507": {
             "Riot Id": "Gibby#0123",
             "Rank": "Diamond",
-            "Average ACS": 217.0,
-            "Average K/D": 1.0571428571428572,
+            "Average ACS": 225.16666666666666,
+            "Average K/D": 1.0891089108910892,
             "Most Played Agent": "Deadlock"
         },
         "@cx297": {
             "Riot Id": "Vortex297#7772",
             "Rank": "Gold",
-            "Average ACS": 178.75,
-            "Average K/D": 0.7368421052631579,
+            "Average ACS": 180.5,
+            "Average K/D": 0.7410714285714286,
             "Most Played Agent": "Yoru"
         },
         "@fr_eli": {
             "Riot Id": "deeno#WMG6",
             "Rank": "Gold",
-            "Average ACS": 125.5,
-            "Average K/D": 0.6666666666666666,
+            "Average ACS": 145.83333333333334,
+            "Average K/D": 0.7865168539325843,
             "Most Played Agent": "Omen"
         },
         "@epicfails21": {
             "Riot Id": "S13#2322",
             "Rank": "Silver",
-            "Average ACS": 122.5,
-            "Average K/D": 0.5797101449275363,
+            "Average ACS": 119.83333333333333,
+            "Average K/D": 0.5686274509803921,
             "Most Played Agent": "Fade"
         },
         "@nabber.": {
             "Riot Id": "Nabber#liz",
             "Rank": "Immortal 1/2",
-            "Average ACS": 365.25,
-            "Average K/D": 1.8412698412698414,
+            "Average ACS": 337.6,
+            "Average K/D": 1.654320987654321,
             "Most Played Agent": "Viper"
         }
     }

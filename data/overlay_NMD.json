@@ -1,48 +1,49 @@
 {
     "team": "NMD",
     "team_averages": {
-        "avg_acs": 210.56,
+        "avg_acs": 208.62,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Corrode": "50.0%",
         "Pearl": "100.0%",
-        "Bind": "0.0%"
+        "Bind": "0.0%",
+        "Haven": "100.0%"
     },
     "players": {
         "@solarsour": {
             "Riot Id": "gonggi#stone",
             "Rank": "Platinum",
-            "Average ACS": 201.5,
-            "Average K/D": 0.9917355371900827,
+            "Average ACS": 201.0,
+            "Average K/D": 1.0066225165562914,
             "Most Played Agent": "Astra"
         },
         "@dangtan14": {
             "Riot Id": "Facade#Beep",
             "Rank": "Silver",
-            "Average ACS": 131.25,
-            "Average K/D": 0.5766423357664233,
+            "Average ACS": 127.2,
+            "Average K/D": 0.5375722543352601,
             "Most Played Agent": "Breach"
         },
         "@junkim7": {
             "Riot Id": "KIMCHI67676#77777",
             "Rank": "Diamond",
-            "Average ACS": 225.0,
-            "Average K/D": 1.0434782608695652,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 216.0,
+            "Average K/D": 1.0470588235294118,
+            "Most Played Agent": "Jett"
         },
         "@zyph_is_dumb": {
             "Riot Id": "NRG Baitr#zyph",
             "Rank": "Silver",
-            "Average ACS": 180.6,
-            "Average K/D": 0.7640449438202247,
+            "Average ACS": 182.83333333333334,
+            "Average K/D": 0.8137254901960784,
             "Most Played Agent": "Astra"
         },
         "@mittzyyy": {
             "Riot Id": "Mittzyyyy#7863",
             "Rank": "Ascendant",
-            "Average ACS": 282.2,
-            "Average K/D": 1.3295454545454546,
+            "Average ACS": 284.6666666666667,
+            "Average K/D": 1.3148148148148149,
             "Most Played Agent": "Fade"
         }
     }

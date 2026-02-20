@@ -1,7 +1,7 @@
 {
     "team": "FF",
     "team_averages": {
-        "avg_acs": 208.14,
+        "avg_acs": 207.58,
         "avg_kd": 1.0
     },
     "map_win_rates": {
@@ -10,40 +10,40 @@
         "Split": "100.0%"
     },
     "players": {
-        "@idoruler": {
-            "Riot Id": "plorbin#plrbn",
-            "Rank": "Gold",
-            "Average ACS": 171.33333333333334,
-            "Average K/D": 0.8787878787878788,
-            "Most Played Agent": "Omen"
-        },
         "@._.nico": {
             "Riot Id": "TRICKLASH#785",
             "Rank": "Ascendant",
-            "Average ACS": 266.6,
-            "Average K/D": 1.2790697674418605,
+            "Average ACS": 255.0,
+            "Average K/D": 1.2783505154639174,
             "Most Played Agent": "Breach"
-        },
-        "@bloosh": {
-            "Riot Id": "goopy#plrbn",
-            "Rank": "Diamond",
-            "Average ACS": 224.8,
-            "Average K/D": 1.103448275862069,
-            "Most Played Agent": "Waylay"
-        },
-        "@ukiyo.1.": {
-            "Riot Id": "joni#plrbn",
-            "Rank": "Platinum",
-            "Average ACS": 204.4,
-            "Average K/D": 0.9139784946236559,
-            "Most Played Agent": "Sova"
         },
         "@victowwia": {
             "Riot Id": "Starwalker#orig",
             "Rank": "Silver",
-            "Average ACS": 140.8,
-            "Average K/D": 0.6071428571428571,
+            "Average ACS": 144.0,
+            "Average K/D": 0.6494845360824743,
             "Most Played Agent": "Cypher"
+        },
+        "@bloosh": {
+            "Riot Id": "goopy#plrbn",
+            "Rank": "Diamond",
+            "Average ACS": 236.66666666666666,
+            "Average K/D": 1.147058823529412,
+            "Most Played Agent": "Raze"
+        },
+        "@idoruler": {
+            "Riot Id": "plorbin#plrbn",
+            "Rank": "Gold",
+            "Average ACS": 169.125,
+            "Average K/D": 0.904,
+            "Most Played Agent": "Omen"
+        },
+        "@ukiyo.1.": {
+            "Riot Id": "JONAS#plrbn",
+            "Rank": "Platinum",
+            "Average ACS": 215.0,
+            "Average K/D": 1.0,
+            "Most Played Agent": "Sova"
         }
     }
 }

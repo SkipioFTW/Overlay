@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Haven": "100.0%",
         "Corrode": "100.0%",
-        "Bind": "100.0%"
+        "Bind": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@grandpapapaya": {
@@ -20,8 +21,8 @@
         "@imsombr": {
             "Riot Id": "sombr#tubby",
             "Rank": "Gold",
-            "Average ACS": 231.0,
-            "Average K/D": 1.1168831168831168,
+            "Average ACS": 220.14285714285714,
+            "Average K/D": 1.1730769230769231,
             "Most Played Agent": "Waylay"
         },
         "@depeaa": {

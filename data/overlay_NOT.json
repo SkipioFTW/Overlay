@@ -6,7 +6,8 @@
     },
     "map_win_rates": {
         "Bind": "33.33333333333333%",
-        "Haven": "100.0%"
+        "Haven": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@applezzz03": {

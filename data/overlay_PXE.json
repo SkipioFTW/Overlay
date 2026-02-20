@@ -1,13 +1,13 @@
 {
     "team": "PXE",
     "team_averages": {
-        "avg_acs": 204.7,
+        "avg_acs": 208.87,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "f": "33.33333333333333%",
         "Abyss": "0.0%",
-        "Haven": "100.0%"
+        "Haven": "50.0%"
     },
     "players": {
         "@mikyiis": {
@@ -20,9 +20,9 @@
         "@patchesafk": {
             "Riot Id": "PatchesAFK#IWNL",
             "Rank": "Gold",
-            "Average ACS": null,
-            "Average K/D": null,
-            "Most Played Agent": null
+            "Average ACS": 151.0,
+            "Average K/D": 0.5294117647058824,
+            "Most Played Agent": "KAY/O"
         },
         "@friedpop.": {
             "Riot Id": "popp#tarts",
@@ -34,16 +34,16 @@
         "@vaibhav": {
             "Riot Id": "Vaibhav#IL Re",
             "Rank": "Gold",
-            "Average ACS": 215.0,
-            "Average K/D": 1.1111111111111112,
+            "Average ACS": 203.0,
+            "Average K/D": 1.03125,
             "Most Played Agent": "Cypher"
         },
         "@yuzik111": {
             "Riot Id": "ELCTN soyorin#ZXNNJ",
             "Rank": "Platinum",
-            "Average ACS": 212.5,
-            "Average K/D": 1.2352941176470589,
-            "Most Played Agent": "Gekko"
+            "Average ACS": 194.0,
+            "Average K/D": 1.06,
+            "Most Played Agent": "Sova"
         }
     }
 }

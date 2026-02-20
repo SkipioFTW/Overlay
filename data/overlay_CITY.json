@@ -1,50 +1,50 @@
 {
     "team": "CITY",
     "team_averages": {
-        "avg_acs": 203.5,
+        "avg_acs": 205.55,
         "avg_kd": 1.0
     },
     "map_win_rates": {
-        "Haven": "100.0%",
+        "Haven": "50.0%",
         "Corrode": "0.0%",
         "Pearl": "100.0%",
         "Bind": "100.0%",
-        "f": "0.0%"
+        "Abyss": "0.0%"
     },
     "players": {
         "@aimbotalex.": {
             "Riot Id": "aimbotalex#5171",
             "Rank": "Diamond",
-            "Average ACS": 330.0,
-            "Average K/D": 1.6025641025641026,
-            "Most Played Agent": "Neon"
+            "Average ACS": 352.6666666666667,
+            "Average K/D": 1.7191780821917808,
+            "Most Played Agent": "Phoenix"
         },
         "@itsalphonse": {
             "Riot Id": "ChocolateMilk#Bars",
             "Rank": "Silver",
-            "Average ACS": 154.66666666666666,
-            "Average K/D": 0.7555555555555555,
+            "Average ACS": 158.2,
+            "Average K/D": 0.75,
             "Most Played Agent": "Viper"
         },
         "@pizzawaffle": {
             "Riot Id": "Asao#Asuna",
             "Rank": "Platinum",
-            "Average ACS": 164.75,
-            "Average K/D": 0.9272727272727272,
+            "Average ACS": 165.66666666666666,
+            "Average K/D": 0.8555555555555555,
             "Most Played Agent": "Omen"
         },
-        "@hero.idk": {
-            "Riot Id": "\u3086 \u3042#rei",
+        "@jacsm": {
+            "Riot Id": "ralsei#2763",
             "Rank": "Gold",
-            "Average ACS": 118.75,
-            "Average K/D": 0.6181818181818182,
-            "Most Played Agent": "Omen"
+            "Average ACS": 177.5,
+            "Average K/D": 0.9696969696969697,
+            "Most Played Agent": "Cypher"
         },
         "@78ongamecube": {
             "Riot Id": "gamecube#1027",
             "Rank": "Diamond",
-            "Average ACS": 147.0,
-            "Average K/D": 0.8620689655172413,
+            "Average ACS": 148.75,
+            "Average K/D": 0.7101449275362319,
             "Most Played Agent": "Yoru"
         }
     }

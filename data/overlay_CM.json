@@ -1,50 +1,51 @@
 {
     "team": "CM",
     "team_averages": {
-        "avg_acs": 200.8,
+        "avg_acs": 206.1,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "0.0%",
         "Split": "0.0%",
         "Bind": "0.0%",
-        "f": "50.0%"
+        "f": "50.0%",
+        "Corrode": "0.0%"
     },
     "players": {
         "@zyroni": {
             "Riot Id": "Zyroni#based",
             "Rank": "Ascendant",
-            "Average ACS": 192.25,
-            "Average K/D": 0.8823529411764706,
+            "Average ACS": 213.2,
+            "Average K/D": 0.9468085106382979,
             "Most Played Agent": "Fade"
-        },
-        "@ispeakforthetr33s": {
-            "Riot Id": "i kiss b0ys#botom",
-            "Rank": "Silver",
-            "Average ACS": 172.0,
-            "Average K/D": 0.9354838709677419,
-            "Most Played Agent": "Clove"
         },
         "@chadmama": {
             "Riot Id": "CatInABox#catt",
             "Rank": "Platinum",
-            "Average ACS": 214.0,
-            "Average K/D": 1.0,
+            "Average ACS": 222.0,
+            "Average K/D": 0.9866666666666667,
             "Most Played Agent": "Breach"
         },
         "@bigsxyrvg": {
             "Riot Id": "NaKo888RvG#NA2",
             "Rank": "Diamond",
-            "Average ACS": 240.66666666666666,
-            "Average K/D": 1.0588235294117647,
+            "Average ACS": 246.5,
+            "Average K/D": 1.08,
             "Most Played Agent": "Omen"
         },
         "@vessel": {
             "Riot Id": "Vessellll#007",
             "Rank": "Gold",
-            "Average ACS": 150.0,
-            "Average K/D": 0.7551020408163265,
+            "Average ACS": 134.25,
+            "Average K/D": 0.6285714285714286,
             "Most Played Agent": "Chamber"
+        },
+        "@ispeakforthetr33s": {
+            "Riot Id": "Shoyo Hinata#gayy",
+            "Rank": "Silver",
+            "Average ACS": 172.0,
+            "Average K/D": 0.9354838709677419,
+            "Most Played Agent": "Clove"
         }
     }
 }

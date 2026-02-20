@@ -8,7 +8,8 @@
         "Corrode": "100.0%",
         "Haven": "100.0%",
         "Pearl": "0.0%",
-        "Bind": "0.0%"
+        "Bind": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@impod": {
@@ -35,8 +36,8 @@
         "@ilovecats7_": {
             "Riot Id": "facade#1030",
             "Rank": "Iron/Bronze",
-            "Average ACS": 104.6,
-            "Average K/D": 0.4567901234567901,
+            "Average ACS": 109.0,
+            "Average K/D": 0.45454545454545453,
             "Most Played Agent": "Cypher"
         },
         "@FeebleBoi": {

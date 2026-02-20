@@ -7,7 +7,8 @@
     "map_win_rates": {
         "Bind": "100.0%",
         "Haven": "33.33333333333333%",
-        "Split": "0.0%"
+        "Split": "0.0%",
+        "f": "100.0%"
     },
     "players": {
         "@bowsamonya": {

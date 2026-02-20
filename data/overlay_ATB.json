@@ -7,14 +7,15 @@
     "map_win_rates": {
         "Split": "100.0%",
         "Haven": "50.0%",
-        "Bind": "100.0%"
+        "Bind": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@clawsator": {
             "Riot Id": "CLAWS#ATOR",
             "Rank": "Ascendant",
-            "Average ACS": 302.875,
-            "Average K/D": 1.4335664335664335,
+            "Average ACS": 303.6666666666667,
+            "Average K/D": 1.44375,
             "Most Played Agent": "Fade"
         },
         "@pender": {

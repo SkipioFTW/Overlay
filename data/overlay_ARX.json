@@ -1,13 +1,14 @@
 {
     "team": "ARX",
     "team_averages": {
-        "avg_acs": 201.08,
+        "avg_acs": 203.06,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "100.0%",
         "Split": "0.0%",
         "Corrode": "0.0%",
+        "Haven": "100.0%",
         "f": "0.0%"
     },
     "players": {
@@ -21,8 +22,8 @@
         "@cyteri": {
             "Riot Id": "Cyteri#P1QNK",
             "Rank": "Gold",
-            "Average ACS": 171.0,
-            "Average K/D": 0.8095238095238095,
+            "Average ACS": 184.8,
+            "Average K/D": 0.8333333333333334,
             "Most Played Agent": "Clove"
         },
         "@zdyzze": {
@@ -35,15 +36,15 @@
         "@moistloonie": {
             "Riot Id": "Loon#6741",
             "Rank": "Diamond",
-            "Average ACS": 257.0,
-            "Average K/D": 1.1176470588235294,
+            "Average ACS": 259.3333333333333,
+            "Average K/D": 1.2173913043478262,
             "Most Played Agent": "Raze"
         },
         "@matcha_muncher.": {
             "Riot Id": "Suo san\u30c4#Haru",
             "Rank": "Diamond",
-            "Average ACS": 242.5,
-            "Average K/D": 1.3703703703703705,
+            "Average ACS": 246.66666666666666,
+            "Average K/D": 1.3414634146341462,
             "Most Played Agent": "Jett"
         }
     }

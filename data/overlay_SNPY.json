@@ -1,15 +1,15 @@
 {
     "team": "SNPY",
     "team_averages": {
-        "avg_acs": 205.6,
+        "avg_acs": 207.86,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "100.0%",
         "Breeze": "100.0%",
-        "Split": "0.0%",
+        "Split": "50.0%",
         "Corrode": "100.0%",
-        "f": "0.0%"
+        "f": "100.0%"
     },
     "players": {
         "@cooltcm": {
@@ -29,23 +29,23 @@
         "@pluto.gg": {
             "Riot Id": "bbyplu#pluto",
             "Rank": "Iron/Bronze",
-            "Average ACS": 140.0,
-            "Average K/D": 0.6909090909090909,
+            "Average ACS": 135.4,
+            "Average K/D": 0.6388888888888888,
             "Most Played Agent": "Iso"
         },
         "@sixxoo": {
             "Riot Id": "blkswn#0228",
             "Rank": "Ascendant",
-            "Average ACS": 259.5,
-            "Average K/D": 1.3673469387755102,
+            "Average ACS": 269.6,
+            "Average K/D": 1.303030303030303,
             "Most Played Agent": "Waylay"
         },
         "@ilomilod": {
             "Riot Id": "louphoria#0228",
             "Rank": "Diamond",
-            "Average ACS": 230.66666666666666,
-            "Average K/D": 1.1904761904761905,
-            "Most Played Agent": "Raze"
+            "Average ACS": 220.25,
+            "Average K/D": 1.1228070175438596,
+            "Most Played Agent": "Clove"
         }
     }
 }

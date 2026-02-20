@@ -1,14 +1,14 @@
 {
     "team": "SR",
     "team_averages": {
-        "avg_acs": 198.58,
+        "avg_acs": 200.1,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "0.0%",
         "Abyss": "100.0%",
         "Breeze": "100.0%",
-        "f": "0.0%"
+        "Corrode": "100.0%"
     },
     "players": {
         "@.battlegnome": {
@@ -21,22 +21,22 @@
         "@kusxnagi": {
             "Riot Id": "Kusx#HIM",
             "Rank": "Immortal 1/2",
-            "Average ACS": 347.25,
-            "Average K/D": 1.5211267605633803,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 316.5,
+            "Average K/D": 1.3245614035087718,
+            "Most Played Agent": "Clove"
         },
         "@jun_vlr": {
             "Riot Id": "KooZera#SSIP",
             "Rank": "Immortal 1/2",
-            "Average ACS": 310.25,
-            "Average K/D": 1.540983606557377,
+            "Average ACS": 323.6666666666667,
+            "Average K/D": 1.6,
             "Most Played Agent": "Jett"
         },
         "@jjcantdothisanymore": {
             "Riot Id": "20pcMcNugget#629",
             "Rank": "Iron/Bronze",
-            "Average ACS": 107.5,
-            "Average K/D": 0.5737704918032787,
+            "Average ACS": 111.2,
+            "Average K/D": 0.5789473684210527,
             "Most Played Agent": "Cypher"
         },
         "@greenrasins": {

@@ -1,48 +1,50 @@
 {
     "team": "DSA",
     "team_averages": {
-        "avg_acs": 204.03,
+        "avg_acs": 205.22,
         "avg_kd": 0.99
     },
     "map_win_rates": {
         "Bind": "50.0%",
-        "f": "50.0%",
-        "Haven": "100.0%"
+        "f": "100.0%",
+        "Haven": "100.0%",
+        "Split": "0.0%",
+        "Pearl": "100.0%"
     },
     "players": {
         "@squidyy": {
             "Riot Id": "SquidYa0#090",
             "Rank": "Gold",
-            "Average ACS": 161.5,
-            "Average K/D": 0.8285714285714286,
+            "Average ACS": 173.0,
+            "Average K/D": 0.9777777777777777,
             "Most Played Agent": "Cypher"
         },
         "@necromzo": {
             "Riot Id": "Necromzo#KOREA",
             "Rank": "Diamond",
-            "Average ACS": 229.0,
-            "Average K/D": 0.9814814814814815,
-            "Most Played Agent": "Raze"
+            "Average ACS": 248.0,
+            "Average K/D": 1.0581395348837208,
+            "Most Played Agent": "Skye"
         },
         "@wet sand": {
             "Riot Id": "WetSand#Groov",
             "Rank": "Platinum",
-            "Average ACS": 297.0,
-            "Average K/D": 1.446808510638298,
+            "Average ACS": 282.0,
+            "Average K/D": 1.4,
             "Most Played Agent": "Neon"
         },
         "@felix": {
             "Riot Id": "Bruhs#bruh",
             "Rank": "Gold",
-            "Average ACS": 121.0,
-            "Average K/D": 0.5714285714285714,
-            "Most Played Agent": "Chamber"
+            "Average ACS": 124.0,
+            "Average K/D": 0.5974025974025974,
+            "Most Played Agent": "Gekko"
         },
         "@cmoneygaming": {
             "Riot Id": "CmoneyGaming#Dodge",
             "Rank": "Gold",
-            "Average ACS": 141.33333333333334,
-            "Average K/D": 0.5833333333333334,
+            "Average ACS": 154.75,
+            "Average K/D": 0.7288135593220338,
             "Most Played Agent": "Omen"
         }
     }
