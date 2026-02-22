@@ -1,5 +1,6 @@
 {
     "team": "Seattle Knights",
+    "team_tag": "SK",
     "team_averages": {
         "avg_acs": 203.47,
         "avg_kd": 1.0
