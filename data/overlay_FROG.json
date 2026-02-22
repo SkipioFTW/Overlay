@@ -1,50 +1,49 @@
 {
-    "team": "FROG",
+    "team": "Frogs",
     "team_averages": {
-        "avg_acs": 205.16,
+        "avg_acs": 205.37,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "50.0%",
         "Haven": "100.0%",
-        "Split": "0.0%",
-        "f": "0.0%"
+        "Split": "0.0%"
     },
     "players": {
         "@pandasdabby": {
             "Riot Id": "pandasdabby\u6897\u738b#\u6211\u7231\u62c9\u62c9",
             "Rank": "Diamond",
-            "Average ACS": 187.0,
-            "Average K/D": 0.8333333333333334,
+            "Average ACS": 195.25,
+            "Average K/D": 0.864406779661017,
             "Most Played Agent": "Waylay"
         },
         "@robdillinghamlover": {
             "Riot Id": "chud#mud",
             "Rank": "Gold",
-            "Average ACS": 231.5,
-            "Average K/D": 1.0,
+            "Average ACS": 223.2,
+            "Average K/D": 0.9772727272727273,
             "Most Played Agent": "Yoru"
         },
         "@xiao_1776": {
             "Riot Id": "xiao#1776",
             "Rank": "Silver",
-            "Average ACS": 187.75,
-            "Average K/D": 1.0344827586206897,
+            "Average ACS": 181.6,
+            "Average K/D": 1.0,
             "Most Played Agent": "Omen"
         },
         "@minik4i": {
             "Riot Id": "MiniKai#AZN",
             "Rank": "Platinum",
-            "Average ACS": 229.75,
-            "Average K/D": 1.1896551724137931,
+            "Average ACS": 215.5,
+            "Average K/D": 1.101123595505618,
             "Most Played Agent": "Killjoy"
         },
         "@venustraphobic": {
             "Riot Id": "safe n sound#AOTV",
             "Rank": "Ascendant",
-            "Average ACS": 269.6666666666667,
-            "Average K/D": 1.2608695652173914,
-            "Most Played Agent": "Viper"
+            "Average ACS": 292.5,
+            "Average K/D": 1.5789473684210527,
+            "Most Played Agent": "Sova"
         }
     }
 }

@@ -1,20 +1,21 @@
 {
-    "team": "ODD",
+    "team": "One Designated Driver",
     "team_averages": {
-        "avg_acs": 209.4,
+        "avg_acs": 212.32,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Haven": "33.33333333333333%",
         "Split": "100.0%",
-        "f": "50.0%"
+        "f": "100.0%",
+        "Pearl": "0.0%"
     },
     "players": {
         "@fsjose": {
             "Riot Id": "HoeZay#Tubby",
             "Rank": "Ascendant",
-            "Average ACS": 208.25,
-            "Average K/D": 0.9824561403508771,
+            "Average ACS": 228.0,
+            "Average K/D": 1.038961038961039,
             "Most Played Agent": "Cypher"
         },
         "@_e_c_o_": {
@@ -27,16 +28,16 @@
         "@hamidr9": {
             "Riot Id": "hamon#2394",
             "Rank": "Iron/Bronze",
-            "Average ACS": 97.66666666666667,
-            "Average K/D": 0.5121951219512195,
+            "Average ACS": 94.0,
+            "Average K/D": 0.4827586206896552,
             "Most Played Agent": "Killjoy"
         },
         "@ilovecattz1_49785": {
             "Riot Id": "haunt#1212",
             "Rank": "Silver",
-            "Average ACS": 113.0,
-            "Average K/D": 0.5,
-            "Most Played Agent": "Sage"
+            "Average ACS": 141.0,
+            "Average K/D": 0.48717948717948717,
+            "Most Played Agent": "Clove"
         },
         "@yourantidepressant_": {
             "Riot Id": "i fill#loser",

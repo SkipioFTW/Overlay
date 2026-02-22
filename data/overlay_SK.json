@@ -1,5 +1,5 @@
 {
-    "team": "SK",
+    "team": "Seattle Knights",
     "team_averages": {
         "avg_acs": 203.47,
         "avg_kd": 1.0
@@ -41,8 +41,8 @@
         "@nickjunyor": {
             "Riot Id": "El Psy Kongroo#Skuld",
             "Rank": "Diamond",
-            "Average ACS": 260.4375,
-            "Average K/D": 1.465753424657534,
+            "Average ACS": 252.16666666666666,
+            "Average K/D": 1.3700787401574803,
             "Most Played Agent": "Sova"
         }
     }

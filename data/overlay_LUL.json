@@ -1,29 +1,28 @@
 {
-    "team": "LUL",
+    "team": "Lineup Larries",
     "team_averages": {
-        "avg_acs": 203.1,
+        "avg_acs": 206.58,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Split": "0.0%",
         "Haven": "0.0%",
-        "Pearl": "0.0%",
-        "Breeze": "100.0%",
-        "f": "0.0%"
+        "Pearl": "50.0%",
+        "Breeze": "100.0%"
     },
     "players": {
         "@chisooo": {
             "Riot Id": "chiso#uwu",
             "Rank": "Ascendant",
-            "Average ACS": 162.0,
-            "Average K/D": 0.5675675675675675,
-            "Most Played Agent": "Breach"
+            "Average ACS": 177.2,
+            "Average K/D": 0.6382978723404256,
+            "Most Played Agent": "Killjoy"
         },
         "@bjyornk": {
             "Riot Id": "OldAsianGrandpa#ASIAN",
             "Rank": "Diamond",
-            "Average ACS": 237.4,
-            "Average K/D": 1.0657894736842104,
+            "Average ACS": 239.33333333333334,
+            "Average K/D": 1.10989010989011,
             "Most Played Agent": "Astra"
         },
         "@maiadorable": {
@@ -36,15 +35,15 @@
         "@guxximane_36013": {
             "Riot Id": "gangbangingcat67#6767",
             "Rank": "Diamond",
-            "Average ACS": 252.5,
-            "Average K/D": 1.1388888888888888,
+            "Average ACS": 295.0,
+            "Average K/D": 1.3333333333333333,
             "Most Played Agent": "Yoru"
         },
         "@papa_sports9318": {
             "Riot Id": "Kaji#immo",
             "Rank": "Iron/Bronze",
-            "Average ACS": 123.0,
-            "Average K/D": 0.574468085106383,
+            "Average ACS": 119.0,
+            "Average K/D": 0.5714285714285714,
             "Most Played Agent": "Deadlock"
         }
     }

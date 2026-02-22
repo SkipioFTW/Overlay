@@ -1,21 +1,20 @@
 {
-    "team": "HSC",
+    "team": "Headshot Cartel",
     "team_averages": {
-        "avg_acs": 201.8,
+        "avg_acs": 202.25,
         "avg_kd": 1.0
     },
     "map_win_rates": {
-        "Corrode": "0.0%",
+        "Corrode": "25.0%",
         "Breeze": "0.0%",
-        "Haven": "0.0%",
-        "f": "0.0%"
+        "Haven": "0.0%"
     },
     "players": {
         "@mayflower1324": {
             "Riot Id": "Mayflower#1324",
             "Rank": "Iron/Bronze",
-            "Average ACS": 152.6,
-            "Average K/D": 0.9557522123893806,
+            "Average ACS": 154.5,
+            "Average K/D": 0.9640287769784173,
             "Most Played Agent": "Sova"
         },
         "@quokank1": {
@@ -28,22 +27,22 @@
         "@commi_killer": {
             "Riot Id": "WiffMagnet#777",
             "Rank": "Silver",
-            "Average ACS": 100.75,
-            "Average K/D": 0.38235294117647056,
+            "Average ACS": 112.0,
+            "Average K/D": 0.4588235294117647,
             "Most Played Agent": "Omen"
         },
         "@cthien": {
             "Riot Id": "Cheezie#0402",
             "Rank": "Ascendant",
-            "Average ACS": 221.4,
-            "Average K/D": 1.0,
+            "Average ACS": 219.0,
+            "Average K/D": 1.03125,
             "Most Played Agent": "Vyse"
         },
         "@yourlocalsaladbar": {
             "Riot Id": "salad#Num1",
             "Rank": "Gold",
-            "Average ACS": 223.5,
-            "Average K/D": 1.2388059701492538,
+            "Average ACS": 222.6,
+            "Average K/D": 1.2345679012345678,
             "Most Played Agent": "Yoru"
         }
     }

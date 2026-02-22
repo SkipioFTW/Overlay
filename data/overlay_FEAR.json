@@ -1,21 +1,21 @@
 {
-    "team": "FEAR",
+    "team": "The Fearmongers",
     "team_averages": {
-        "avg_acs": 210.82,
+        "avg_acs": 208.98,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Split": "0.0%",
         "Haven": "50.0%",
         "f": "0.0%",
-        "Bind": "100.0%"
+        "Bind": "50.0%"
     },
     "players": {
         "@cade0525": {
             "Riot Id": "CartFein#2916",
             "Rank": "Silver",
-            "Average ACS": 134.625,
-            "Average K/D": 0.6261682242990654,
+            "Average ACS": 130.88888888888889,
+            "Average K/D": 0.5983606557377049,
             "Most Played Agent": "Cypher"
         },
         "@asapv1ce": {
@@ -28,22 +28,22 @@
         "@wafflewacker": {
             "Riot Id": "WaffleWacker#6953",
             "Rank": "Iron/Bronze",
-            "Average ACS": 110.5,
-            "Average K/D": 0.4603174603174603,
-            "Most Played Agent": "Iso"
+            "Average ACS": 106.6,
+            "Average K/D": 0.4605263157894737,
+            "Most Played Agent": "Reyna"
         },
         "@anderlost": {
             "Riot Id": "Ander#letme",
             "Rank": "Diamond",
-            "Average ACS": 207.33333333333334,
-            "Average K/D": 0.9047619047619048,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 214.5,
+            "Average K/D": 0.8947368421052632,
+            "Most Played Agent": "Tejo"
         },
         "@happycoolgamer49": {
             "Riot Id": "happycoolgamer49#YOO",
             "Rank": "Ascendant",
-            "Average ACS": 357.5,
-            "Average K/D": 3.6923076923076925,
+            "Average ACS": 297.6666666666667,
+            "Average K/D": 2.148148148148148,
             "Most Played Agent": "Chamber"
         }
     }

@@ -1,50 +1,49 @@
 {
-    "team": "ATB",
+    "team": "ATOR Black",
     "team_averages": {
-        "avg_acs": 211.94,
+        "avg_acs": 212.27,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Split": "100.0%",
         "Haven": "50.0%",
-        "Bind": "100.0%",
-        "f": "0.0%"
+        "Bind": "50.0%"
     },
     "players": {
         "@clawsator": {
             "Riot Id": "CLAWS#ATOR",
             "Rank": "Ascendant",
-            "Average ACS": 303.6666666666667,
-            "Average K/D": 1.44375,
-            "Most Played Agent": "Fade"
+            "Average ACS": 292.5,
+            "Average K/D": 1.3920454545454546,
+            "Most Played Agent": "Reyna"
         },
         "@pender": {
             "Riot Id": "pender#goat",
             "Rank": "Ascendant",
-            "Average ACS": 269.4,
-            "Average K/D": 1.2307692307692308,
+            "Average ACS": 263.5,
+            "Average K/D": 1.1944444444444444,
             "Most Played Agent": "Omen"
         },
         "@jawator": {
             "Riot Id": "JAWS#ATOR",
             "Rank": "Ascendant",
-            "Average ACS": 308.8,
-            "Average K/D": 1.6341463414634145,
-            "Most Played Agent": "Chamber"
+            "Average ACS": 324.3333333333333,
+            "Average K/D": 1.6732673267326732,
+            "Most Played Agent": "Clove"
         },
         "@mention": {
             "Riot Id": "RipWideJoy#sleep",
             "Rank": "Iron/Bronze",
-            "Average ACS": 89.25,
-            "Average K/D": 0.3380281690140845,
+            "Average ACS": 96.0,
+            "Average K/D": 0.3793103448275862,
             "Most Played Agent": "Killjoy"
         },
         "@enyarjaja": {
             "Riot Id": "ikeabear#SKOG",
             "Rank": "Iron/Bronze",
-            "Average ACS": 113.0,
-            "Average K/D": 0.6190476190476191,
-            "Most Played Agent": "Killjoy"
+            "Average ACS": 111.0,
+            "Average K/D": 0.5825242718446602,
+            "Most Played Agent": "Fade"
         }
     }
 }

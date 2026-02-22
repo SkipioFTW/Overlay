@@ -1,7 +1,7 @@
 {
-    "team": "MSF",
+    "team": "Misfits",
     "team_averages": {
-        "avg_acs": 209.38,
+        "avg_acs": 205.92,
         "avg_kd": 1.0
     },
     "map_win_rates": {
@@ -9,43 +9,42 @@
         "Abyss": "100.0%",
         "Pearl": "0.0%",
         "Haven": "0.0%",
-        "f": "0.0%",
         "Corrode": "100.0%"
     },
     "players": {
         "@chief_queef___10708": {
             "Riot Id": "The mango#r2d2",
             "Rank": "Diamond",
-            "Average ACS": 241.4,
-            "Average K/D": 1.277777777777778,
+            "Average ACS": 230.66666666666666,
+            "Average K/D": 1.2804878048780488,
             "Most Played Agent": "Sova"
         },
         "@vlooshies": {
             "Riot Id": "Vlooshies#2138",
             "Rank": "Platinum",
-            "Average ACS": 200.75,
-            "Average K/D": 0.8382352941176471,
-            "Most Played Agent": "Astra"
+            "Average ACS": 215.6,
+            "Average K/D": 0.9743589743589743,
+            "Most Played Agent": "Clove"
         },
         "@coolerchill": {
             "Riot Id": "Coolerchill#cool",
             "Rank": "Silver",
-            "Average ACS": 180.4,
-            "Average K/D": 0.8846153846153846,
+            "Average ACS": 172.5,
+            "Average K/D": 0.9176470588235294,
             "Most Played Agent": "Chamber"
         },
         "@sussybro": {
             "Riot Id": "Solace#here",
             "Rank": "Platinum",
-            "Average ACS": 204.8,
-            "Average K/D": 1.051948051948052,
+            "Average ACS": 198.5,
+            "Average K/D": 1.0333333333333332,
             "Most Played Agent": "Waylay"
         },
         "@imhiru9702": {
             "Riot Id": "Hiru#\u304a\u3070\u3051",
             "Rank": "Diamond",
-            "Average ACS": 264.6,
-            "Average K/D": 1.2972972972972974,
+            "Average ACS": 273.3333333333333,
+            "Average K/D": 1.388235294117647,
             "Most Played Agent": "Yoru"
         }
     }

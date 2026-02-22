@@ -1,7 +1,7 @@
 {
-    "team": "SG",
+    "team": "Sneaky Golems",
     "team_averages": {
-        "avg_acs": 210.64,
+        "avg_acs": 209.52,
         "avg_kd": 1.0
     },
     "map_win_rates": {
@@ -9,35 +9,35 @@
         "Bind": "0.0%",
         "Haven": "0.0%",
         "Pearl": "100.0%",
-        "f": "0.0%"
+        "Corrode": "0.0%"
     },
     "players": {
         "@fortniteenjoyer": {
             "Riot Id": "FortniteEnjoyer#4549",
             "Rank": "Silver",
-            "Average ACS": 113.4,
-            "Average K/D": 0.5054945054945055,
+            "Average ACS": 105.83333333333333,
+            "Average K/D": 0.4537037037037037,
             "Most Played Agent": "Chamber"
         },
         "@merrt": {
             "Riot Id": "merrt#doom",
             "Rank": "Diamond",
-            "Average ACS": 221.5,
-            "Average K/D": 0.8795180722891566,
+            "Average ACS": 200.66666666666666,
+            "Average K/D": 0.8125,
             "Most Played Agent": "Waylay"
         },
         "@vix134": {
             "Riot Id": "Solvin#6087",
             "Rank": "Ascendant",
-            "Average ACS": 248.4,
-            "Average K/D": 1.02020202020202,
+            "Average ACS": 237.5,
+            "Average K/D": 0.9487179487179487,
             "Most Played Agent": "Astra"
         },
         "@wolf0057": {
             "Riot Id": "WOLF#TRASH",
             "Rank": "Platinum",
-            "Average ACS": 185.66666666666666,
-            "Average K/D": 0.8727272727272727,
+            "Average ACS": 204.85714285714286,
+            "Average K/D": 0.9354838709677419,
             "Most Played Agent": "Breach"
         },
         "@addsunn": {

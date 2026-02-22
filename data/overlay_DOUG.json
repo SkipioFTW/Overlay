@@ -1,49 +1,49 @@
 {
-    "team": "DOUG",
+    "team": "doug",
     "team_averages": {
-        "avg_acs": 211.76,
+        "avg_acs": 209.78,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Split": "0.0%",
         "Haven": "100.0%",
         "Bind": "0.0%",
-        "f": "0.0%"
+        "Corrode": "0.0%"
     },
     "players": {
         "@dilligent12": {
             "Riot Id": "itachi#tuff",
             "Rank": "Gold",
-            "Average ACS": 244.2,
-            "Average K/D": 1.0714285714285714,
+            "Average ACS": 237.66666666666666,
+            "Average K/D": 1.03,
             "Most Played Agent": "Raze"
         },
         "@fraudulent0200": {
             "Riot Id": "lettuce#miow",
             "Rank": "Silver",
-            "Average ACS": 107.25,
-            "Average K/D": 0.5272727272727272,
+            "Average ACS": 113.0,
+            "Average K/D": 0.5735294117647058,
             "Most Played Agent": "Cypher"
         },
         "@littlebeo927": {
             "Riot Id": "bobbysauce#mild",
             "Rank": "Platinum",
-            "Average ACS": 153.33333333333334,
-            "Average K/D": 0.58,
+            "Average ACS": 146.85714285714286,
+            "Average K/D": 0.5652173913043478,
             "Most Played Agent": "Omen"
         },
         "@natelb3": {
             "Riot Id": "nate#valo",
             "Rank": "Ascendant",
-            "Average ACS": 212.2,
-            "Average K/D": 0.9411764705882353,
+            "Average ACS": 217.0,
+            "Average K/D": 0.9482758620689655,
             "Most Played Agent": "Phoenix"
         },
         "@deron0293": {
             "Riot Id": "DKgaz YT#Gay",
             "Rank": "Diamond",
-            "Average ACS": 302.2,
-            "Average K/D": 1.6901408450704225,
+            "Average ACS": 280.3333333333333,
+            "Average K/D": 1.4942528735632183,
             "Most Played Agent": "Skye"
         }
     }

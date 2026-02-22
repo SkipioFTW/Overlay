@@ -1,13 +1,13 @@
 {
-    "team": "NOT",
+    "team": "NOT winning",
     "team_averages": {
-        "avg_acs": 206.22,
+        "avg_acs": 203.22,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "33.33333333333333%",
         "Haven": "100.0%",
-        "f": "0.0%"
+        "Split": "0.0%"
     },
     "players": {
         "@applezzz03": {
@@ -20,9 +20,9 @@
         "@doomvlr": {
             "Riot Id": "NOT doom#NOT",
             "Rank": "Ascendant",
-            "Average ACS": 330.2,
-            "Average K/D": 1.8028169014084507,
-            "Most Played Agent": "Waylay"
+            "Average ACS": 299.0,
+            "Average K/D": 1.5882352941176472,
+            "Most Played Agent": "Neon"
         },
         "@.minik0ng": {
             "Riot Id": "miniKong#FLEX",
@@ -34,15 +34,15 @@
         "@ok_im_miko": {
             "Riot Id": "miko#2467",
             "Rank": "Gold",
-            "Average ACS": 164.33333333333334,
-            "Average K/D": 0.8780487804878049,
+            "Average ACS": 150.0,
+            "Average K/D": 0.7407407407407407,
             "Most Played Agent": "Viper"
         },
         "@mrblueguy": {
             "Riot Id": "MrBlueGuy#blue",
             "Rank": "Silver",
-            "Average ACS": 107.5,
-            "Average K/D": 0.47297297297297297,
+            "Average ACS": 99.8,
+            "Average K/D": 0.4367816091954023,
             "Most Played Agent": "Breach"
         }
     }

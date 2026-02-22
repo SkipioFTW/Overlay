@@ -1,5 +1,6 @@
 compiler.py
 getter.py
+data.py
 /old
 valorant_s23.db
 .env

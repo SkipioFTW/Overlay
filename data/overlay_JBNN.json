@@ -1,5 +1,5 @@
 {
-    "team": "JBNN",
+    "team": "Just Banana",
     "team_averages": {
         "avg_acs": 209.82,
         "avg_kd": 1.0
@@ -8,42 +8,42 @@
         "Haven": "100.0%",
         "Corrode": "100.0%",
         "Bind": "100.0%",
-        "f": "0.0%"
+        "Split": "100.0%"
     },
     "players": {
         "@grandpapapaya": {
             "Riot Id": "Meow Meow Papaya#meow",
             "Rank": "Gold",
-            "Average ACS": 242.22222222222223,
-            "Average K/D": 1.3813559322033897,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 250.63636363636363,
+            "Average K/D": 1.534351145038168,
+            "Most Played Agent": "Phoenix"
         },
         "@imsombr": {
             "Riot Id": "sombr#tubby",
             "Rank": "Gold",
-            "Average ACS": 220.14285714285714,
-            "Average K/D": 1.1730769230769231,
+            "Average ACS": 209.33333333333334,
+            "Average K/D": 1.0763358778625953,
             "Most Played Agent": "Waylay"
         },
         "@depeaa": {
             "Riot Id": "dep#high",
             "Rank": "Ascendant",
-            "Average ACS": 223.5,
-            "Average K/D": 1.0526315789473684,
+            "Average ACS": 238.0,
+            "Average K/D": 1.144927536231884,
             "Most Played Agent": "Veto"
         },
         "@bloodhunter": {
             "Riot Id": "BloodHunter#2329",
             "Rank": "Diamond",
-            "Average ACS": 274.8,
-            "Average K/D": 1.640625,
+            "Average ACS": 266.3333333333333,
+            "Average K/D": 1.5128205128205128,
             "Most Played Agent": "Omen"
         },
         "@pokemon0622": {
             "Riot Id": "Zheng#FAD3",
             "Rank": "Gold",
-            "Average ACS": 134.75,
-            "Average K/D": 0.8269230769230769,
+            "Average ACS": 161.0,
+            "Average K/D": 1.0158730158730158,
             "Most Played Agent": "Fade"
         }
     }

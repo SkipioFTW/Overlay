@@ -1,21 +1,21 @@
 {
-    "team": "NG",
+    "team": "NEW GENS 2.0",
     "team_averages": {
-        "avg_acs": 209.7,
+        "avg_acs": 208.07,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Split": "66.66666666666666%",
         "Haven": "0.0%",
         "Bind": "0.0%",
-        "f": "0.0%"
+        "Corrode": "100.0%"
     },
     "players": {
         "@zratio": {
             "Riot Id": "G2 \u00d8ffice W\u00f8rker#6767",
             "Rank": "Platinum",
-            "Average ACS": 233.2,
-            "Average K/D": 1.0,
+            "Average ACS": 231.33333333333334,
+            "Average K/D": 1.0283018867924527,
             "Most Played Agent": "Clove"
         },
         "@psi_pkchu": {
@@ -28,22 +28,22 @@
         "@muddicksizgud": {
             "Riot Id": "friskymango24#simga",
             "Rank": "Diamond",
-            "Average ACS": 183.6,
-            "Average K/D": 0.9036144578313253,
+            "Average ACS": 170.16666666666666,
+            "Average K/D": 0.8709677419354839,
             "Most Played Agent": "Jett"
         },
         "@hjkikimorx2": {
             "Riot Id": "donny#dal",
             "Rank": "Gold",
-            "Average ACS": 218.2,
-            "Average K/D": 1.1265822784810127,
+            "Average ACS": 223.0,
+            "Average K/D": 1.1797752808988764,
             "Most Played Agent": "Yoru"
         },
         "@shadeisnthere": {
             "Riot Id": "Shade#Six9",
             "Rank": "Gold",
-            "Average ACS": 152.0,
-            "Average K/D": 0.5888888888888889,
+            "Average ACS": 157.5,
+            "Average K/D": 0.673469387755102,
             "Most Played Agent": "Fade"
         }
     }

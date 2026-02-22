@@ -1,22 +1,21 @@
 {
-    "team": "SHOE",
+    "team": "shoelaces",
     "team_averages": {
-        "avg_acs": 211.46,
+        "avg_acs": 210.67,
         "avg_kd": 1.0
     },
     "map_win_rates": {
         "Bind": "0.0%",
         "Corrode": "100.0%",
-        "Haven": "50.0%",
-        "Abyss": "100.0%",
-        "f": "0.0%"
+        "Haven": "33.33333333333333%",
+        "Abyss": "100.0%"
     },
     "players": {
         "@bransxn": {
             "Riot Id": "solace#bran",
             "Rank": "Platinum",
-            "Average ACS": 151.6,
-            "Average K/D": 0.7564102564102564,
+            "Average ACS": 153.83333333333334,
+            "Average K/D": 0.7578947368421053,
             "Most Played Agent": "Neon"
         },
         "@rubby3352": {
@@ -29,22 +28,22 @@
         "@jul.i.ane": {
             "Riot Id": "JovesRedRuby#BRUH",
             "Rank": "Gold",
-            "Average ACS": 178.0,
-            "Average K/D": 0.7472527472527473,
+            "Average ACS": 170.16666666666666,
+            "Average K/D": 0.6936936936936937,
             "Most Played Agent": "Clove"
         },
         "@goldfishfarts": {
             "Riot Id": "jellycats#nwjns",
             "Rank": "Gold",
-            "Average ACS": 175.0,
-            "Average K/D": 0.7878787878787878,
+            "Average ACS": 169.8,
+            "Average K/D": 0.75,
             "Most Played Agent": "Killjoy"
         },
         "@kgikay": {
             "Riot Id": "magicFlyingobiln#gobin",
             "Rank": "Gold",
-            "Average ACS": 207.0,
-            "Average K/D": 1.1111111111111112,
+            "Average ACS": 214.0,
+            "Average K/D": 1.0666666666666667,
             "Most Played Agent": "Chamber"
         }
     }
