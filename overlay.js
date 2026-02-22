@@ -77,7 +77,7 @@ function renderTeam(data, color, isTeamA) {
     content.innerHTML = `
         <div class="team-view" style="--accent-color: ${color}">
             <div class="team-header" style="--accent-color: ${color}">
-                <div class="team-icon">${data.team}</div>
+                <div class="team-icon">${data.team_tag}</div>
                 <div class="team-name">${data.team}</div>
                 <div class="team-side">${sideLabel}</div>
             </div>
