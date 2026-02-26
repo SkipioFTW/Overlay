@@ -2,13 +2,17 @@
     "team": "Great Uncs",
     "team_tag": "UNC",
     "team_averages": {
-        "avg_acs": 210.17,
-        "avg_kd": 1.0
+        "avg_acs": 210.3,
+        "avg_kd": 1.0,
+        "avg_adr": 153.3002285112654,
+        "avg_kast": 80.43142857142858,
+        "avg_fk_success": 54.12844036697248
     },
     "map_win_rates": {
         "Corrode": "100.0%",
         "Bind": "100.0%",
-        "Pearl": "100.0%"
+        "Pearl": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@wanderboi.": {
@@ -16,35 +20,60 @@
             "Rank": "Silver",
             "Average ACS": 177.0,
             "Average K/D": 0.7,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 122.045997619629,
+            "Average KAST": 77.4,
+            "Average HS%": 19.6990001678467,
+            "First Kills": 8,
+            "First Deaths": 18
         },
         "@mkn_pancakes": {
             "Riot Id": "mugi#her",
             "Rank": "Ascendant",
             "Average ACS": 331.85714285714283,
             "Average K/D": 1.7241379310344829,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 219.12714276995,
+            "Average KAST": 77.8571428571429,
+            "Average HS%": 19.3004281180246,
+            "First Kills": 14,
+            "First Deaths": 8
         },
         "@breezvy": {
             "Riot Id": "Uncle Bill#unc",
             "Rank": "Immortal 1/2",
-            "Average ACS": 315.8333333333333,
+            "Average ACS": 316.0,
             "Average K/D": 1.9428571428571428,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Reyna",
+            "Average ADR": 202.108334859212,
+            "Average KAST": 86.1666666666667,
+            "Average HS%": 29.3896668752034,
+            "First Kills": 20,
+            "First Deaths": 8
         },
         "@_smither": {
             "Riot Id": "FemBob#6769",
             "Rank": "Iron/Bronze",
-            "Average ACS": 145.4,
+            "Average ACS": 145.6,
             "Average K/D": 0.828125,
-            "Most Played Agent": "Deadlock"
+            "Most Played Agent": "Deadlock",
+            "Average ADR": 89.7979995727539,
+            "Average KAST": 76.4,
+            "Average HS%": 18.3369997024536,
+            "First Kills": 8,
+            "First Deaths": 13
         },
         "@real_grey": {
             "Riot Id": "Grey#0430",
             "Rank": "Gold",
-            "Average ACS": 209.66666666666666,
+            "Average ACS": 210.0,
             "Average K/D": 1.2463768115942029,
-            "Most Played Agent": "Gekko"
+            "Most Played Agent": "Gekko",
+            "Average ADR": 133.421667734782,
+            "Average KAST": 84.3333333333333,
+            "Average HS%": 16.0844997564952,
+            "First Kills": 9,
+            "First Deaths": 3
         }
     }
 }

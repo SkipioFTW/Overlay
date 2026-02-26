@@ -3,7 +3,10 @@
     "team_tag": "PXE",
     "team_averages": {
         "avg_acs": 208.87,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 126.36299870808907,
+        "avg_kast": 66.73333333333333,
+        "avg_fk_success": 56.41025641025641
     },
     "map_win_rates": {
         "f": "33.33333333333333%",
@@ -16,35 +19,60 @@
             "Rank": "Gold",
             "Average ACS": 179.0,
             "Average K/D": 0.8235294117647058,
-            "Most Played Agent": "Vyse"
+            "Most Played Agent": "Vyse",
+            "Average ADR": 123.5,
+            "Average KAST": 75.0,
+            "Average HS%": 12.2449998855591,
+            "First Kills": 3,
+            "First Deaths": 1
         },
         "@patchesafk": {
             "Riot Id": "PatchesAFK#IWNL",
             "Rank": "Gold",
             "Average ACS": 151.0,
             "Average K/D": 0.5294117647058824,
-            "Most Played Agent": "KAY/O"
+            "Most Played Agent": "KAY/O",
+            "Average ADR": 99.8899993896484,
+            "Average KAST": 58.0,
+            "Average HS%": 21.2119998931885,
+            "First Kills": 0,
+            "First Deaths": 3
         },
         "@friedpop.": {
             "Riot Id": "popp#tarts",
             "Rank": "Platinum",
             "Average ACS": 217.5,
             "Average K/D": 1.1428571428571428,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 146.75,
+            "Average KAST": 65.0,
+            "Average HS%": 27.5269994735718,
+            "First Kills": 8,
+            "First Deaths": 4
         },
         "@vaibhav": {
             "Riot Id": "Vaibhav#IL Re",
             "Rank": "Gold",
             "Average ACS": 203.0,
             "Average K/D": 1.03125,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 136.084995269775,
+            "Average KAST": 61.0,
+            "Average HS%": 42.4245014190674,
+            "First Kills": 6,
+            "First Deaths": 7
         },
         "@yuzik111": {
             "Riot Id": "ELCTN soyorin#ZXNNJ",
             "Rank": "Platinum",
             "Average ACS": 194.0,
             "Average K/D": 1.06,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Sova",
+            "Average ADR": 125.589998881022,
+            "Average KAST": 74.6666666666667,
+            "Average HS%": 25.0543333689372,
+            "First Kills": 5,
+            "First Deaths": 2
         }
     }
 }

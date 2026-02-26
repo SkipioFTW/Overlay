@@ -2,13 +2,16 @@
     "team": "One Designated Driver",
     "team_tag": "ODD",
     "team_averages": {
-        "avg_acs": 212.32,
-        "avg_kd": 1.0
+        "avg_acs": 212.54,
+        "avg_kd": 1.0,
+        "avg_adr": 144.2635316467286,
+        "avg_kast": 70.34,
+        "avg_fk_success": 54.41176470588235
     },
     "map_win_rates": {
         "Haven": "33.33333333333333%",
         "Split": "100.0%",
-        "f": "100.0%",
+        "f": "50.0%",
         "Pearl": "0.0%"
     },
     "players": {
@@ -17,35 +20,60 @@
             "Rank": "Ascendant",
             "Average ACS": 228.0,
             "Average K/D": 1.038961038961039,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 154.105999755859,
+            "Average KAST": 75.2,
+            "Average HS%": 25.496199798584,
+            "First Kills": 12,
+            "First Deaths": 11
         },
         "@_e_c_o_": {
             "Riot Id": "jamji#wee",
             "Rank": "Immortal 1/2",
-            "Average ACS": 373.6666666666667,
+            "Average ACS": 374.3333333333333,
             "Average K/D": 1.6511627906976745,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Reyna",
+            "Average ADR": 257.589996337891,
+            "Average KAST": 80.3333333333333,
+            "Average HS%": 32.9556668599447,
+            "First Kills": 19,
+            "First Deaths": 8
         },
         "@hamidr9": {
             "Riot Id": "hamon#2394",
             "Rank": "Iron/Bronze",
             "Average ACS": 94.0,
             "Average K/D": 0.4827586206896552,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 64.125,
+            "Average KAST": 56.5,
+            "Average HS%": 16.2902500629425,
+            "First Kills": 1,
+            "First Deaths": 5
         },
         "@ilovecattz1_49785": {
             "Riot Id": "haunt#1212",
             "Rank": "Silver",
-            "Average ACS": 141.0,
+            "Average ACS": 141.5,
             "Average K/D": 0.48717948717948717,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 101.439998626709,
+            "Average KAST": 60.0,
+            "Average HS%": 15.6065001487732,
+            "First Kills": 1,
+            "First Deaths": 2
         },
         "@yourantidepressant_": {
             "Riot Id": "i fill#loser",
             "Rank": "Platinum",
-            "Average ACS": 200.66666666666666,
+            "Average ACS": 201.33333333333334,
             "Average K/D": 0.9565217391304348,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 144.056663513184,
+            "Average KAST": 79.6666666666667,
+            "Average HS%": 29.8910001118978,
+            "First Kills": 4,
+            "First Deaths": 5
         }
     }
 }

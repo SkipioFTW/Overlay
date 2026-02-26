@@ -2,13 +2,17 @@
     "team": "ATOR Black",
     "team_tag": "ATB",
     "team_averages": {
-        "avg_acs": 212.27,
-        "avg_kd": 1.0
+        "avg_acs": 212.4,
+        "avg_kd": 1.0,
+        "avg_adr": 142.70079961140942,
+        "avg_kast": 72.04666666666665,
+        "avg_fk_success": 55.02958579881657
     },
     "map_win_rates": {
         "Split": "100.0%",
         "Haven": "50.0%",
-        "Bind": "50.0%"
+        "Bind": "50.0%",
+        "f": "0.0%"
     },
     "players": {
         "@clawsator": {
@@ -16,35 +20,60 @@
             "Rank": "Ascendant",
             "Average ACS": 292.5,
             "Average K/D": 1.3920454545454546,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Reyna",
+            "Average ADR": 180.634001922607,
+            "Average KAST": 73.9,
+            "Average HS%": 20.8343000411987,
+            "First Kills": 48,
+            "First Deaths": 36
         },
         "@pender": {
             "Riot Id": "pender#goat",
             "Rank": "Ascendant",
-            "Average ACS": 263.5,
+            "Average ACS": 263.6666666666667,
             "Average K/D": 1.1944444444444444,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 174.681666056315,
+            "Average KAST": 74.8333333333333,
+            "Average HS%": 24.2459996541341,
+            "First Kills": 18,
+            "First Deaths": 13
         },
         "@jawator": {
             "Riot Id": "JAWS#ATOR",
             "Rank": "Ascendant",
-            "Average ACS": 324.3333333333333,
+            "Average ACS": 324.5,
             "Average K/D": 1.6732673267326732,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 212.899996439616,
+            "Average KAST": 81.0,
+            "Average HS%": 38.7143338521322,
+            "First Kills": 22,
+            "First Deaths": 11
         },
         "@mention": {
             "Riot Id": "RipWideJoy#sleep",
             "Rank": "Iron/Bronze",
-            "Average ACS": 96.0,
+            "Average ACS": 96.4,
             "Average K/D": 0.3793103448275862,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 71.4200004577637,
+            "Average KAST": 64.0,
+            "Average HS%": 12.7665999412537,
+            "First Kills": 2,
+            "First Deaths": 10
         },
         "@enyarjaja": {
             "Riot Id": "ikeabear#SKOG",
             "Rank": "Iron/Bronze",
             "Average ACS": 111.0,
             "Average K/D": 0.5825242718446602,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 73.8683331807454,
+            "Average KAST": 66.5,
+            "Average HS%": 11.1928331851959,
+            "First Kills": 3,
+            "First Deaths": 6
         }
     }
 }

@@ -3,7 +3,10 @@
     "team_tag": "GG",
     "team_averages": {
         "avg_acs": 206.85,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 132.45840049743646,
+        "avg_kast": 68.27333333333333,
+        "avg_fk_success": 44.61538461538462
     },
     "map_win_rates": {
         "Corrode": "50.0%",
@@ -17,35 +20,60 @@
             "Rank": "Diamond",
             "Average ACS": 225.16666666666666,
             "Average K/D": 1.0891089108910892,
-            "Most Played Agent": "Deadlock"
+            "Most Played Agent": "Deadlock",
+            "Average ADR": 145.790000915527,
+            "Average KAST": 71.5,
+            "Average HS%": 21.9923334121704,
+            "First Kills": 11,
+            "First Deaths": 17
         },
         "@cx297": {
             "Riot Id": "Vortex297#7772",
             "Rank": "Gold",
             "Average ACS": 180.5,
             "Average K/D": 0.7410714285714286,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 115.641667683919,
+            "Average KAST": 61.3333333333333,
+            "Average HS%": 20.2478332519531,
+            "First Kills": 19,
+            "First Deaths": 22
         },
         "@fr_eli": {
             "Riot Id": "deeno#WMG6",
             "Rank": "Gold",
             "Average ACS": 145.83333333333334,
             "Average K/D": 0.7865168539325843,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 89.3999996185303,
+            "Average KAST": 71.3333333333333,
+            "Average HS%": 17.077666759491,
+            "First Kills": 3,
+            "First Deaths": 7
         },
         "@epicfails21": {
             "Riot Id": "S13#2322",
             "Rank": "Silver",
             "Average ACS": 119.83333333333333,
             "Average K/D": 0.5686274509803921,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 85.5783335367839,
+            "Average KAST": 60.0,
+            "Average HS%": 18.5323333740234,
+            "First Kills": 6,
+            "First Deaths": 12
         },
         "@nabber.": {
             "Riot Id": "Nabber#liz",
             "Rank": "Immortal 1/2",
             "Average ACS": 337.6,
             "Average K/D": 1.654320987654321,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Viper",
+            "Average ADR": 225.882000732422,
+            "Average KAST": 77.2,
+            "Average HS%": 26.8977996826172,
+            "First Kills": 19,
+            "First Deaths": 14
         }
     }
 }

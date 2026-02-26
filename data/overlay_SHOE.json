@@ -2,13 +2,16 @@
     "team": "shoelaces",
     "team_tag": "SHOE",
     "team_averages": {
-        "avg_acs": 210.67,
-        "avg_kd": 1.0
+        "avg_acs": 210.72,
+        "avg_kd": 1.0,
+        "avg_adr": 128.8675342814126,
+        "avg_kast": 68.51333333333332,
+        "avg_fk_success": 49.504950495049506
     },
     "map_win_rates": {
-        "Bind": "0.0%",
         "Corrode": "100.0%",
         "Haven": "33.33333333333333%",
+        "Bind": "0.0%",
         "Abyss": "100.0%"
     },
     "players": {
@@ -17,35 +20,60 @@
             "Rank": "Platinum",
             "Average ACS": 153.83333333333334,
             "Average K/D": 0.7578947368421053,
-            "Most Played Agent": "Neon"
+            "Most Played Agent": "Neon",
+            "Average ADR": 100.19000116984,
+            "Average KAST": 65.3333333333333,
+            "Average HS%": 28.9644997914632,
+            "First Kills": 5,
+            "First Deaths": 12
         },
         "@rubby3352": {
             "Riot Id": "reggie#8541",
             "Rank": "Ascendant",
-            "Average ACS": 274.8,
+            "Average ACS": 275.0,
             "Average K/D": 1.2375,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 173.03800201416,
+            "Average KAST": 73.6,
+            "Average HS%": 23.9458003997803,
+            "First Kills": 18,
+            "First Deaths": 13
         },
         "@jul.i.ane": {
             "Riot Id": "JovesRedRuby#BRUH",
             "Rank": "Gold",
             "Average ACS": 170.16666666666666,
             "Average K/D": 0.6936936936936937,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 113.275000254313,
+            "Average KAST": 66.8333333333333,
+            "Average HS%": 32.3946663538615,
+            "First Kills": 7,
+            "First Deaths": 8
         },
         "@goldfishfarts": {
             "Riot Id": "jellycats#nwjns",
             "Rank": "Gold",
             "Average ACS": 169.8,
             "Average K/D": 0.75,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 118.798001098633,
+            "Average KAST": 68.8,
+            "Average HS%": 17.807799911499,
+            "First Kills": 13,
+            "First Deaths": 10
         },
         "@kgikay": {
             "Riot Id": "magicFlyingobiln#gobin",
             "Rank": "Gold",
             "Average ACS": 214.0,
             "Average K/D": 1.0666666666666667,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 139.036666870117,
+            "Average KAST": 68.0,
+            "Average HS%": 36.3473326365153,
+            "First Kills": 7,
+            "First Deaths": 8
         }
     }
 }

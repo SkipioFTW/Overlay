@@ -2,14 +2,17 @@
     "team": "bRATz",
     "team_tag": "RAT",
     "team_averages": {
-        "avg_acs": 205.52,
-        "avg_kd": 1.0
+        "avg_acs": 205.62,
+        "avg_kd": 1.0,
+        "avg_adr": 110.7260992431641,
+        "avg_kast": 61.970000000000006,
+        "avg_fk_success": 36.144578313253014
     },
     "map_win_rates": {
-        "Pearl": "0.0%",
         "Corrode": "50.0%",
         "Bind": "0.0%",
-        "f": "100.0%"
+        "f": "100.0%",
+        "Pearl": "0.0%"
     },
     "players": {
         "@vic.bum": {
@@ -17,35 +20,60 @@
             "Rank": "Platinum",
             "Average ACS": 227.6,
             "Average K/D": 0.9876543209876543,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 144.241999816895,
+            "Average KAST": 76.8,
+            "Average HS%": 32.5345996856689,
+            "First Kills": 7,
+            "First Deaths": 9
         },
         "@yulisa7634": {
             "Riot Id": "yuhlisa#NA1",
             "Rank": "Diamond",
             "Average ACS": 166.66666666666666,
             "Average K/D": 0.673469387755102,
-            "Most Played Agent": "Iso"
+            "Most Played Agent": "Iso",
+            "Average ADR": 108.529998779297,
+            "Average KAST": 56.0,
+            "Average HS%": 29.6670004526774,
+            "First Kills": 4,
+            "First Deaths": 11
         },
         "@ntry": {
             "Riot Id": "Ntry#bang",
             "Rank": "Platinum",
             "Average ACS": 174.8,
             "Average K/D": 0.691358024691358,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 115.903997802734,
+            "Average KAST": 53.0,
+            "Average HS%": 35.8484001159668,
+            "First Kills": 9,
+            "First Deaths": 21
         },
         "@haaj": {
             "Riot Id": "haaj#yona",
             "Rank": "Gold",
             "Average ACS": 138.6,
             "Average K/D": 0.5571428571428572,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 91.9619995117187,
+            "Average KAST": 65.8,
+            "Average HS%": 8.73880009651184,
+            "First Kills": 6,
+            "First Deaths": 6
         },
         "@luv.em": {
             "Riot Id": "3mxter#void",
             "Rank": "Gold",
-            "Average ACS": 148.25,
+            "Average ACS": 148.5,
             "Average K/D": 0.6307692307692307,
-            "Most Played Agent": "Vyse"
+            "Most Played Agent": "Vyse",
+            "Average ADR": 92.9925003051758,
+            "Average KAST": 58.25,
+            "Average HS%": 15.7130000591278,
+            "First Kills": 4,
+            "First Deaths": 6
         }
     }
 }

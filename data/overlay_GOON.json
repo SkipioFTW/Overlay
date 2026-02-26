@@ -2,50 +2,79 @@
     "team": "Gooner Academy",
     "team_tag": "GOON",
     "team_averages": {
-        "avg_acs": 207.12,
-        "avg_kd": 1.0
+        "avg_acs": 207.27,
+        "avg_kd": 1.0,
+        "avg_adr": 136.2191076823644,
+        "avg_kast": 72.81031746031746,
+        "avg_fk_success": 52.76381909547738
     },
     "map_win_rates": {
-        "Corrode": "100.0%",
         "Haven": "100.0%",
         "Pearl": "0.0%",
-        "Bind": "0.0%"
+        "Bind": "50.0%",
+        "Breeze": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@impod": {
             "Riot Id": "alchemist#yae",
             "Rank": "Diamond",
-            "Average ACS": 255.27272727272728,
-            "Average K/D": 1.202247191011236,
-            "Most Played Agent": "Clove"
+            "Average ACS": 256.5,
+            "Average K/D": 1.2735849056603774,
+            "Most Played Agent": "Clove",
+            "Average ADR": 166.489286695208,
+            "Average KAST": 78.3571428571429,
+            "Average HS%": 31.1339995520455,
+            "First Kills": 32,
+            "First Deaths": 26
         },
         "@iceboats": {
             "Riot Id": "Miku#Big B",
             "Rank": "Ascendant",
-            "Average ACS": 251.0,
-            "Average K/D": 1.3614457831325302,
-            "Most Played Agent": "Jett"
+            "Average ACS": 279.1111111111111,
+            "Average K/D": 1.4516129032258065,
+            "Most Played Agent": "Jett",
+            "Average ADR": 170.751108805339,
+            "Average KAST": 76.4444444444444,
+            "Average HS%": 19.2181112501356,
+            "First Kills": 32,
+            "First Deaths": 22
         },
         "@szos4n": {
             "Riot Id": "misaki#szo",
             "Rank": "Immortal 1/2",
-            "Average ACS": 287.8,
-            "Average K/D": 1.3417721518987342,
-            "Most Played Agent": "Clove"
+            "Average ACS": 289.375,
+            "Average K/D": 1.3916666666666666,
+            "Most Played Agent": "Clove",
+            "Average ADR": 180.956254005432,
+            "Average KAST": 73.25,
+            "Average HS%": 39.1568756103516,
+            "First Kills": 25,
+            "First Deaths": 21
         },
         "@ilovecats7_": {
             "Riot Id": "facade#1030",
             "Rank": "Iron/Bronze",
-            "Average ACS": 116.0,
-            "Average K/D": 0.5178571428571429,
-            "Most Played Agent": "Cypher"
+            "Average ACS": 110.33333333333333,
+            "Average K/D": 0.47183098591549294,
+            "Most Played Agent": "Cypher",
+            "Average ADR": 84.564444647895,
+            "Average KAST": 66.3333333333333,
+            "Average HS%": 14.2901111178928,
+            "First Kills": 7,
+            "First Deaths": 19
         },
         "@FeebleBoi": {
             "Riot Id": "NobaCobra#80085",
             "Rank": "Iron/Bronze",
-            "Average ACS": 122.0,
-            "Average K/D": 0.6842105263157895,
-            "Most Played Agent": "KAY/O"
+            "Average ACS": 123.55555555555556,
+            "Average K/D": 0.6846846846846847,
+            "Most Played Agent": "KAY/O",
+            "Average ADR": 78.3344442579481,
+            "Average KAST": 69.6666666666667,
+            "Average HS%": 18.3423332638211,
+            "First Kills": 9,
+            "First Deaths": 6
         }
     }
 }

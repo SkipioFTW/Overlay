@@ -2,49 +2,78 @@
     "team": "Baguette 5",
     "team_tag": "B5",
     "team_averages": {
-        "avg_acs": 205.72,
-        "avg_kd": 1.0
+        "avg_acs": 205.88,
+        "avg_kd": 1.0,
+        "avg_adr": 150.43369052977772,
+        "avg_kast": 77.83952380952383,
+        "avg_fk_success": 59.813084112149525
     },
     "map_win_rates": {
         "Bind": "100.0%",
         "Corrode": "50.0%",
-        "Haven": "0.0%"
+        "Haven": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@dannyyf": {
             "Riot Id": "d4nny#0011",
             "Rank": "Immortal 1/2",
-            "Average ACS": 326.85714285714283,
-            "Average K/D": 1.5695067264573992,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 331.46666666666664,
+            "Average K/D": 1.6120689655172413,
+            "Most Played Agent": "Yoru",
+            "Average ADR": 213.129999796549,
+            "Average KAST": 80.0666666666667,
+            "Average HS%": 33.5102668762207,
+            "First Kills": 59,
+            "First Deaths": 28
         },
         "@noahet": {
             "Riot Id": "NOAHZONES#love",
             "Rank": "Immortal 1/2",
-            "Average ACS": 373.42857142857144,
+            "Average ACS": 373.57142857142856,
             "Average K/D": 2.0707070707070705,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 238.064289637974,
+            "Average KAST": 83.7142857142857,
+            "Average HS%": 27.6652856554304,
+            "First Kills": 43,
+            "First Deaths": 18
         },
         "@choccy1672": {
             "Riot Id": "bbL#monke",
             "Rank": "Platinum",
-            "Average ACS": 212.25,
+            "Average ACS": 212.5,
             "Average K/D": 1.0689655172413792,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 151.996247291565,
+            "Average KAST": 78.75,
+            "Average HS%": 28.3453748226166,
+            "First Kills": 20,
+            "First Deaths": 17
         },
         "@carseatgaming": {
             "Riot Id": "carseatgaming#sad",
             "Rank": "Iron/Bronze",
-            "Average ACS": 114.375,
+            "Average ACS": 114.625,
             "Average K/D": 0.5538461538461539,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Viper",
+            "Average ADR": 72.2112488746643,
+            "Average KAST": 73.5,
+            "Average HS%": 24.936124920845,
+            "First Kills": 6,
+            "First Deaths": 17
         },
         "@st.scoop": {
             "Riot Id": "Milkk#2121",
             "Rank": "Iron/Bronze",
             "Average ACS": 103.33333333333333,
             "Average K/D": 0.5402298850574713,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 76.7666670481364,
+            "Average KAST": 73.1666666666667,
+            "Average HS%": 19.5436666806539,
+            "First Kills": 0,
+            "First Deaths": 6
         }
     }
 }

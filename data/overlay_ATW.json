@@ -2,50 +2,79 @@
     "team": "ATOR White",
     "team_tag": "ATW",
     "team_averages": {
-        "avg_acs": 209.93,
-        "avg_kd": 1.0
+        "avg_acs": 210.02,
+        "avg_kd": 1.0,
+        "avg_adr": 141.65013460795086,
+        "avg_kast": 72.98666666666665,
+        "avg_fk_success": 55.03875968992248
     },
     "map_win_rates": {
         "Split": "100.0%",
         "Corrode": "50.0%",
         "Bind": "100.0%",
-        "Haven": "0.0%"
+        "Haven": "0.0%",
+        "f": "0.0%"
     },
     "players": {
         "@eggsdies": {
             "Riot Id": "sweddie#MSS",
             "Rank": "Immortal 1/2",
-            "Average ACS": 371.5,
+            "Average ACS": 371.6666666666667,
             "Average K/D": 1.797979797979798,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 243.908335367839,
+            "Average KAST": 81.3333333333333,
+            "Average HS%": 29.5311663945516,
+            "First Kills": 33,
+            "First Deaths": 17
         },
         "@ariso_": {
             "Riot Id": "ariso#0202",
             "Rank": "Ascendant",
-            "Average ACS": 316.8,
+            "Average ACS": 317.0,
             "Average K/D": 1.6753246753246753,
-            "Most Played Agent": "Raze"
+            "Most Played Agent": "Raze",
+            "Average ADR": 195.532000732422,
+            "Average KAST": 76.6,
+            "Average HS%": 26.6660003662109,
+            "First Kills": 26,
+            "First Deaths": 11
         },
         "@pastvayne": {
             "Riot Id": "pastvayne#vayne",
             "Rank": "Silver",
-            "Average ACS": 181.6,
+            "Average ACS": 181.8,
             "Average K/D": 0.9487179487179487,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 119.392001342773,
+            "Average KAST": 76.0,
+            "Average HS%": 16.738399887085,
+            "First Kills": 3,
+            "First Deaths": 6
         },
         "@acepilot147": {
             "Riot Id": "acepilot147#3719",
             "Rank": "Iron/Bronze",
             "Average ACS": 98.16666666666667,
             "Average K/D": 0.43564356435643564,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 67.0050010681152,
+            "Average KAST": 64.0,
+            "Average HS%": 10.6420001188914,
+            "First Kills": 5,
+            "First Deaths": 9
         },
         "@mrrainbow56": {
             "Riot Id": "mrrainbow56#nice",
             "Rank": "Silver",
             "Average ACS": 120.66666666666667,
             "Average K/D": 0.5959595959595959,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 82.4133345286051,
+            "Average KAST": 67.0,
+            "Average HS%": 18.6436667442322,
+            "First Kills": 4,
+            "First Deaths": 15
         }
     }
 }

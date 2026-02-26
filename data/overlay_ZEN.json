@@ -3,13 +3,16 @@
     "team_tag": "ZEN",
     "team_averages": {
         "avg_acs": 213.36,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 141.29959920247398,
+        "avg_kast": 70.50666666666666,
+        "avg_fk_success": 43.037974683544306
     },
     "map_win_rates": {
         "Bind": "100.0%",
         "Haven": "33.33333333333333%",
         "Split": "0.0%",
-        "f": "100.0%"
+        "f": "50.0%"
     },
     "players": {
         "@bowsamonya": {
@@ -17,35 +20,60 @@
             "Rank": "Gold",
             "Average ACS": 183.0,
             "Average K/D": 0.7115384615384616,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 121.519999186198,
+            "Average KAST": 68.3333333333333,
+            "Average HS%": 13.9696664810181,
+            "First Kills": 1,
+            "First Deaths": 4
         },
         "@fw.scrub": {
             "Riot Id": "\u767d\u8272\u6e38\u4fa0#100",
             "Rank": "Platinum",
             "Average ACS": 249.6,
             "Average K/D": 1.3611111111111112,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 166.197998046875,
+            "Average KAST": 74.4,
+            "Average HS%": 25.6108001708984,
+            "First Kills": 13,
+            "First Deaths": 10
         },
         "@abovez.": {
             "Riot Id": "ABOVEzz#NA1",
             "Rank": "Platinum",
             "Average ACS": 203.4,
             "Average K/D": 0.7843137254901961,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 128.792001342773,
+            "Average KAST": 68.8,
+            "Average HS%": 31.4139999389648,
+            "First Kills": 10,
+            "First Deaths": 13
         },
         "@tongotk6688": {
             "Riot Id": "BAKI#00202",
             "Rank": "Gold",
             "Average ACS": 169.4,
             "Average K/D": 0.7951807228915663,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Skye",
+            "Average ADR": 115.42799987793,
+            "Average KAST": 69.0,
+            "Average HS%": 23.0552000045776,
+            "First Kills": 7,
+            "First Deaths": 13
         },
         "@nathanvue": {
             "Riot Id": "ZeRos#Nap",
             "Rank": "Silver",
             "Average ACS": 233.0,
             "Average K/D": 1.0,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Sova",
+            "Average ADR": 174.559997558594,
+            "Average KAST": 72.0,
+            "Average HS%": 27.7114992141724,
+            "First Kills": 3,
+            "First Deaths": 5
         }
     }
 }

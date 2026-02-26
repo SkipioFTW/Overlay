@@ -3,12 +3,15 @@
     "team_tag": "TBA",
     "team_averages": {
         "avg_acs": 204.04,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 127.69902345566511,
+        "avg_kast": 72.9095238095238,
+        "avg_fk_success": 40.909090909090914
     },
     "map_win_rates": {
         "Breeze": "50.0%",
         "Bind": "50.0%",
-        "f": "100.0%",
+        "f": "50.0%",
         "Haven": "100.0%"
     },
     "players": {
@@ -17,35 +20,60 @@
             "Rank": "Iron/Bronze",
             "Average ACS": 81.75,
             "Average K/D": 0.36507936507936506,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Viper",
+            "Average ADR": 58.6174983978271,
+            "Average KAST": 49.5,
+            "Average HS%": 12.8709996342659,
+            "First Kills": 2,
+            "First Deaths": 8
         },
         "@coax24.": {
             "Riot Id": "Coax#4315",
             "Rank": "Ascendant",
             "Average ACS": 240.85714285714286,
             "Average K/D": 1.0495867768595042,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 154.412857055664,
+            "Average KAST": 72.2857142857143,
+            "Average HS%": 23.3660001754761,
+            "First Kills": 21,
+            "First Deaths": 30
         },
         "@morc.a": {
             "Riot Id": "Orsone#NA1",
             "Rank": "Diamond",
             "Average ACS": 234.0,
             "Average K/D": 1.5,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 154.419998168945,
+            "Average KAST": 88.0,
+            "Average HS%": 32.0509986877441,
+            "First Kills": 2,
+            "First Deaths": 2
         },
         "@colourized.": {
             "Riot Id": "sprinkle cake#yum",
             "Rank": "Silver",
-            "Average ACS": 140.0,
-            "Average K/D": 0.6923076923076923,
-            "Most Played Agent": "Brimstone"
+            "Average ACS": 142.28571428571428,
+            "Average K/D": 0.7128712871287128,
+            "Most Played Agent": "Brimstone",
+            "Average ADR": 95.9314264569964,
+            "Average KAST": 75.4285714285714,
+            "Average HS%": 21.0604288918631,
+            "First Kills": 7,
+            "First Deaths": 10
         },
         "@imnotkorean": {
             "Riot Id": "Hv0ung#123",
             "Rank": "Ascendant",
             "Average ACS": 259.6666666666667,
             "Average K/D": 1.3333333333333333,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 175.113337198893,
+            "Average KAST": 79.3333333333333,
+            "Average HS%": 29.8156668345133,
+            "First Kills": 4,
+            "First Deaths": 2
         }
     }
 }

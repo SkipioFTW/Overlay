@@ -2,12 +2,16 @@
     "team": "NOT winning",
     "team_tag": "NOT",
     "team_averages": {
-        "avg_acs": 203.22,
-        "avg_kd": 1.0
+        "avg_acs": 203.27,
+        "avg_kd": 1.0,
+        "avg_adr": 135.06469942728674,
+        "avg_kast": 70.79333333333334,
+        "avg_fk_success": 57.391304347826086
     },
     "map_win_rates": {
         "Bind": "33.33333333333333%",
         "Haven": "100.0%",
+        "f": "0.0%",
         "Split": "0.0%"
     },
     "players": {
@@ -16,35 +20,60 @@
             "Rank": "Platinum",
             "Average ACS": 220.2,
             "Average K/D": 1.3333333333333333,
-            "Most Played Agent": "Brimstone"
+            "Most Played Agent": "Brimstone",
+            "Average ADR": 150.935998535156,
+            "Average KAST": 76.6,
+            "Average HS%": 27.0034004211426,
+            "First Kills": 5,
+            "First Deaths": 3
         },
         "@doomvlr": {
             "Riot Id": "NOT doom#NOT",
             "Rank": "Ascendant",
-            "Average ACS": 299.0,
+            "Average ACS": 299.1666666666667,
             "Average K/D": 1.5882352941176472,
-            "Most Played Agent": "Neon"
+            "Most Played Agent": "Neon",
+            "Average ADR": 187.169999440511,
+            "Average KAST": 78.1666666666667,
+            "Average HS%": 28.9903332392375,
+            "First Kills": 37,
+            "First Deaths": 11
         },
         "@.minik0ng": {
             "Riot Id": "miniKong#FLEX",
             "Rank": "Diamond",
             "Average ACS": 242.6,
             "Average K/D": 1.1481481481481481,
-            "Most Played Agent": "Iso"
+            "Most Played Agent": "Iso",
+            "Average ADR": 155.840000915527,
+            "Average KAST": 69.0,
+            "Average HS%": 26.4263998031616,
+            "First Kills": 15,
+            "First Deaths": 16
         },
         "@ok_im_miko": {
             "Riot Id": "miko#2467",
             "Rank": "Gold",
             "Average ACS": 150.0,
             "Average K/D": 0.7407407407407407,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Viper",
+            "Average ADR": 109.507497787476,
+            "Average KAST": 66.0,
+            "Average HS%": 15.8227500915527,
+            "First Kills": 4,
+            "First Deaths": 6
         },
         "@mrblueguy": {
             "Riot Id": "MrBlueGuy#blue",
             "Rank": "Silver",
-            "Average ACS": 99.8,
+            "Average ACS": 100.0,
             "Average K/D": 0.4367816091954023,
-            "Most Played Agent": "Breach"
+            "Most Played Agent": "Breach",
+            "Average ADR": 71.8700004577637,
+            "Average KAST": 64.2,
+            "Average HS%": 18.5377998352051,
+            "First Kills": 5,
+            "First Deaths": 13
         }
     }
 }

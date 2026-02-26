@@ -3,7 +3,10 @@
     "team_tag": "HSC",
     "team_averages": {
         "avg_acs": 202.25,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 127.86133435567206,
+        "avg_kast": 71.00666666666666,
+        "avg_fk_success": 48.07692307692308
     },
     "map_win_rates": {
         "Corrode": "25.0%",
@@ -14,37 +17,62 @@
         "@mayflower1324": {
             "Riot Id": "Mayflower#1324",
             "Rank": "Iron/Bronze",
-            "Average ACS": 154.5,
+            "Average ACS": 154.58333333333334,
             "Average K/D": 0.9640287769784173,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Sova",
+            "Average ADR": 106.17333539327,
+            "Average KAST": 75.8333333333333,
+            "Average HS%": 16.7045834064484,
+            "First Kills": 9,
+            "First Deaths": 11
         },
         "@quokank1": {
             "Riot Id": "Pengu#NA01",
             "Rank": "Ascendant",
             "Average ACS": 277.0,
             "Average K/D": 1.2926829268292683,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 169.858001708984,
+            "Average KAST": 76.4,
+            "Average HS%": 28.8028003692627,
+            "First Kills": 18,
+            "First Deaths": 18
         },
         "@commi_killer": {
             "Riot Id": "WiffMagnet#777",
             "Rank": "Silver",
             "Average ACS": 112.0,
             "Average K/D": 0.4588235294117647,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 79.0220001220703,
+            "Average KAST": 60.4,
+            "Average HS%": 20.586600112915,
+            "First Kills": 2,
+            "First Deaths": 6
         },
         "@cthien": {
             "Riot Id": "Cheezie#0402",
             "Rank": "Ascendant",
             "Average ACS": 219.0,
             "Average K/D": 1.03125,
-            "Most Played Agent": "Vyse"
+            "Most Played Agent": "Vyse",
+            "Average ADR": 137.803334554036,
+            "Average KAST": 69.0,
+            "Average HS%": 29.1693331400553,
+            "First Kills": 9,
+            "First Deaths": 9
         },
         "@yourlocalsaladbar": {
             "Riot Id": "salad#Num1",
             "Rank": "Gold",
             "Average ACS": 222.6,
             "Average K/D": 1.2345679012345678,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 146.45,
+            "Average KAST": 73.4,
+            "Average HS%": 31.671199798584,
+            "First Kills": 12,
+            "First Deaths": 10
         }
     }
 }

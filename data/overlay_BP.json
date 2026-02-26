@@ -2,12 +2,15 @@
     "team": "Brawl Pandas",
     "team_tag": "BP",
     "team_averages": {
-        "avg_acs": 214.3,
-        "avg_kd": 1.0
+        "avg_acs": 214.4,
+        "avg_kd": 1.0,
+        "avg_adr": 141.4213003540038,
+        "avg_kast": 78.01333333333335,
+        "avg_fk_success": 48.0
     },
     "map_win_rates": {
-        "Pearl": "100.0%",
         "Haven": "50.0%",
+        "Pearl": "100.0%",
         "Breeze": "100.0%",
         "f": "0.0%"
     },
@@ -15,37 +18,62 @@
         "@riot_nt09": {
             "Riot Id": "NickJunyorJr#1417",
             "Rank": "Silver",
-            "Average ACS": 133.2,
+            "Average ACS": 133.4,
             "Average K/D": 0.5783132530120482,
-            "Most Played Agent": "Raze"
+            "Most Played Agent": "Raze",
+            "Average ADR": 90.7459983825684,
+            "Average KAST": 72.4,
+            "Average HS%": 12.4415997505188,
+            "First Kills": 7,
+            "First Deaths": 17
         },
         "@firevenom": {
             "Riot Id": "Lost From Light#Asuna",
             "Rank": "Immortal 1/2",
             "Average ACS": 344.0,
             "Average K/D": 1.4189189189189189,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 211.497501373291,
+            "Average KAST": 80.0,
+            "Average HS%": 43.5195007324219,
+            "First Kills": 17,
+            "First Deaths": 14
         },
         "@prachan": {
             "Riot Id": "Erischan#777",
             "Rank": "Iron/Bronze",
             "Average ACS": 138.66666666666666,
             "Average K/D": 0.8571428571428571,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 88.9033330281575,
+            "Average KAST": 84.0,
+            "Average HS%": 17.4553332328796,
+            "First Kills": 1,
+            "First Deaths": 1
         },
         "@tempoe": {
             "Riot Id": "Jolteon#Tempo",
             "Rank": "Silver",
-            "Average ACS": 146.0,
+            "Average ACS": 146.16666666666666,
             "Average K/D": 0.7590361445783133,
-            "Most Played Agent": "Vyse"
+            "Most Played Agent": "Vyse",
+            "Average ADR": 99.4316660563151,
+            "Average KAST": 71.6666666666667,
+            "Average HS%": 15.7441670099894,
+            "First Kills": 11,
+            "First Deaths": 10
         },
         "@kroppii": {
             "Riot Id": "s1n#anna",
             "Rank": "Immortal 1/2",
-            "Average ACS": 332.4,
+            "Average ACS": 332.6,
             "Average K/D": 1.9545454545454546,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Reyna",
+            "Average ADR": 216.528002929687,
+            "Average KAST": 82.0,
+            "Average HS%": 42.9849994659424,
+            "First Kills": 12,
+            "First Deaths": 10
         }
     }
 }

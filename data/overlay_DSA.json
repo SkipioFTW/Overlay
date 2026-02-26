@@ -2,8 +2,11 @@
     "team": "Dry Swing Academy",
     "team_tag": "DSA",
     "team_averages": {
-        "avg_acs": 205.22,
-        "avg_kd": 0.99
+        "avg_acs": 205.3,
+        "avg_kd": 0.99,
+        "avg_adr": 125.55373359680172,
+        "avg_kast": 69.5,
+        "avg_fk_success": 45.83333333333333
     },
     "map_win_rates": {
         "Bind": "50.0%",
@@ -16,37 +19,62 @@
         "@squidyy": {
             "Riot Id": "SquidYa0#090",
             "Rank": "Gold",
-            "Average ACS": 173.0,
+            "Average ACS": 173.33333333333334,
             "Average K/D": 0.9777777777777777,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 110.846664428711,
+            "Average KAST": 76.0,
+            "Average HS%": 28.5803330739339,
+            "First Kills": 3,
+            "First Deaths": 6
         },
         "@necromzo": {
             "Riot Id": "Necromzo#KOREA",
             "Rank": "Diamond",
-            "Average ACS": 248.0,
+            "Average ACS": 248.2,
             "Average K/D": 1.0581395348837208,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Skye",
+            "Average ADR": 156.458004760742,
+            "Average KAST": 72.6,
+            "Average HS%": 24.4899997711182,
+            "First Kills": 15,
+            "First Deaths": 17
         },
         "@wet sand": {
             "Riot Id": "WetSand#Groov",
             "Rank": "Platinum",
-            "Average ACS": 282.0,
+            "Average ACS": 282.2,
             "Average K/D": 1.4,
-            "Most Played Agent": "Neon"
+            "Most Played Agent": "Neon",
+            "Average ADR": 177.629998779297,
+            "Average KAST": 70.2,
+            "Average HS%": 20.6479999542236,
+            "First Kills": 20,
+            "First Deaths": 8
         },
         "@felix": {
             "Riot Id": "Bruhs#bruh",
             "Rank": "Gold",
             "Average ACS": 124.0,
             "Average K/D": 0.5974025974025974,
-            "Most Played Agent": "Gekko"
+            "Most Played Agent": "Gekko",
+            "Average ADR": 82.6540016174316,
+            "Average KAST": 59.2,
+            "Average HS%": 12.7675998687744,
+            "First Kills": 2,
+            "First Deaths": 10
         },
         "@cmoneygaming": {
             "Riot Id": "CmoneyGaming#Dodge",
             "Rank": "Gold",
-            "Average ACS": 154.75,
+            "Average ACS": 155.0,
             "Average K/D": 0.7288135593220338,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 100.179998397827,
+            "Average KAST": 69.5,
+            "Average HS%": 16.5922501087189,
+            "First Kills": 4,
+            "First Deaths": 11
         }
     }
 }

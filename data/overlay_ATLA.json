@@ -2,50 +2,78 @@
     "team": "Team Avatar",
     "team_tag": "ATLA",
     "team_averages": {
-        "avg_acs": 211.22,
-        "avg_kd": 1.0
+        "avg_acs": 211.34,
+        "avg_kd": 1.0,
+        "avg_adr": 129.7122336324056,
+        "avg_kast": 70.81666666666666,
+        "avg_fk_success": 51.11111111111111
     },
     "map_win_rates": {
         "Haven": "0.0%",
-        "Split": "0.0%",
         "Corrode": "100.0%",
+        "Split": "0.0%",
         "f": "100.0%"
     },
     "players": {
         "@k1ng_razorr": {
             "Riot Id": "envy#S2000",
             "Rank": "Diamond",
-            "Average ACS": 219.83333333333334,
+            "Average ACS": 220.0,
             "Average K/D": 0.9791666666666666,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Skye",
+            "Average ADR": 140.706667582194,
+            "Average KAST": 71.3333333333333,
+            "Average HS%": 31.4116665522257,
+            "First Kills": 13,
+            "First Deaths": 9
         },
         "@milan1738": {
             "Riot Id": "aang#I738",
             "Rank": "Silver",
             "Average ACS": 181.0,
             "Average K/D": 0.788235294117647,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 109.652001953125,
+            "Average KAST": 71.0,
+            "Average HS%": 26.8400001525879,
+            "First Kills": 8,
+            "First Deaths": 12
         },
         "@gaming_asian": {
             "Riot Id": "zuko#Asian",
             "Rank": "Platinum",
             "Average ACS": 161.0,
             "Average K/D": 0.7230769230769231,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 103.787502288818,
+            "Average KAST": 68.5,
+            "Average HS%": 25.4782502651215,
+            "First Kills": 7,
+            "First Deaths": 7
         },
         "@map_122": {
             "Riot Id": "sokka#Asian",
             "Rank": "Platinum",
-            "Average ACS": 155.6,
+            "Average ACS": 155.8,
             "Average K/D": 0.6835443037974683,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 107.049998474121,
+            "Average KAST": 70.0,
+            "Average HS%": 20.7375999450684,
+            "First Kills": 5,
+            "First Deaths": 11
         },
         "@_sirsai": {
             "Riot Id": "saiki k#caffe",
             "Rank": "Platinum",
             "Average ACS": 287.25,
             "Average K/D": 1.5636363636363635,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 187.36499786377,
+            "Average KAST": 73.25,
+            "Average HS%": 25.3520002365112,
+            "First Kills": 13,
+            "First Deaths": 5
         }
     }
 }

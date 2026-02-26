@@ -42,16 +42,19 @@ function renderTeam(data, color, isTeamA) {
     let playersHtml = '';
     Object.entries(data.players).forEach(([handle, info]) => {
         const agentRaw = info["Most Played Agent"];
-        const agentLower = agentRaw.toLowerCase();
+        const agentLower = (agentRaw || 'default').toLowerCase();
         const role = AGENT_ROLES[agentLower] || 'AGENT';
         const acs = Math.round(info["Average ACS"]);
         const kd = info["Average K/D"] != null ? info["Average K/D"].toFixed(2) : '—';
+        const adr = info["Average ADR"] != null ? Math.round(info["Average ADR"]) : '—';
+        const kast = info["Average KAST"] != null ? Math.round(info["Average KAST"]) : '—';
+        const hs = info["Average HS%"] != null ? Math.round(info["Average HS%"]) : '—';
 
         playersHtml += `
             <div class="player-card" style="--accent-color: ${color}">
                 <div class="card-image-area">
                     <img src="./agents/${agentLower}.jfif"
-                         onerror="this.style.display='none'"
+                         onerror="this.src='./agents/default.jfif'"
                          alt="${agentRaw}">
                     <div class="role-badge">${role}</div>
                 </div>
@@ -64,8 +67,16 @@ function renderTeam(data, color, isTeamA) {
                             <span class="stat-value">${acs}</span>
                         </div>
                         <div class="stat-row">
-                            <span class="stat-label">K/D</span>
-                            <span class="stat-value">${kd}</span>
+                            <span class="stat-label">ADR</span>
+                            <span class="stat-value">${adr}</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">KAST</span>
+                            <span class="stat-value">${kast}%</span>
+                        </div>
+                        <div class="stat-row">
+                            <span class="stat-label">HS%</span>
+                            <span class="stat-value">${hs}%</span>
                         </div>
                     </div>
                 </div>
@@ -77,7 +88,7 @@ function renderTeam(data, color, isTeamA) {
     content.innerHTML = `
         <div class="team-view" style="--accent-color: ${color}">
             <div class="team-header" style="--accent-color: ${color}">
-                <div class="team-icon">${data.team_tag}</div>
+                <div class="team-icon">${data.team_tag || data.team}</div>
                 <div class="team-name">${data.team}</div>
                 <div class="team-side">${sideLabel}</div>
             </div>
@@ -86,7 +97,7 @@ function renderTeam(data, color, isTeamA) {
 }
 
 // ─── Render Comparison View ───
-function renderComparison(dataA, dataB) {
+function renderComparison(dataB, dataA) { // Note: original code might have had teamA/B order, let's keep consistency
     const content = document.getElementById('view-content');
     const colorA = 'var(--team-a-color)';
     const colorB = 'var(--team-b-color)';
@@ -109,15 +120,36 @@ function renderComparison(dataA, dataB) {
             </div>`;
     }).join('');
 
-    // Avg ACS
-    const acsA = dataA.team_averages.avg_acs;
-    const acsB = dataB.team_averages.avg_acs;
-    const acsMax = Math.max(acsA, acsB, 1);
+    // Comparison Metrics
+    const metrics = [
+        { label: 'AVERAGE ADR', key: 'avg_adr', format: (v) => v.toFixed(1), max: 200 },
+        { label: 'ENTRY SUCCESS', key: 'avg_fk_success', format: (v) => v.toFixed(1) + '%', max: 100 },
+        { label: 'AVG KAST', key: 'avg_kast', format: (v) => v.toFixed(1) + '%', max: 100 }
+    ];
 
-    // Avg K/D
-    const kdA = dataA.team_averages.avg_kd;
-    const kdB = dataB.team_averages.avg_kd;
-    const kdMax = Math.max(kdA, kdB, 0.01);
+    let metricsHtml = '';
+    metrics.forEach(m => {
+        const valA = dataA.team_averages[m.key] || 0;
+        const valB = dataB.team_averages[m.key] || 0;
+
+        metricsHtml += `
+            <div class="comp-stat-pair">
+                <div class="comp-stat-box">
+                    <div class="comp-stat-label">${m.label}</div>
+                    <div class="comp-stat-value" style="color:${colorA}">${m.format(valA)}</div>
+                    <div class="comp-stat-bar">
+                        <div class="comp-stat-bar-fill" style="width:${(valA / m.max * 100)}%; background:${colorA}"></div>
+                    </div>
+                </div>
+                <div class="comp-stat-box">
+                    <div class="comp-stat-label">${m.label}</div>
+                    <div class="comp-stat-value" style="color:${colorB}">${m.format(valB)}</div>
+                    <div class="comp-stat-bar">
+                        <div class="comp-stat-bar-fill" style="width:${(valB / m.max * 100)}%; background:${colorB}"></div>
+                    </div>
+                </div>
+            </div>`;
+    });
 
     content.innerHTML = `
         <div class="comparison-layout">
@@ -136,38 +168,7 @@ function renderComparison(dataA, dataB) {
 
             <!-- Stat boxes -->
             <div class="comp-stats-row">
-                <div class="comp-stat-pair">
-                    <div class="comp-stat-box">
-                        <div class="comp-stat-label">AVERAGE ACS</div>
-                        <div class="comp-stat-value" style="color:${colorA}">${acsA.toFixed(1)}</div>
-                        <div class="comp-stat-bar">
-                            <div class="comp-stat-bar-fill" style="width:${(acsA / acsMax * 100)}%; background:${colorA}"></div>
-                        </div>
-                    </div>
-                    <div class="comp-stat-box">
-                        <div class="comp-stat-label">AVERAGE ACS</div>
-                        <div class="comp-stat-value" style="color:${colorB}">${acsB.toFixed(1)}</div>
-                        <div class="comp-stat-bar">
-                            <div class="comp-stat-bar-fill" style="width:${(acsB / acsMax * 100)}%; background:${colorB}"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="comp-stat-pair">
-                    <div class="comp-stat-box">
-                        <div class="comp-stat-label">AVERAGE K/D</div>
-                        <div class="comp-stat-value" style="color:${colorA}">${kdA.toFixed(2)}</div>
-                        <div class="comp-stat-bar">
-                            <div class="comp-stat-bar-fill" style="width:${(kdA / kdMax * 100)}%; background:${colorA}"></div>
-                        </div>
-                    </div>
-                    <div class="comp-stat-box">
-                        <div class="comp-stat-label">AVERAGE K/D</div>
-                        <div class="comp-stat-value" style="color:${colorB}">${kdB.toFixed(2)}</div>
-                        <div class="comp-stat-bar">
-                            <div class="comp-stat-bar-fill" style="width:${(kdB / kdMax * 100)}%; background:${colorB}"></div>
-                        </div>
-                    </div>
-                </div>
+                ${metricsHtml}
             </div>
 
             <!-- Map win rates -->

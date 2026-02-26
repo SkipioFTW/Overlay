@@ -2,50 +2,79 @@
     "team": "Just Banana",
     "team_tag": "JBNN",
     "team_averages": {
-        "avg_acs": 209.82,
-        "avg_kd": 1.0
+        "avg_acs": 210.1,
+        "avg_kd": 1.0,
+        "avg_adr": 146.8067369064176,
+        "avg_kast": 75.34020202020203,
+        "avg_fk_success": 48.322147651006716
     },
     "map_win_rates": {
         "Haven": "100.0%",
         "Corrode": "100.0%",
         "Bind": "100.0%",
-        "Split": "100.0%"
+        "Split": "100.0%",
+        "f": "0.0%"
     },
     "players": {
         "@grandpapapaya": {
             "Riot Id": "Meow Meow Papaya#meow",
             "Rank": "Gold",
-            "Average ACS": 250.63636363636363,
+            "Average ACS": 250.9090909090909,
             "Average K/D": 1.534351145038168,
-            "Most Played Agent": "Phoenix"
+            "Most Played Agent": "Phoenix",
+            "Average ADR": 166.590907703746,
+            "Average KAST": 80.5454545454545,
+            "Average HS%": 23.8078179792924,
+            "First Kills": 17,
+            "First Deaths": 13
         },
         "@imsombr": {
             "Riot Id": "sombr#tubby",
             "Rank": "Gold",
-            "Average ACS": 209.33333333333334,
+            "Average ACS": 209.44444444444446,
             "Average K/D": 1.0763358778625953,
-            "Most Played Agent": "Waylay"
+            "Most Played Agent": "Waylay",
+            "Average ADR": 137.781110975477,
+            "Average KAST": 66.8888888888889,
+            "Average HS%": 31.8105557759603,
+            "First Kills": 30,
+            "First Deaths": 36
         },
         "@depeaa": {
             "Riot Id": "dep#high",
             "Rank": "Ascendant",
-            "Average ACS": 238.0,
+            "Average ACS": 238.2,
             "Average K/D": 1.144927536231884,
-            "Most Played Agent": "Veto"
+            "Most Played Agent": "Veto",
+            "Average ADR": 158.881997680664,
+            "Average KAST": 80.2,
+            "Average HS%": 25.6259998321533,
+            "First Kills": 9,
+            "First Deaths": 11
         },
         "@bloodhunter": {
             "Riot Id": "BloodHunter#2329",
             "Rank": "Diamond",
-            "Average ACS": 266.3333333333333,
+            "Average ACS": 266.5,
             "Average K/D": 1.5128205128205128,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 167.411668141683,
+            "Average KAST": 78.6666666666667,
+            "Average HS%": 30.8206669489543,
+            "First Kills": 12,
+            "First Deaths": 13
         },
         "@pokemon0622": {
             "Riot Id": "Zheng#FAD3",
             "Rank": "Gold",
             "Average ACS": 161.0,
             "Average K/D": 1.0158730158730158,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 103.368000030518,
+            "Average KAST": 70.4,
+            "Average HS%": 14.2050002098084,
+            "First Kills": 4,
+            "First Deaths": 4
         }
     }
 }

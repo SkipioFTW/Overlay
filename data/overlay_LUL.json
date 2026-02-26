@@ -3,7 +3,10 @@
     "team_tag": "LUL",
     "team_averages": {
         "avg_acs": 206.58,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 133.2522671000163,
+        "avg_kast": 64.78,
+        "avg_fk_success": 41.891891891891895
     },
     "map_win_rates": {
         "Split": "0.0%",
@@ -17,35 +20,60 @@
             "Rank": "Ascendant",
             "Average ACS": 177.2,
             "Average K/D": 0.6382978723404256,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 124.270000457764,
+            "Average KAST": 63.0,
+            "Average HS%": 22.5345001220703,
+            "First Kills": 9,
+            "First Deaths": 8
         },
         "@bjyornk": {
             "Riot Id": "OldAsianGrandpa#ASIAN",
             "Rank": "Diamond",
             "Average ACS": 239.33333333333334,
             "Average K/D": 1.10989010989011,
-            "Most Played Agent": "Astra"
+            "Most Played Agent": "Astra",
+            "Average ADR": 161.688000488281,
+            "Average KAST": 65.4,
+            "Average HS%": 28.0213996887207,
+            "First Kills": 8,
+            "First Deaths": 18
         },
         "@maiadorable": {
             "Riot Id": "Whelmed#UwU",
             "Rank": "Gold",
             "Average ACS": 115.5,
             "Average K/D": 0.45588235294117646,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 93.9133326212565,
+            "Average KAST": 58.3333333333333,
+            "Average HS%": 26.0516668955485,
+            "First Kills": 0,
+            "First Deaths": 4
         },
         "@guxximane_36013": {
             "Riot Id": "gangbangingcat67#6767",
             "Rank": "Diamond",
             "Average ACS": 295.0,
             "Average K/D": 1.3333333333333333,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 198.900001525879,
+            "Average KAST": 68.5,
+            "Average HS%": 26.2084999084473,
+            "First Kills": 9,
+            "First Deaths": 6
         },
         "@papa_sports9318": {
             "Riot Id": "Kaji#immo",
             "Rank": "Iron/Bronze",
             "Average ACS": 119.0,
             "Average K/D": 0.5714285714285714,
-            "Most Played Agent": "Deadlock"
+            "Most Played Agent": "Deadlock",
+            "Average ADR": 87.490000406901,
+            "Average KAST": 68.6666666666667,
+            "Average HS%": 18.6733328501383,
+            "First Kills": 5,
+            "First Deaths": 7
         }
     }
 }

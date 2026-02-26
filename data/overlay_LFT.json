@@ -2,50 +2,78 @@
     "team": "Looking For Time",
     "team_tag": "LFT",
     "team_averages": {
-        "avg_acs": 214.12,
-        "avg_kd": 1.0
+        "avg_acs": 214.28,
+        "avg_kd": 1.0,
+        "avg_adr": 129.75464275541754,
+        "avg_kast": 69.6304761904762,
+        "avg_fk_success": 49.333333333333336
     },
     "map_win_rates": {
         "Split": "0.0%",
-        "Haven": "0.0%",
         "f": "100.0%",
+        "Haven": "0.0%",
         "Bind": "100.0%"
     },
     "players": {
         "@dumbbacon": {
             "Riot Id": "dumbbacon#bac0n",
             "Rank": "Silver",
-            "Average ACS": 188.71428571428572,
+            "Average ACS": 188.85714285714286,
             "Average K/D": 0.8632478632478633,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 131.325715201242,
+            "Average KAST": 74.2857142857143,
+            "Average HS%": 20.0929998670306,
+            "First Kills": 3,
+            "First Deaths": 2
         },
         "@kitsunekazumai": {
             "Riot Id": "KitsuneKazumai#kitsu",
             "Rank": "Platinum",
             "Average ACS": 121.66666666666667,
             "Average K/D": 0.47058823529411764,
-            "Most Played Agent": "Neon"
+            "Most Played Agent": "Neon",
+            "Average ADR": 82.4166666666667,
+            "Average KAST": 64.0,
+            "Average HS%": 21.0336666107178,
+            "First Kills": 3,
+            "First Deaths": 6
         },
         "@vdup": {
             "Riot Id": "julie#aim",
             "Rank": "Diamond",
             "Average ACS": 253.2,
             "Average K/D": 1.1162790697674418,
-            "Most Played Agent": "Raze"
+            "Most Played Agent": "Raze",
+            "Average ADR": 165.989999389648,
+            "Average KAST": 71.2,
+            "Average HS%": 42.9189994812012,
+            "First Kills": 22,
+            "First Deaths": 15
         },
         "@.sprees": {
             "Riot Id": "Ping#China",
             "Rank": "Diamond",
-            "Average ACS": 228.25,
+            "Average ACS": 228.5,
             "Average K/D": 1.0806451612903225,
-            "Most Played Agent": "Veto"
+            "Most Played Agent": "Veto",
+            "Average ADR": 152.4375,
+            "Average KAST": 69.0,
+            "Average HS%": 27.6367499828339,
+            "First Kills": 8,
+            "First Deaths": 7
         },
         "@blackpheneix": {
             "Riot Id": "Enuxio#789",
             "Rank": "Silver",
-            "Average ACS": 180.0,
+            "Average ACS": 180.33333333333334,
             "Average K/D": 0.8163265306122449,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 116.603332519531,
+            "Average KAST": 69.6666666666667,
+            "Average HS%": 34.4593327840169,
+            "First Kills": 1,
+            "First Deaths": 8
         }
     }
 }

@@ -2,8 +2,11 @@
     "team": "THE FLAWK",
     "team_tag": "FLAW",
     "team_averages": {
-        "avg_acs": 209.07,
-        "avg_kd": 1.0
+        "avg_acs": 209.25,
+        "avg_kd": 1.0,
+        "avg_adr": 145.6399331919352,
+        "avg_kast": 71.33428571428571,
+        "avg_fk_success": 55.55555555555556
     },
     "map_win_rates": {
         "Corrode": "33.33333333333333%",
@@ -15,37 +18,62 @@
         "@pigeonwithsniper": {
             "Riot Id": "Pigeonwithsniper#IRON1",
             "Rank": "Iron/Bronze",
-            "Average ACS": 102.4,
+            "Average ACS": 102.8,
             "Average K/D": 0.45,
-            "Most Played Agent": "Brimstone"
+            "Most Played Agent": "Brimstone",
+            "Average ADR": 64.4980007171631,
+            "Average KAST": 62.6,
+            "Average HS%": 17.357200050354,
+            "First Kills": 6,
+            "First Deaths": 1
         },
         "@syno_ow": {
             "Riot Id": "Syno#eevee",
             "Rank": "Diamond",
-            "Average ACS": 260.3333333333333,
+            "Average ACS": 260.5,
             "Average K/D": 1.173469387755102,
-            "Most Played Agent": "Waylay"
+            "Most Played Agent": "Waylay",
+            "Average ADR": 173.300000508626,
+            "Average KAST": 72.1666666666667,
+            "Average HS%": 22.9560000101725,
+            "First Kills": 16,
+            "First Deaths": 18
         },
         "@nick305x": {
             "Riot Id": "DFM Fan Moss#Gon",
             "Rank": "Diamond",
-            "Average ACS": 179.66666666666666,
+            "Average ACS": 179.83333333333334,
             "Average K/D": 0.8736842105263158,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Sova",
+            "Average ADR": 120.771667480469,
+            "Average KAST": 64.3333333333333,
+            "Average HS%": 24.4376668930054,
+            "First Kills": 11,
+            "First Deaths": 17
         },
         "@icyhotloser": {
             "Riot Id": "Shoto#IcyHo",
             "Rank": "Platinum",
-            "Average ACS": 233.42857142857142,
+            "Average ACS": 233.57142857142858,
             "Average K/D": 1.1327433628318584,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 148.339996337891,
+            "Average KAST": 67.5714285714286,
+            "Average HS%": 17.1907141549247,
+            "First Kills": 26,
+            "First Deaths": 13
         },
         "@welovenb": {
             "Riot Id": "nb1#zera",
             "Rank": "Diamond",
             "Average ACS": 313.0,
             "Average K/D": 1.7307692307692308,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Viper",
+            "Average ADR": 221.290000915527,
+            "Average KAST": 90.0,
+            "Average HS%": 33.460000038147,
+            "First Kills": 6,
+            "First Deaths": 3
         }
     }
 }

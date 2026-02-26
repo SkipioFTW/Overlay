@@ -2,49 +2,78 @@
     "team": "GIN AND TOXIC",
     "team_tag": "GT",
     "team_averages": {
-        "avg_acs": 205.26,
-        "avg_kd": 1.0
+        "avg_acs": 204.93,
+        "avg_kd": 1.0,
+        "avg_adr": 143.2437625885012,
+        "avg_kast": 79.95357142857142,
+        "avg_fk_success": 61.016949152542374
     },
     "map_win_rates": {
         "Breeze": "0.0%",
         "Split": "100.0%",
+        "Haven": "100.0%",
         "f": "0.0%"
     },
     "players": {
         "@orangereptile": {
             "Riot Id": "Garfield#910",
             "Rank": "Iron/Bronze",
-            "Average ACS": 169.16666666666666,
-            "Average K/D": 0.810126582278481,
-            "Most Played Agent": "Brimstone"
+            "Average ACS": 167.71428571428572,
+            "Average K/D": 0.8314606741573034,
+            "Most Played Agent": "Brimstone",
+            "Average ADR": 105.117141723633,
+            "Average KAST": 80.1428571428571,
+            "Average HS%": 11.0691428865705,
+            "First Kills": 6,
+            "First Deaths": 7
         },
         "@dbasian": {
             "Riot Id": "Briiban#birb",
             "Rank": "Gold",
-            "Average ACS": 187.71428571428572,
-            "Average K/D": 0.8679245283018868,
-            "Most Played Agent": "KAY/O"
+            "Average ACS": 193.625,
+            "Average K/D": 0.9145299145299145,
+            "Most Played Agent": "KAY/O",
+            "Average ADR": 121.315000534058,
+            "Average KAST": 72.375,
+            "Average HS%": 13.5847499370575,
+            "First Kills": 13,
+            "First Deaths": 16
         },
         "@kiw1ki": {
             "Riot Id": "kiwi#melon",
             "Rank": "Platinum",
-            "Average ACS": 141.33333333333334,
-            "Average K/D": 1.0,
-            "Most Played Agent": "Skye"
+            "Average ACS": 165.0,
+            "Average K/D": 1.2162162162162162,
+            "Most Played Agent": "Skye",
+            "Average ADR": 102.650001525879,
+            "Average KAST": 86.75,
+            "Average HS%": 12.082249879837,
+            "First Kills": 3,
+            "First Deaths": 2
         },
         "@asianganggaming": {
             "Riot Id": "Pho Dac Biet\u03a8#6969",
             "Rank": "Ascendant",
-            "Average ACS": 323.4,
-            "Average K/D": 1.3703703703703705,
-            "Most Played Agent": "Jett"
+            "Average ACS": 323.6666666666667,
+            "Average K/D": 1.4395604395604396,
+            "Most Played Agent": "Jett",
+            "Average ADR": 202.69500096639,
+            "Average KAST": 76.5,
+            "Average HS%": 21.2523333231608,
+            "First Kills": 33,
+            "First Deaths": 20
         },
         "@myhowto": {
             "Riot Id": "myhowto#1234",
             "Rank": "Ascendant",
-            "Average ACS": 300.6,
-            "Average K/D": 2.1403508771929824,
-            "Most Played Agent": "Chamber"
+            "Average ACS": 291.8333333333333,
+            "Average K/D": 2.106060606060606,
+            "Most Played Agent": "Chamber",
+            "Average ADR": 184.441668192546,
+            "Average KAST": 84.0,
+            "Average HS%": 27.220666885376,
+            "First Kills": 17,
+            "First Deaths": 1
         }
     }
 }

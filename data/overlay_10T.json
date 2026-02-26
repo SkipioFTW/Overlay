@@ -2,50 +2,78 @@
     "team": "10 thieves",
     "team_tag": "10T",
     "team_averages": {
-        "avg_acs": 206.7,
-        "avg_kd": 1.0
+        "avg_acs": 205.12,
+        "avg_kd": 1.0,
+        "avg_adr": 131.3520071954436,
+        "avg_kast": 67.2465367965368,
+        "avg_fk_success": 48.10126582278481
     },
     "map_win_rates": {
         "Split": "100.0%",
         "Bind": "50.0%",
         "Breeze": "0.0%",
-        "f": "0.0%"
+        "Abyss": "0.0%"
     },
     "players": {
         "@lkwamazing9": {
             "Riot Id": "lkwamazing9#tft",
             "Rank": "Gold",
-            "Average ACS": 193.66666666666666,
-            "Average K/D": 0.8596491228070176,
-            "Most Played Agent": "Brimstone"
+            "Average ACS": 169.5,
+            "Average K/D": 0.7714285714285715,
+            "Most Played Agent": "Astra",
+            "Average ADR": 111.647498130798,
+            "Average KAST": 63.5,
+            "Average HS%": 24.9922494888306,
+            "First Kills": 12,
+            "First Deaths": 15
         },
         "@penguinz": {
             "Riot Id": "Penguin#P0LAR",
             "Rank": "Platinum",
-            "Average ACS": 177.6,
-            "Average K/D": 0.7852760736196319,
-            "Most Played Agent": "Fade"
+            "Average ACS": 171.72727272727272,
+            "Average K/D": 0.7528089887640449,
+            "Most Played Agent": "Fade",
+            "Average ADR": 113.515455072576,
+            "Average KAST": 64.3636363636364,
+            "Average HS%": 17.2927272536538,
+            "First Kills": 28,
+            "First Deaths": 33
         },
         "@ansussy": {
             "Riot Id": "ansussy#sus",
             "Rank": "Ascendant",
-            "Average ACS": 281.42857142857144,
-            "Average K/D": 1.6019417475728155,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 276.875,
+            "Average K/D": 1.5169491525423728,
+            "Most Played Agent": "Yoru",
+            "Average ADR": 177.308750152588,
+            "Average KAST": 81.25,
+            "Average HS%": 29.7887501716614,
+            "First Kills": 18,
+            "First Deaths": 11
         },
         "@mysticz": {
             "Riot Id": "MysticZ#000",
             "Rank": "Iron/Bronze",
-            "Average ACS": 112.6,
-            "Average K/D": 0.4838709677419355,
-            "Most Played Agent": "Cypher"
+            "Average ACS": 105.71428571428571,
+            "Average K/D": 0.44537815126050423,
+            "Most Played Agent": "Cypher",
+            "Average ADR": 71.1599998474121,
+            "Average KAST": 53.2857142857143,
+            "Average HS%": 10.9889999798366,
+            "First Kills": 3,
+            "First Deaths": 10
         },
         "@thesopsupplier": {
             "Riot Id": "TheSopSupplier#7130",
             "Rank": "Ascendant",
-            "Average ACS": 296.2,
-            "Average K/D": 1.5308641975308641,
-            "Most Played Agent": "Cypher"
+            "Average ACS": 283.5,
+            "Average K/D": 1.4210526315789473,
+            "Most Played Agent": "Chamber",
+            "Average ADR": 183.128332773844,
+            "Average KAST": 73.8333333333333,
+            "Average HS%": 35.3063338597616,
+            "First Kills": 15,
+            "First Deaths": 13
         }
     }
 }

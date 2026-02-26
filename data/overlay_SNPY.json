@@ -3,14 +3,17 @@
     "team_tag": "SNPY",
     "team_averages": {
         "avg_acs": 207.86,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 132.49775161743173,
+        "avg_kast": 69.525,
+        "avg_fk_success": 50.0
     },
     "map_win_rates": {
         "Haven": "100.0%",
         "Breeze": "100.0%",
         "Split": "50.0%",
         "Corrode": "100.0%",
-        "f": "100.0%"
+        "f": "50.0%"
     },
     "players": {
         "@cooltcm": {
@@ -18,35 +21,60 @@
             "Rank": "Gold",
             "Average ACS": 176.5,
             "Average K/D": 0.8363636363636363,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 117.22500038147,
+            "Average KAST": 71.25,
+            "Average HS%": 15.2925000190735,
+            "First Kills": 8,
+            "First Deaths": 10
         },
         "@mae.baee": {
             "Riot Id": "20221118#ily",
             "Rank": "Diamond",
             "Average ACS": null,
             "Average K/D": null,
-            "Most Played Agent": null
+            "Most Played Agent": null,
+            "Average ADR": null,
+            "Average KAST": null,
+            "Average HS%": null,
+            "First Kills": null,
+            "First Deaths": null
         },
         "@pluto.gg": {
             "Riot Id": "bbyplu#pluto",
             "Rank": "Iron/Bronze",
             "Average ACS": 135.4,
             "Average K/D": 0.6388888888888888,
-            "Most Played Agent": "Iso"
+            "Most Played Agent": "Iso",
+            "Average ADR": 89.7820007324219,
+            "Average KAST": 63.0,
+            "Average HS%": 26.4241996765137,
+            "First Kills": 10,
+            "First Deaths": 10
         },
         "@sixxoo": {
             "Riot Id": "blkswn#0228",
             "Rank": "Ascendant",
             "Average ACS": 269.6,
             "Average K/D": 1.303030303030303,
-            "Most Played Agent": "Waylay"
+            "Most Played Agent": "Waylay",
+            "Average ADR": 172.50400390625,
+            "Average KAST": 72.6,
+            "Average HS%": 33.7419998168945,
+            "First Kills": 11,
+            "First Deaths": 10
         },
         "@ilomilod": {
             "Riot Id": "louphoria#0228",
             "Rank": "Diamond",
             "Average ACS": 220.25,
             "Average K/D": 1.1228070175438596,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 150.480001449585,
+            "Average KAST": 71.25,
+            "Average HS%": 27.0557498931885,
+            "First Kills": 7,
+            "First Deaths": 6
         }
     }
 }

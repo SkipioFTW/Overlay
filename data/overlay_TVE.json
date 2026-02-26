@@ -3,11 +3,15 @@
     "team_tag": "TVE",
     "team_averages": {
         "avg_acs": 211.23,
-        "avg_kd": 0.99
+        "avg_kd": 0.99,
+        "avg_adr": 139.9346668243408,
+        "avg_kast": 71.87,
+        "avg_fk_success": 50.0
     },
     "map_win_rates": {
         "Split": "50.0%",
         "Corrode": "0.0%",
+        "f": "0.0%",
         "Bind": "100.0%"
     },
     "players": {
@@ -16,35 +20,60 @@
             "Rank": "Ascendant",
             "Average ACS": 285.4,
             "Average K/D": 1.3333333333333333,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 183.518000793457,
+            "Average KAST": 76.0,
+            "Average HS%": 29.4953998565674,
+            "First Kills": 9,
+            "First Deaths": 13
         },
         "@mighty_bug": {
             "Riot Id": "MightyBug464#NA1",
             "Rank": "Gold",
             "Average ACS": 154.4,
             "Average K/D": 0.6444444444444445,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 105.202000427246,
+            "Average KAST": 64.6,
+            "Average HS%": 16.4733999252319,
+            "First Kills": 5,
+            "First Deaths": 6
         },
         "@apmoberg": {
             "Riot Id": "apmoberg#NA1",
             "Rank": "Iron/Bronze",
             "Average ACS": 133.0,
             "Average K/D": 0.6881720430107527,
-            "Most Played Agent": "Sage"
+            "Most Played Agent": "Sage",
+            "Average ADR": 85.488333384196,
+            "Average KAST": 72.1666666666667,
+            "Average HS%": 14.8803333044052,
+            "First Kills": 4,
+            "First Deaths": 4
         },
         "@jfkpeakedglaz21": {
             "Riot Id": "Ignore#999",
             "Rank": "Silver",
             "Average ACS": 169.16666666666666,
             "Average K/D": 0.7956989247311828,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 114.224999745687,
+            "Average KAST": 69.3333333333333,
+            "Average HS%": 12.3051666418711,
+            "First Kills": 22,
+            "First Deaths": 20
         },
         "@.avyy.": {
             "Riot Id": "i play osu#1234",
             "Rank": "Ascendant",
             "Average ACS": 314.25,
             "Average K/D": 1.4696969696969697,
-            "Most Played Agent": "Raze"
+            "Most Played Agent": "Raze",
+            "Average ADR": 211.239999771118,
+            "Average KAST": 77.25,
+            "Average HS%": 28.1837496757507,
+            "First Kills": 16,
+            "First Deaths": 13
         }
     }
 }

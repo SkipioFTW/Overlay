@@ -2,13 +2,16 @@
     "team": "Whiff City",
     "team_tag": "CITY",
     "team_averages": {
-        "avg_acs": 205.55,
-        "avg_kd": 1.0
+        "avg_acs": 205.62,
+        "avg_kd": 1.0,
+        "avg_adr": 126.5021729648475,
+        "avg_kast": 66.87515151515152,
+        "avg_fk_success": 48.9051094890511
     },
     "map_win_rates": {
         "Haven": "50.0%",
-        "Corrode": "0.0%",
         "Pearl": "100.0%",
+        "Corrode": "0.0%",
         "Bind": "100.0%",
         "Abyss": "0.0%"
     },
@@ -16,37 +19,62 @@
         "@aimbotalex.": {
             "Riot Id": "aimbotalex#5171",
             "Rank": "Diamond",
-            "Average ACS": 325.0833333333333,
+            "Average ACS": 325.1666666666667,
             "Average K/D": 1.5743589743589743,
-            "Most Played Agent": "Phoenix"
+            "Most Played Agent": "Phoenix",
+            "Average ADR": 208.426361777566,
+            "Average KAST": 74.9090909090909,
+            "Average HS%": 36.0985454212536,
+            "First Kills": 49,
+            "First Deaths": 36
         },
         "@itsalphonse": {
             "Riot Id": "ChocolateMilk#Bars",
             "Rank": "Silver",
-            "Average ACS": 158.2,
+            "Average ACS": 158.4,
             "Average K/D": 0.75,
-            "Most Played Agent": "Viper"
+            "Most Played Agent": "Viper",
+            "Average ADR": 111.107500076294,
+            "Average KAST": 63.5,
+            "Average HS%": 25.7085008621216,
+            "First Kills": 5,
+            "First Deaths": 10
         },
         "@pizzawaffle": {
             "Riot Id": "Asao#Asuna",
             "Rank": "Platinum",
             "Average ACS": 165.66666666666666,
             "Average K/D": 0.8555555555555555,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 109.271998596191,
+            "Average KAST": 65.8,
+            "Average HS%": 23.2322002410889,
+            "First Kills": 5,
+            "First Deaths": 11
         },
         "@jacsm": {
             "Riot Id": "ralsei#2763",
             "Rank": "Gold",
             "Average ACS": 177.5,
             "Average K/D": 0.9696969696969697,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 114.575004577637,
+            "Average KAST": 65.5,
+            "Average HS%": 18.8980002403259,
+            "First Kills": 1,
+            "First Deaths": 3
         },
         "@78ongamecube": {
             "Riot Id": "gamecube#1027",
             "Rank": "Diamond",
             "Average ACS": 148.75,
             "Average K/D": 0.7101449275362319,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 89.1299997965495,
+            "Average KAST": 64.6666666666667,
+            "Average HS%": 46.4813334147135,
+            "First Kills": 7,
+            "First Deaths": 10
         }
     }
 }

@@ -2,8 +2,11 @@
     "team": "doug",
     "team_tag": "DOUG",
     "team_averages": {
-        "avg_acs": 209.78,
-        "avg_kd": 1.0
+        "avg_acs": 209.82,
+        "avg_kd": 1.0,
+        "avg_adr": 132.0974382237026,
+        "avg_kast": 67.27714285714286,
+        "avg_fk_success": 45.16129032258064
     },
     "map_win_rates": {
         "Split": "0.0%",
@@ -17,35 +20,60 @@
             "Rank": "Gold",
             "Average ACS": 237.66666666666666,
             "Average K/D": 1.03,
-            "Most Played Agent": "Raze"
+            "Most Played Agent": "Raze",
+            "Average ADR": 152.646666208903,
+            "Average KAST": 70.1666666666667,
+            "Average HS%": 23.6404995918274,
+            "First Kills": 14,
+            "First Deaths": 15
         },
         "@fraudulent0200": {
             "Riot Id": "lettuce#miow",
             "Rank": "Silver",
             "Average ACS": 113.0,
             "Average K/D": 0.5735294117647058,
-            "Most Played Agent": "Cypher"
+            "Most Played Agent": "Cypher",
+            "Average ADR": 79.776000213623,
+            "Average KAST": 63.6,
+            "Average HS%": 27.6189992904663,
+            "First Kills": 1,
+            "First Deaths": 4
         },
         "@littlebeo927": {
             "Riot Id": "bobbysauce#mild",
             "Rank": "Platinum",
-            "Average ACS": 146.85714285714286,
+            "Average ACS": 147.0,
             "Average K/D": 0.5652173913043478,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 100.334286281041,
+            "Average KAST": 66.5714285714286,
+            "Average HS%": 23.9322858537946,
+            "First Kills": 7,
+            "First Deaths": 17
         },
         "@natelb3": {
             "Riot Id": "nate#valo",
             "Rank": "Ascendant",
             "Average ACS": 217.0,
             "Average K/D": 0.9482758620689655,
-            "Most Played Agent": "Phoenix"
+            "Most Played Agent": "Phoenix",
+            "Average ADR": 142.268571036203,
+            "Average KAST": 63.7142857142857,
+            "Average HS%": 29.2140001569475,
+            "First Kills": 23,
+            "First Deaths": 25
         },
         "@deron0293": {
             "Riot Id": "DKgaz YT#Gay",
             "Rank": "Diamond",
             "Average ACS": 280.3333333333333,
             "Average K/D": 1.4942528735632183,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Skye",
+            "Average ADR": 185.461667378743,
+            "Average KAST": 72.3333333333333,
+            "Average HS%": 24.7321669260661,
+            "First Kills": 11,
+            "First Deaths": 7
         }
     }
 }

@@ -2,14 +2,18 @@
     "team": "Ayrox Esports",
     "team_tag": "ARX",
     "team_averages": {
-        "avg_acs": 204.3,
-        "avg_kd": 1.0
+        "avg_acs": 204.38,
+        "avg_kd": 1.0,
+        "avg_adr": 137.0188565208798,
+        "avg_kast": 70.21428571428572,
+        "avg_fk_success": 51.64835164835166
     },
     "map_win_rates": {
         "Bind": "100.0%",
         "Split": "0.0%",
-        "Corrode": "0.0%",
-        "Haven": "100.0%"
+        "Haven": "100.0%",
+        "f": "0.0%",
+        "Corrode": "0.0%"
     },
     "players": {
         "@joemonkey.": {
@@ -17,35 +21,60 @@
             "Rank": "Gold",
             "Average ACS": 180.66666666666666,
             "Average K/D": 1.119047619047619,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 109.406664530436,
+            "Average KAST": 73.3333333333333,
+            "Average HS%": 15.9996665318807,
+            "First Kills": 5,
+            "First Deaths": 3
         },
         "@cyteri": {
             "Riot Id": "Cyteri#P1QNK",
             "Rank": "Gold",
             "Average ACS": 206.0,
             "Average K/D": 0.9819819819819819,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 134.734284537179,
+            "Average KAST": 74.5714285714286,
+            "Average HS%": 22.2519999912807,
+            "First Kills": 14,
+            "First Deaths": 8
         },
         "@zdyzze": {
             "Riot Id": "Infinite ZDYZZE#SDS",
             "Rank": "Gold",
             "Average ACS": 161.66666666666666,
             "Average K/D": 0.7450980392156863,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 112.903330485026,
+            "Average KAST": 65.6666666666667,
+            "Average HS%": 37.9629999796549,
+            "First Kills": 6,
+            "First Deaths": 11
         },
         "@moistloonie": {
             "Riot Id": "Loon#6741",
             "Rank": "Diamond",
             "Average ACS": 243.75,
             "Average K/D": 1.129032258064516,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 162.170001983643,
+            "Average KAST": 68.75,
+            "Average HS%": 24.0220000743866,
+            "First Kills": 13,
+            "First Deaths": 14
         },
         "@matcha_muncher.": {
             "Riot Id": "Suo san\u30c4#Haru",
             "Rank": "Diamond",
             "Average ACS": 265.5,
             "Average K/D": 1.5283018867924527,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 165.880001068115,
+            "Average KAST": 68.75,
+            "Average HS%": 26.6315002441406,
+            "First Kills": 9,
+            "First Deaths": 8
         }
     }
 }

@@ -2,50 +2,78 @@
     "team": "The Omen Protocol",
     "team_tag": "TOP",
     "team_averages": {
-        "avg_acs": 209.52,
-        "avg_kd": 1.0
+        "avg_acs": 208.22,
+        "avg_kd": 1.0,
+        "avg_adr": 123.8770328330994,
+        "avg_kast": 67.61333333333334,
+        "avg_fk_success": 59.036144578313255
     },
     "map_win_rates": {
         "Bind": "0.0%",
         "Corrode": "0.0%",
-        "Haven": "50.0%",
-        "f": "50.0%"
+        "Haven": "33.33333333333333%",
+        "f": "100.0%"
     },
     "players": {
         "@djbeesquared": {
             "Riot Id": "HellsBells#Queen",
             "Rank": "Iron/Bronze",
-            "Average ACS": 62.0,
-            "Average K/D": 0.22641509433962265,
-            "Most Played Agent": "Deadlock"
+            "Average ACS": 61.0,
+            "Average K/D": 0.2463768115942029,
+            "Most Played Agent": "Deadlock",
+            "Average ADR": 37.1925005912781,
+            "Average KAST": 59.0,
+            "Average HS%": 10.7125000953674,
+            "First Kills": 4,
+            "First Deaths": 5
         },
         "@matt3r_": {
             "Riot Id": "MATT3R#007",
             "Rank": "Gold",
-            "Average ACS": 302.25,
-            "Average K/D": 1.3676470588235294,
-            "Most Played Agent": "Chamber"
+            "Average ACS": 272.2,
+            "Average K/D": 1.216867469879518,
+            "Most Played Agent": "Chamber",
+            "Average ADR": 179.110000610352,
+            "Average KAST": 73.8,
+            "Average HS%": 22.4088001251221,
+            "First Kills": 21,
+            "First Deaths": 11
         },
         "@whoviancat": {
             "Riot Id": "WhovianCat#Mew",
             "Rank": "Gold",
             "Average ACS": 146.33333333333334,
             "Average K/D": 0.6326530612244898,
-            "Most Played Agent": "Killjoy"
+            "Most Played Agent": "Killjoy",
+            "Average ADR": 105.636665344238,
+            "Average KAST": 62.6666666666667,
+            "Average HS%": 11.724666595459,
+            "First Kills": 5,
+            "First Deaths": 7
         },
         "@.woc.": {
             "Riot Id": "Cash Carti#vampp",
             "Rank": "Platinum",
-            "Average ACS": 270.75,
-            "Average K/D": 1.4666666666666668,
-            "Most Played Agent": "Jett"
+            "Average ACS": 241.4,
+            "Average K/D": 1.2207792207792207,
+            "Most Played Agent": "Jett",
+            "Average ADR": 158.441998291016,
+            "Average KAST": 69.8,
+            "Average HS%": 30.1186000823975,
+            "First Kills": 12,
+            "First Deaths": 6
         },
         "@skylilyy": {
             "Riot Id": "Skylily#wine",
             "Rank": "Ascendant",
-            "Average ACS": 191.5,
-            "Average K/D": 0.873015873015873,
-            "Most Played Agent": "Fade"
+            "Average ACS": 202.0,
+            "Average K/D": 0.9090909090909091,
+            "Most Played Agent": "Sova",
+            "Average ADR": 139.003999328613,
+            "Average KAST": 72.8,
+            "Average HS%": 31.3945999145508,
+            "First Kills": 7,
+            "First Deaths": 5
         }
     }
 }

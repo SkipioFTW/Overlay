@@ -2,8 +2,11 @@
     "team": "RISE Dusk",
     "team_tag": "DUSK",
     "team_averages": {
-        "avg_acs": 213.97,
-        "avg_kd": 1.0
+        "avg_acs": 214.08,
+        "avg_kd": 1.0,
+        "avg_adr": 131.4147693743024,
+        "avg_kast": 64.88,
+        "avg_fk_success": 48.484848484848484
     },
     "map_win_rates": {
         "Split": "50.0%",
@@ -17,35 +20,60 @@
             "Rank": "Gold",
             "Average ACS": 195.0,
             "Average K/D": 0.696969696969697,
-            "Most Played Agent": "Reyna"
+            "Most Played Agent": "Reyna",
+            "Average ADR": 134.134994506836,
+            "Average KAST": 50.0,
+            "Average HS%": 16.0260000228882,
+            "First Kills": 4,
+            "First Deaths": 8
         },
         "@beesmii": {
             "Riot Id": "Beesmii#mwah",
             "Rank": "Gold",
             "Average ACS": 198.71428571428572,
             "Average K/D": 0.8617886178861789,
-            "Most Played Agent": "Skye"
+            "Most Played Agent": "Skye",
+            "Average ADR": 125.372855050223,
+            "Average KAST": 71.0,
+            "Average HS%": 19.5585714067732,
+            "First Kills": 11,
+            "First Deaths": 11
         },
         "@sirsqu1d": {
             "Riot Id": "Squ1d#flv",
             "Rank": "Ascendant",
             "Average ACS": 218.6,
             "Average K/D": 0.9431818181818182,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 143.696000671387,
+            "Average KAST": 66.6,
+            "Average HS%": 22.0165996551514,
+            "First Kills": 19,
+            "First Deaths": 18
         },
         "@lazarus5300": {
             "Riot Id": "Lazarus#urbad",
             "Rank": "Diamond",
-            "Average ACS": 202.4,
+            "Average ACS": 202.6,
             "Average K/D": 0.9239130434782609,
-            "Most Played Agent": "Omen"
+            "Most Played Agent": "Omen",
+            "Average ADR": 135.497998046875,
+            "Average KAST": 70.0,
+            "Average HS%": 25.342200088501,
+            "First Kills": 10,
+            "First Deaths": 6
         },
         "@pinkublink": {
             "Riot Id": "Ken Gyo#BLINK",
             "Rank": "Silver",
-            "Average ACS": 172.8,
+            "Average ACS": 173.0,
             "Average K/D": 0.6666666666666666,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 118.371998596191,
+            "Average KAST": 66.8,
+            "Average HS%": 13.1593997955322,
+            "First Kills": 4,
+            "First Deaths": 8
         }
     }
 }

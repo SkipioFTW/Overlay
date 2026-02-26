@@ -3,7 +3,10 @@
     "team_tag": "ECO",
     "team_averages": {
         "avg_acs": 201.12,
-        "avg_kd": 1.0
+        "avg_kd": 1.0,
+        "avg_adr": 127.38233339945455,
+        "avg_kast": 71.76,
+        "avg_fk_success": 47.25274725274725
     },
     "map_win_rates": {
         "Haven": "100.0%",
@@ -17,35 +20,60 @@
             "Rank": "Ascendant",
             "Average ACS": 253.5,
             "Average K/D": 1.3170731707317074,
-            "Most Played Agent": "Yoru"
+            "Most Played Agent": "Yoru",
+            "Average ADR": 164.336667378743,
+            "Average KAST": 76.0,
+            "Average HS%": 29.1961663564046,
+            "First Kills": 20,
+            "First Deaths": 18
         },
         "@kamm2sexy": {
             "Riot Id": "Humble King#hmble",
             "Rank": "Diamond",
             "Average ACS": 215.0,
             "Average K/D": 1.0138888888888888,
-            "Most Played Agent": "Jett"
+            "Most Played Agent": "Jett",
+            "Average ADR": 139.386000061035,
+            "Average KAST": 67.8,
+            "Average HS%": 22.4966000080109,
+            "First Kills": 12,
+            "First Deaths": 14
         },
         "@keegan_23": {
             "Riot Id": "Splash#5070",
             "Rank": "Platinum",
             "Average ACS": 182.75,
             "Average K/D": 0.9152542372881356,
-            "Most Played Agent": "Sova"
+            "Most Played Agent": "Sova",
+            "Average ADR": 124.719999313354,
+            "Average KAST": 81.5,
+            "Average HS%": 14.9914999008179,
+            "First Kills": 3,
+            "First Deaths": 3
         },
         "@t1dal.wave": {
             "Riot Id": "t1dalwave#MSST",
             "Rank": "Iron/Bronze",
             "Average ACS": 146.0,
             "Average K/D": 0.6049382716049383,
-            "Most Played Agent": "Veto"
+            "Most Played Agent": "Veto",
+            "Average ADR": 95.1039985656738,
+            "Average KAST": 64.0,
+            "Average HS%": 12.1539999008179,
+            "First Kills": 7,
+            "First Deaths": 11
         },
         "@superfly7124": {
             "Riot Id": "Superf1ytv#Perc",
             "Rank": "Platinum",
             "Average ACS": 177.0,
             "Average K/D": 0.9056603773584906,
-            "Most Played Agent": "Fade"
+            "Most Played Agent": "Fade",
+            "Average ADR": 113.365001678467,
+            "Average KAST": 69.5,
+            "Average HS%": 16.0752501487732,
+            "First Kills": 1,
+            "First Deaths": 2
         }
     }
 }

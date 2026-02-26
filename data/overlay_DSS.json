@@ -2,49 +2,78 @@
     "team": "DSS Gaming",
     "team_tag": "DSS",
     "team_averages": {
-        "avg_acs": 199.02,
-        "avg_kd": 1.0
+        "avg_acs": 201.74,
+        "avg_kd": 1.0,
+        "avg_adr": 133.09883348676883,
+        "avg_kast": 70.38055555555557,
+        "avg_fk_success": 50.0
     },
     "map_win_rates": {
         "Corrode": "50.0%",
         "Bind": "0.0%",
-        "Split": "100.0%"
+        "Split": "100.0%",
+        "Breeze": "0.0%"
     },
     "players": {
         "@trombonemannoah": {
             "Riot Id": "TromboneManNoah#dss",
             "Rank": "Diamond",
-            "Average ACS": 218.66666666666666,
-            "Average K/D": 1.2352941176470589,
-            "Most Played Agent": "Astra"
+            "Average ACS": 218.77777777777777,
+            "Average K/D": 1.1153846153846154,
+            "Most Played Agent": "Astra",
+            "Average ADR": 141.532224867079,
+            "Average KAST": 73.6666666666667,
+            "Average HS%": 19.8411112891303,
+            "First Kills": 20,
+            "First Deaths": 14
         },
         "@_toastlord": {
             "Riot Id": "FrenchToast#dss",
             "Rank": "Diamond",
-            "Average ACS": 285.1666666666667,
-            "Average K/D": 1.4457831325301205,
-            "Most Played Agent": "Raze"
+            "Average ACS": 262.6666666666667,
+            "Average K/D": 1.2366412213740459,
+            "Most Played Agent": "Raze",
+            "Average ADR": 174.963332282172,
+            "Average KAST": 67.5555555555556,
+            "Average HS%": 21.420555750529,
+            "First Kills": 37,
+            "First Deaths": 34
         },
         "@jackk.frost": {
             "Riot Id": "frost#2118",
             "Rank": "Diamond",
-            "Average ACS": 205.33333333333334,
-            "Average K/D": 1.1923076923076923,
-            "Most Played Agent": "Yoru"
+            "Average ACS": 206.44444444444446,
+            "Average K/D": 1.194915254237288,
+            "Most Played Agent": "Yoru",
+            "Average ADR": 130.229999118381,
+            "Average KAST": 71.5555555555556,
+            "Average HS%": 14.8255555364821,
+            "First Kills": 14,
+            "First Deaths": 18
         },
         "@mr.physicsgod": {
             "Riot Id": "BigSlime#BS69",
             "Rank": "Platinum",
-            "Average ACS": 235.6,
-            "Average K/D": 1.2098765432098766,
-            "Most Played Agent": "Cypher"
+            "Average ACS": 227.375,
+            "Average K/D": 1.146341463414634,
+            "Most Played Agent": "Cypher",
+            "Average ADR": 144.057499885559,
+            "Average KAST": 73.125,
+            "Average HS%": 21.5543750524521,
+            "First Kills": 14,
+            "First Deaths": 14
         },
         "@fife0123": {
             "Riot Id": "FIFE01#3292",
             "Rank": "Iron/Bronze",
-            "Average ACS": 108.83333333333333,
-            "Average K/D": 0.5340909090909091,
-            "Most Played Agent": "Fade"
+            "Average ACS": 111.33333333333333,
+            "Average K/D": 0.5037593984962406,
+            "Most Played Agent": "Fade",
+            "Average ADR": 74.7111112806532,
+            "Average KAST": 66.0,
+            "Average HS%": 11.3381110827128,
+            "First Kills": 7,
+            "First Deaths": 12
         }
     }
 }

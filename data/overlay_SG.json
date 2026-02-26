@@ -2,13 +2,16 @@
     "team": "Sneaky Golems",
     "team_tag": "SG",
     "team_averages": {
-        "avg_acs": 209.52,
-        "avg_kd": 1.0
+        "avg_acs": 209.73,
+        "avg_kd": 1.0,
+        "avg_adr": 123.25207274300719,
+        "avg_kast": 66.35000000000002,
+        "avg_fk_success": 45.39007092198582
     },
     "map_win_rates": {
+        "Haven": "0.0%",
         "Split": "0.0%",
         "Bind": "0.0%",
-        "Haven": "0.0%",
         "Pearl": "100.0%",
         "Corrode": "0.0%"
     },
@@ -16,37 +19,62 @@
         "@fortniteenjoyer": {
             "Riot Id": "FortniteEnjoyer#4549",
             "Rank": "Silver",
-            "Average ACS": 105.83333333333333,
+            "Average ACS": 106.0,
             "Average K/D": 0.4537037037037037,
-            "Most Played Agent": "Chamber"
+            "Most Played Agent": "Chamber",
+            "Average ADR": 72.4666678110759,
+            "Average KAST": 55.1666666666667,
+            "Average HS%": 22.3450002670288,
+            "First Kills": 4,
+            "First Deaths": 18
         },
         "@merrt": {
             "Riot Id": "merrt#doom",
             "Rank": "Diamond",
-            "Average ACS": 200.66666666666666,
+            "Average ACS": 201.16666666666666,
             "Average K/D": 0.8125,
-            "Most Played Agent": "Waylay"
+            "Most Played Agent": "Waylay",
+            "Average ADR": 136.756666819255,
+            "Average KAST": 68.6666666666667,
+            "Average HS%": 29.4838336308797,
+            "First Kills": 18,
+            "First Deaths": 12
         },
         "@vix134": {
             "Riot Id": "Solvin#6087",
             "Rank": "Ascendant",
-            "Average ACS": 237.5,
+            "Average ACS": 237.83333333333334,
             "Average K/D": 0.9487179487179487,
-            "Most Played Agent": "Astra"
+            "Most Played Agent": "Astra",
+            "Average ADR": 155.871668497721,
+            "Average KAST": 71.6666666666667,
+            "Average HS%": 19.7498331069946,
+            "First Kills": 15,
+            "First Deaths": 18
         },
         "@wolf0057": {
             "Riot Id": "WOLF#TRASH",
             "Rank": "Platinum",
             "Average ACS": 204.85714285714286,
             "Average K/D": 0.9354838709677419,
-            "Most Played Agent": "Breach"
+            "Most Played Agent": "Breach",
+            "Average ADR": 130.162858145578,
+            "Average KAST": 69.0,
+            "Average HS%": 33.7247142791748,
+            "First Kills": 22,
+            "First Deaths": 22
         },
         "@addsunn": {
             "Riot Id": "addsunn#meow",
             "Rank": "Gold",
             "Average ACS": 180.5,
             "Average K/D": 1.0,
-            "Most Played Agent": "Clove"
+            "Most Played Agent": "Clove",
+            "Average ADR": 121.002502441406,
+            "Average KAST": 67.25,
+            "Average HS%": 33.5347499847412,
+            "First Kills": 5,
+            "First Deaths": 7
         }
     }
 }
