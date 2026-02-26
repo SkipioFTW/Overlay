@@ -50,11 +50,14 @@ function renderTeam(data, color, isTeamA) {
         const kast = info["Average KAST"] != null ? Math.round(info["Average KAST"]) : '—';
         const hs = info["Average HS%"] != null ? Math.round(info["Average HS%"]) : '—';
 
+        const imgSrc = agentLower === 'default' ? '' : `./agents/${agentLower}.jfif`;
+        const imgStyle = agentLower === 'default' ? 'style="opacity:0"' : '';
+
         playersHtml += `
             <div class="player-card" style="--accent-color: ${color}">
                 <div class="card-image-area">
-                    <img src="./agents/${agentLower}.jfif"
-                         onerror="this.src='./agents/default.jfif'"
+                    <img src="${imgSrc}" ${imgStyle}
+                         onerror="this.onerror=null; this.style.opacity='0';"
                          alt="${agentRaw}">
                     <div class="role-badge">${role}</div>
                 </div>
