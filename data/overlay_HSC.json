@@ -4,9 +4,9 @@
     "team_averages": {
         "avg_acs": 202.25,
         "avg_kd": 1.0,
-        "avg_adr": 127.86133435567206,
-        "avg_kast": 71.00666666666666,
-        "avg_fk_success": 48.07692307692308
+        "avg_adr": 129.03614129852807,
+        "avg_kast": 70.91368421052633,
+        "avg_fk_success": 47.78761061946903
     },
     "map_win_rates": {
         "Corrode": "25.0%",
@@ -17,14 +17,14 @@
         "@mayflower1324": {
             "Riot Id": "Mayflower#1324",
             "Rank": "Iron/Bronze",
-            "Average ACS": 154.58333333333334,
-            "Average K/D": 0.9640287769784173,
+            "Average ACS": 164.26315789473685,
+            "Average K/D": 0.9684684684684685,
             "Most Played Agent": "Sova",
-            "Average ADR": 106.17333539327,
-            "Average KAST": 75.8333333333333,
-            "Average HS%": 16.7045834064484,
-            "First Kills": 9,
-            "First Deaths": 11
+            "Average ADR": 112.04737010755,
+            "Average KAST": 75.3684210526316,
+            "Average HS%": 18.5530526512548,
+            "First Kills": 13,
+            "First Deaths": 16
         },
         "@quokank1": {
             "Riot Id": "Pengu#NA01",

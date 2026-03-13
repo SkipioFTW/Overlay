@@ -4,9 +4,9 @@
     "team_averages": {
         "avg_acs": 205.62,
         "avg_kd": 1.0,
-        "avg_adr": 126.5021729648475,
-        "avg_kast": 66.87515151515152,
-        "avg_fk_success": 48.9051094890511
+        "avg_adr": 106.02112576166788,
+        "avg_kast": 64.86666666666667,
+        "avg_fk_success": 34.61538461538461
     },
     "map_win_rates": {
         "Haven": "50.0%",
@@ -16,18 +16,6 @@
         "Abyss": "0.0%"
     },
     "players": {
-        "@aimbotalex.": {
-            "Riot Id": "aimbotalex#5171",
-            "Rank": "Diamond",
-            "Average ACS": 325.1666666666667,
-            "Average K/D": 1.5743589743589743,
-            "Most Played Agent": "Phoenix",
-            "Average ADR": 208.426361777566,
-            "Average KAST": 74.9090909090909,
-            "Average HS%": 36.0985454212536,
-            "First Kills": 49,
-            "First Deaths": 36
-        },
         "@itsalphonse": {
             "Riot Id": "ChocolateMilk#Bars",
             "Rank": "Silver",

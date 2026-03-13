@@ -2,30 +2,30 @@
     "team": "The Vant1c Effect",
     "team_tag": "TVE",
     "team_averages": {
-        "avg_acs": 211.23,
+        "avg_acs": 214.18,
         "avg_kd": 0.99,
-        "avg_adr": 139.9346668243408,
-        "avg_kast": 71.87,
-        "avg_fk_success": 50.0
+        "avg_adr": 135.21419386606357,
+        "avg_kast": 70.24420634920637,
+        "avg_fk_success": 51.24999999999999
     },
     "map_win_rates": {
         "Split": "50.0%",
         "Corrode": "0.0%",
-        "f": "0.0%",
+        "Haven": "0.0%",
         "Bind": "100.0%"
     },
     "players": {
         "@dipinchocolate": {
             "Riot Id": "DipInChocolate#1007",
             "Rank": "Ascendant",
-            "Average ACS": 285.4,
-            "Average K/D": 1.3333333333333333,
+            "Average ACS": 284.5,
+            "Average K/D": 1.344,
             "Most Played Agent": "Clove",
-            "Average ADR": 183.518000793457,
-            "Average KAST": 76.0,
-            "Average HS%": 29.4953998565674,
-            "First Kills": 9,
-            "First Deaths": 13
+            "Average ADR": 181.845001220703,
+            "Average KAST": 77.875,
+            "Average HS%": 28.778874874115,
+            "First Kills": 12,
+            "First Deaths": 15
         },
         "@mighty_bug": {
             "Riot Id": "MightyBug464#NA1",
@@ -39,41 +39,41 @@
             "First Kills": 5,
             "First Deaths": 6
         },
-        "@apmoberg": {
-            "Riot Id": "apmoberg#NA1",
-            "Rank": "Iron/Bronze",
-            "Average ACS": 133.0,
-            "Average K/D": 0.6881720430107527,
-            "Most Played Agent": "Sage",
-            "Average ADR": 85.488333384196,
-            "Average KAST": 72.1666666666667,
-            "Average HS%": 14.8803333044052,
-            "First Kills": 4,
-            "First Deaths": 4
-        },
         "@jfkpeakedglaz21": {
             "Riot Id": "Ignore#999",
             "Rank": "Silver",
-            "Average ACS": 169.16666666666666,
-            "Average K/D": 0.7956989247311828,
+            "Average ACS": 151.55555555555554,
+            "Average K/D": 0.7194244604316546,
             "Most Played Agent": "Chamber",
-            "Average ADR": 114.224999745687,
-            "Average KAST": 69.3333333333333,
-            "Average HS%": 12.3051666418711,
-            "First Kills": 22,
-            "First Deaths": 20
+            "Average ADR": 100.696666717529,
+            "Average KAST": 63.3333333333333,
+            "Average HS%": 13.3949998749627,
+            "First Kills": 32,
+            "First Deaths": 30
         },
         "@.avyy.": {
             "Riot Id": "i play osu#1234",
             "Rank": "Ascendant",
-            "Average ACS": 314.25,
-            "Average K/D": 1.4696969696969697,
+            "Average ACS": 315.7142857142857,
+            "Average K/D": 1.4310344827586208,
             "Most Played Agent": "Raze",
-            "Average ADR": 211.239999771118,
-            "Average KAST": 77.25,
-            "Average HS%": 28.1837496757507,
-            "First Kills": 16,
-            "First Deaths": 13
+            "Average ADR": 206.062856401716,
+            "Average KAST": 74.8571428571429,
+            "Average HS%": 32.9488566262381,
+            "First Kills": 27,
+            "First Deaths": 21
+        },
+        "@apmoberg": {
+            "Riot Id": "apmoberg#NA1",
+            "Rank": "Iron/Bronze",
+            "Average ACS": 126.33333333333333,
+            "Average K/D": 0.6312056737588653,
+            "Most Played Agent": "Sage",
+            "Average ADR": 82.2644445631239,
+            "Average KAST": 70.5555555555556,
+            "Average HS%": 14.7154443793827,
+            "First Kills": 6,
+            "First Deaths": 6
         }
     }
 }

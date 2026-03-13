@@ -15,18 +15,6 @@
         "Abyss": "100.0%"
     },
     "players": {
-        "@bransxn": {
-            "Riot Id": "solace#bran",
-            "Rank": "Platinum",
-            "Average ACS": 153.83333333333334,
-            "Average K/D": 0.7578947368421053,
-            "Most Played Agent": "Neon",
-            "Average ADR": 100.19000116984,
-            "Average KAST": 65.3333333333333,
-            "Average HS%": 28.9644997914632,
-            "First Kills": 5,
-            "First Deaths": 12
-        },
         "@rubby3352": {
             "Riot Id": "reggie#8541",
             "Rank": "Ascendant",
@@ -50,6 +38,18 @@
             "Average HS%": 32.3946663538615,
             "First Kills": 7,
             "First Deaths": 8
+        },
+        "@bransxn": {
+            "Riot Id": "solace#bran",
+            "Rank": "Platinum",
+            "Average ACS": 153.83333333333334,
+            "Average K/D": 0.7578947368421053,
+            "Most Played Agent": "Neon",
+            "Average ADR": 100.19000116984,
+            "Average KAST": 65.3333333333333,
+            "Average HS%": 28.9644997914632,
+            "First Kills": 5,
+            "First Deaths": 12
         },
         "@goldfishfarts": {
             "Riot Id": "jellycats#nwjns",

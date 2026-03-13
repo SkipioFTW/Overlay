@@ -4,9 +4,9 @@
     "team_averages": {
         "avg_acs": 214.4,
         "avg_kd": 1.0,
-        "avg_adr": 141.4213003540038,
-        "avg_kast": 78.01333333333335,
-        "avg_fk_success": 48.0
+        "avg_adr": 158.0071256637574,
+        "avg_kast": 79.86666666666667,
+        "avg_fk_success": 57.99999999999999
     },
     "map_win_rates": {
         "Haven": "50.0%",
@@ -15,18 +15,6 @@
         "f": "0.0%"
     },
     "players": {
-        "@riot_nt09": {
-            "Riot Id": "NickJunyorJr#1417",
-            "Rank": "Silver",
-            "Average ACS": 133.4,
-            "Average K/D": 0.5783132530120482,
-            "Most Played Agent": "Raze",
-            "Average ADR": 90.7459983825684,
-            "Average KAST": 72.4,
-            "Average HS%": 12.4415997505188,
-            "First Kills": 7,
-            "First Deaths": 17
-        },
         "@firevenom": {
             "Riot Id": "Lost From Light#Asuna",
             "Rank": "Immortal 1/2",
@@ -66,14 +54,14 @@
         "@kroppii": {
             "Riot Id": "s1n#anna",
             "Rank": "Immortal 1/2",
-            "Average ACS": 332.6,
-            "Average K/D": 1.9545454545454546,
+            "Average ACS": 365.7,
+            "Average K/D": 2.0625,
             "Most Played Agent": "Reyna",
-            "Average ADR": 216.528002929687,
-            "Average KAST": 82.0,
-            "Average HS%": 42.9849994659424,
-            "First Kills": 12,
-            "First Deaths": 10
+            "Average ADR": 232.196002197266,
+            "Average KAST": 83.8,
+            "Average HS%": 40.2347995758057,
+            "First Kills": 29,
+            "First Deaths": 17
         }
     }
 }

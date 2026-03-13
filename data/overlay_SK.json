@@ -2,78 +2,77 @@
     "team": "Seattle Knights",
     "team_tag": "SK",
     "team_averages": {
-        "avg_acs": 203.47,
+        "avg_acs": 207.02,
         "avg_kd": 1.0,
-        "avg_adr": 135.28525403946176,
-        "avg_kast": 69.52857142857144,
-        "avg_fk_success": 54.63917525773196
+        "avg_adr": 134.62249443054182,
+        "avg_kast": 68.21000000000001,
+        "avg_fk_success": 52.10084033613446
     },
     "map_win_rates": {
         "Bind": "50.0%",
-        "Corrode": "66.66666666666666%",
-        "f": "0.0%",
+        "Corrode": "50.0%",
         "Abyss": "100.0%"
     },
     "players": {
         "@your_local_asain_midget": {
             "Riot Id": "YukiForce1#NA1",
             "Rank": "Gold",
-            "Average ACS": 163.85714285714286,
-            "Average K/D": 0.873015873015873,
+            "Average ACS": 141.55555555555554,
+            "Average K/D": 0.7048192771084337,
             "Most Played Agent": "Omen",
-            "Average ADR": 104.175713675363,
-            "Average KAST": 69.1428571428571,
-            "Average HS%": 29.2282856532506,
-            "First Kills": 15,
-            "First Deaths": 12
+            "Average ADR": 89.7422218322754,
+            "Average KAST": 67.0,
+            "Average HS%": 25.4899999830458,
+            "First Kills": 17,
+            "First Deaths": 17
         },
         "@limit7078": {
             "Riot Id": "Limit80#NA1",
             "Rank": "Platinum",
-            "Average ACS": 178.83333333333334,
-            "Average K/D": 0.7837837837837838,
+            "Average ACS": 180.625,
+            "Average K/D": 0.7417218543046358,
             "Most Played Agent": "Waylay",
-            "Average ADR": 113.383335113525,
-            "Average KAST": 63.1666666666667,
-            "Average HS%": 16.3916665712992,
-            "First Kills": 17,
-            "First Deaths": 23
+            "Average ADR": 117.827502250671,
+            "Average KAST": 64.5,
+            "Average HS%": 16.2209998369217,
+            "First Kills": 21,
+            "First Deaths": 29
         },
         "@haylo995": {
             "Riot Id": "HayLo995#Boss",
             "Rank": "Iron/Bronze",
-            "Average ACS": 132.66666666666666,
-            "Average K/D": 0.6442307692307693,
+            "Average ACS": 138.375,
+            "Average K/D": 0.6382978723404256,
             "Most Played Agent": "Chamber",
-            "Average ADR": 93.4516665140788,
-            "Average KAST": 58.5,
-            "Average HS%": 19.7200002670288,
-            "First Kills": 12,
-            "First Deaths": 13
+            "Average ADR": 98.2987489700317,
+            "Average KAST": 57.5,
+            "Average HS%": 20.6182501316071,
+            "First Kills": 14,
+            "First Deaths": 18
         },
         "@justcallmebot": {
             "Riot Id": "Ophi#blind",
             "Rank": "Immortal 1/2",
-            "Average ACS": 312.3333333333333,
-            "Average K/D": 1.5862068965517242,
+            "Average ACS": 316.75,
+            "Average K/D": 1.5609756097560976,
             "Most Played Agent": "Phoenix",
-            "Average ADR": 200.485000610352,
-            "Average KAST": 79.6666666666667,
-            "Average HS%": 30.8551664352417,
-            "First Kills": 30,
-            "First Deaths": 18
+            "Average ADR": 201.847499847412,
+            "Average KAST": 76.25,
+            "Average HS%": 33.0039999485016,
+            "First Kills": 37,
+            "First Deaths": 23
         },
         "@nickjunyor": {
             "Riot Id": "El Psy Kongroo#Skuld",
             "Rank": "Diamond",
-            "Average ACS": 252.22222222222223,
-            "Average K/D": 1.3700787401574803,
+            "Average ACS": 252.6,
+            "Average K/D": 1.34375,
             "Most Played Agent": "Sova",
-            "Average ADR": 164.93055428399,
-            "Average KAST": 77.1666666666667,
-            "Average HS%": 18.0392220815023,
-            "First Kills": 32,
-            "First Deaths": 22
+            "Average ADR": 165.396499252319,
+            "Average KAST": 75.8,
+            "Average HS%": 18.3945999145508,
+            "First Kills": 35,
+            "First Deaths": 27
         }
     }
 }

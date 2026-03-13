@@ -2,15 +2,15 @@
     "team": "Chumber Mains",
     "team_tag": "CM",
     "team_averages": {
-        "avg_acs": 206.28,
+        "avg_acs": 208.28,
         "avg_kd": 1.0,
-        "avg_adr": 129.2958001708984,
-        "avg_kast": 66.63,
-        "avg_fk_success": 41.66666666666667
+        "avg_adr": 128.57809557233546,
+        "avg_kast": 66.3095238095238,
+        "avg_fk_success": 45.80152671755725
     },
     "map_win_rates": {
         "Haven": "0.0%",
-        "f": "66.66666666666666%",
+        "f": "100.0%",
         "Split": "0.0%",
         "Bind": "0.0%",
         "Corrode": "0.0%"
@@ -19,50 +19,50 @@
         "@zyroni": {
             "Riot Id": "Zyroni#based",
             "Rank": "Ascendant",
-            "Average ACS": 213.2,
-            "Average K/D": 0.9468085106382979,
+            "Average ACS": 222.14285714285714,
+            "Average K/D": 0.9444444444444444,
             "Most Played Agent": "Fade",
-            "Average ADR": 137.14400177002,
-            "Average KAST": 66.4,
-            "Average HS%": 21.6658000946045,
-            "First Kills": 19,
-            "First Deaths": 23
+            "Average ADR": 143.567144121443,
+            "Average KAST": 67.7142857142857,
+            "Average HS%": 27.6518568311419,
+            "First Kills": 28,
+            "First Deaths": 28
         },
         "@chadmama": {
             "Riot Id": "CatInABox#catt",
             "Rank": "Platinum",
-            "Average ACS": 222.0,
-            "Average K/D": 0.9866666666666667,
-            "Most Played Agent": "Breach",
-            "Average ADR": 144.297496795654,
-            "Average KAST": 63.75,
-            "Average HS%": 15.6242499351501,
-            "First Kills": 5,
-            "First Deaths": 12
-        },
-        "@bigsxyrvg": {
-            "Riot Id": "NaKo888RvG#NA2",
-            "Rank": "Diamond",
-            "Average ACS": 246.5,
-            "Average K/D": 1.08,
-            "Most Played Agent": "Omen",
-            "Average ADR": 152.345001220703,
-            "Average KAST": 70.75,
-            "Average HS%": 23.571750164032,
+            "Average ACS": 211.0,
+            "Average K/D": 0.9615384615384616,
+            "Most Played Agent": "Yoru",
+            "Average ADR": 138.234999338786,
+            "Average KAST": 61.5,
+            "Average HS%": 19.2403335571289,
             "First Kills": 6,
-            "First Deaths": 14
+            "First Deaths": 15
         },
         "@vessel": {
             "Riot Id": "Vessellll#007",
             "Rank": "Gold",
-            "Average ACS": 134.25,
-            "Average K/D": 0.6285714285714286,
+            "Average ACS": 137.5,
+            "Average K/D": 0.6336633663366337,
             "Most Played Agent": "Chamber",
-            "Average ADR": 92.5275001525879,
-            "Average KAST": 61.25,
-            "Average HS%": 31.6137495040894,
-            "First Kills": 6,
-            "First Deaths": 4
+            "Average ADR": 92.8100001017253,
+            "Average KAST": 61.5,
+            "Average HS%": 26.552832921346,
+            "First Kills": 10,
+            "First Deaths": 5
+        },
+        "@bigsxyrvg": {
+            "Riot Id": "NewDadRvG#2026",
+            "Rank": "Diamond",
+            "Average ACS": 236.83333333333334,
+            "Average K/D": 1.0,
+            "Most Played Agent": "Omen",
+            "Average ADR": 148.113333384196,
+            "Average KAST": 69.8333333333333,
+            "Average HS%": 23.776333173116,
+            "First Kills": 12,
+            "First Deaths": 20
         },
         "@ispeakforthetr33s": {
             "Riot Id": "Shoyo Hinata#gayy",

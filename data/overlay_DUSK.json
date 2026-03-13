@@ -4,9 +4,9 @@
     "team_averages": {
         "avg_acs": 214.08,
         "avg_kd": 1.0,
-        "avg_adr": 131.4147693743024,
-        "avg_kast": 64.88,
-        "avg_fk_success": 48.484848484848484
+        "avg_adr": 126.352286690932,
+        "avg_kast": 63.75384615384615,
+        "avg_fk_success": 44.554455445544555
     },
     "map_win_rates": {
         "Split": "50.0%",
@@ -30,14 +30,14 @@
         "@beesmii": {
             "Riot Id": "Beesmii#mwah",
             "Rank": "Gold",
-            "Average ACS": 198.71428571428572,
-            "Average K/D": 0.8617886178861789,
+            "Average ACS": 174.07692307692307,
+            "Average K/D": 0.7477477477477478,
             "Most Played Agent": "Skye",
-            "Average ADR": 125.372855050223,
-            "Average KAST": 71.0,
-            "Average HS%": 19.5585714067732,
-            "First Kills": 11,
-            "First Deaths": 11
+            "Average ADR": 109.206152989314,
+            "Average KAST": 71.6153846153846,
+            "Average HS%": 16.8193075473492,
+            "First Kills": 18,
+            "First Deaths": 22
         },
         "@sirsqu1d": {
             "Riot Id": "Squ1d#flv",
@@ -50,18 +50,6 @@
             "Average HS%": 22.0165996551514,
             "First Kills": 19,
             "First Deaths": 18
-        },
-        "@lazarus5300": {
-            "Riot Id": "Lazarus#urbad",
-            "Rank": "Diamond",
-            "Average ACS": 202.6,
-            "Average K/D": 0.9239130434782609,
-            "Most Played Agent": "Omen",
-            "Average ADR": 135.497998046875,
-            "Average KAST": 70.0,
-            "Average HS%": 25.342200088501,
-            "First Kills": 10,
-            "First Deaths": 6
         },
         "@pinkublink": {
             "Riot Id": "Ken Gyo#BLINK",

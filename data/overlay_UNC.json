@@ -2,42 +2,41 @@
     "team": "Great Uncs",
     "team_tag": "UNC",
     "team_averages": {
-        "avg_acs": 210.3,
+        "avg_acs": 208.73,
         "avg_kd": 1.0,
-        "avg_adr": 153.3002285112654,
-        "avg_kast": 80.43142857142858,
-        "avg_fk_success": 54.12844036697248
+        "avg_adr": 143.79096115536166,
+        "avg_kast": 75.34833333333333,
+        "avg_fk_success": 49.65986394557823
     },
     "map_win_rates": {
         "Corrode": "100.0%",
-        "Bind": "100.0%",
-        "Pearl": "100.0%",
-        "f": "0.0%"
+        "Bind": "66.66666666666666%",
+        "Pearl": "100.0%"
     },
     "players": {
         "@wanderboi.": {
             "Riot Id": "Wander#Mhm",
             "Rank": "Silver",
-            "Average ACS": 177.0,
-            "Average K/D": 0.7,
+            "Average ACS": 157.25,
+            "Average K/D": 0.6183206106870229,
             "Most Played Agent": "Clove",
-            "Average ADR": 122.045997619629,
-            "Average KAST": 77.4,
-            "Average HS%": 19.6990001678467,
-            "First Kills": 8,
-            "First Deaths": 18
+            "Average ADR": 107.906248569489,
+            "Average KAST": 71.25,
+            "Average HS%": 19.1977500915527,
+            "First Kills": 13,
+            "First Deaths": 22
         },
         "@mkn_pancakes": {
             "Riot Id": "mugi#her",
             "Rank": "Ascendant",
-            "Average ACS": 331.85714285714283,
-            "Average K/D": 1.7241379310344829,
+            "Average ACS": 295.0,
+            "Average K/D": 1.462686567164179,
             "Most Played Agent": "Jett",
-            "Average ADR": 219.12714276995,
-            "Average KAST": 77.8571428571429,
-            "Average HS%": 19.3004281180246,
-            "First Kills": 14,
-            "First Deaths": 8
+            "Average ADR": 194.10299987793,
+            "Average KAST": 75.7,
+            "Average HS%": 22.6057994842529,
+            "First Kills": 18,
+            "First Deaths": 11
         },
         "@breezvy": {
             "Riot Id": "Uncle Bill#unc",
@@ -54,26 +53,26 @@
         "@_smither": {
             "Riot Id": "FemBob#6769",
             "Rank": "Iron/Bronze",
-            "Average ACS": 145.6,
-            "Average K/D": 0.828125,
+            "Average ACS": 135.5,
+            "Average K/D": 0.6347826086956522,
             "Most Played Agent": "Deadlock",
-            "Average ADR": 89.7979995727539,
-            "Average KAST": 76.4,
-            "Average HS%": 18.3369997024536,
-            "First Kills": 8,
-            "First Deaths": 13
+            "Average ADR": 86.6150002479553,
+            "Average KAST": 67.625,
+            "Average HS%": 16.0756248235703,
+            "First Kills": 11,
+            "First Deaths": 26
         },
         "@real_grey": {
             "Riot Id": "Grey#0430",
             "Rank": "Gold",
-            "Average ACS": 210.0,
-            "Average K/D": 1.2463768115942029,
+            "Average ACS": 195.77777777777777,
+            "Average K/D": 1.043103448275862,
             "Most Played Agent": "Gekko",
-            "Average ADR": 133.421667734782,
-            "Average KAST": 84.3333333333333,
-            "Average HS%": 16.0844997564952,
-            "First Kills": 9,
-            "First Deaths": 3
+            "Average ADR": 128.222222222222,
+            "Average KAST": 76.0,
+            "Average HS%": 19.2347777154711,
+            "First Kills": 11,
+            "First Deaths": 7
         }
     }
 }

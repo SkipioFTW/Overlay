@@ -15,18 +15,6 @@
         "Bind": "100.0%"
     },
     "players": {
-        "@dumbbacon": {
-            "Riot Id": "dumbbacon#bac0n",
-            "Rank": "Silver",
-            "Average ACS": 188.85714285714286,
-            "Average K/D": 0.8632478632478633,
-            "Most Played Agent": "Clove",
-            "Average ADR": 131.325715201242,
-            "Average KAST": 74.2857142857143,
-            "Average HS%": 20.0929998670306,
-            "First Kills": 3,
-            "First Deaths": 2
-        },
         "@kitsunekazumai": {
             "Riot Id": "KitsuneKazumai#kitsu",
             "Rank": "Platinum",
@@ -74,6 +62,18 @@
             "Average HS%": 34.4593327840169,
             "First Kills": 1,
             "First Deaths": 8
+        },
+        "@dumbbacon": {
+            "Riot Id": "dumbbacon#bac0n",
+            "Rank": "Silver",
+            "Average ACS": 188.85714285714286,
+            "Average K/D": 0.8632478632478633,
+            "Most Played Agent": "Clove",
+            "Average ADR": 131.325715201242,
+            "Average KAST": 74.2857142857143,
+            "Average HS%": 20.0929998670306,
+            "First Kills": 3,
+            "First Deaths": 2
         }
     }
 }

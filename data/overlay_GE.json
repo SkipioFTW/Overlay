@@ -2,80 +2,79 @@
     "team": "Genius Evils",
     "team_tag": "GE",
     "team_averages": {
-        "avg_acs": 207.67,
+        "avg_acs": 207.76,
         "avg_kd": 1.0,
-        "avg_adr": 140.61320081922736,
-        "avg_kast": 70.36111111111111,
-        "avg_fk_success": 51.5625
+        "avg_adr": 139.16818984060583,
+        "avg_kast": 72.0638383838384,
+        "avg_fk_success": 52.226720647773284
     },
     "map_win_rates": {
         "Bind": "0.0%",
-        "Haven": "50.0%",
+        "Haven": "33.33333333333333%",
         "Split": "100.0%",
         "Corrode": "0.0%",
-        "f": "0.0%",
         "Abyss": "100.0%"
     },
     "players": {
         "@scar6859": {
             "Riot Id": "Scar#68692",
             "Rank": "Silver",
-            "Average ACS": 172.33333333333334,
-            "Average K/D": 0.7793103448275862,
+            "Average ACS": 172.92857142857142,
+            "Average K/D": 0.782051282051282,
             "Most Played Agent": "Cypher",
-            "Average ADR": 113.679999457465,
-            "Average KAST": 69.8888888888889,
-            "Average HS%": 14.8711112340291,
-            "First Kills": 16,
-            "First Deaths": 21
+            "Average ADR": 114.482856750488,
+            "Average KAST": 69.0,
+            "Average HS%": 15.0560715539115,
+            "First Kills": 27,
+            "First Deaths": 39
         },
         "@1bear1": {
             "Riot Id": "bear#nrg",
             "Rank": "Ascendant",
-            "Average ACS": 208.8,
-            "Average K/D": 1.0857142857142856,
+            "Average ACS": 235.0,
+            "Average K/D": 1.251700680272109,
             "Most Played Agent": "Sova",
-            "Average ADR": 139.22799987793,
-            "Average KAST": 69.6,
-            "Average HS%": 29.3818000793457,
-            "First Kills": 7,
-            "First Deaths": 7
+            "Average ADR": 158.491998291016,
+            "Average KAST": 75.2,
+            "Average HS%": 27.370299911499,
+            "First Kills": 18,
+            "First Deaths": 18
         },
         "@valkfps_": {
             "Riot Id": "Valk#aimNA",
             "Rank": "Immortal 1/2",
-            "Average ACS": 338.8,
-            "Average K/D": 1.6419753086419753,
+            "Average ACS": 307.1,
+            "Average K/D": 1.5454545454545454,
             "Most Played Agent": "Waylay",
-            "Average ADR": 217.408004760742,
-            "Average KAST": 69.4,
-            "Average HS%": 32.4661994934082,
-            "First Kills": 27,
-            "First Deaths": 14
-        },
-        "@klyoko": {
-            "Riot Id": "oKamura#XIC",
-            "Rank": "Gold",
-            "Average ACS": 220.33333333333334,
-            "Average K/D": 1.0769230769230769,
-            "Most Played Agent": "Jett",
-            "Average ADR": 147.569999694824,
-            "Average KAST": 72.6666666666667,
-            "Average HS%": 29.5730002721151,
-            "First Kills": 12,
-            "First Deaths": 15
+            "Average ADR": 196.687002563477,
+            "Average KAST": 72.2,
+            "Average HS%": 32.2125,
+            "First Kills": 45,
+            "First Deaths": 22
         },
         "@tbs_troll": {
             "Riot Id": "TbS Tro11#NA1",
             "Rank": "Silver",
-            "Average ACS": 137.0,
-            "Average K/D": 0.6779661016949152,
-            "Most Played Agent": "Brimstone",
-            "Average ADR": 85.1800003051758,
-            "Average KAST": 70.25,
-            "Average HS%": 13.3359999656677,
-            "First Kills": 4,
-            "First Deaths": 5
+            "Average ACS": 127.0,
+            "Average K/D": 0.6428571428571429,
+            "Most Played Agent": "Astra",
+            "Average ADR": 76.8900006612142,
+            "Average KAST": 70.5555555555556,
+            "Average HS%": 18.1897779040866,
+            "First Kills": 11,
+            "First Deaths": 15
+        },
+        "@klyoko": {
+            "Riot Id": "oKamura#XIC",
+            "Rank": "Gold",
+            "Average ACS": 221.54545454545453,
+            "Average K/D": 1.027777777777778,
+            "Most Played Agent": "Viper",
+            "Average ADR": 149.289090936834,
+            "Average KAST": 73.3636363636364,
+            "Average HS%": 27.8335456848145,
+            "First Kills": 28,
+            "First Deaths": 24
         }
     }
 }

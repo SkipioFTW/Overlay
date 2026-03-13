@@ -15,30 +15,6 @@
         "Corrode": "0.0%"
     },
     "players": {
-        "@dilligent12": {
-            "Riot Id": "itachi#tuff",
-            "Rank": "Gold",
-            "Average ACS": 237.66666666666666,
-            "Average K/D": 1.03,
-            "Most Played Agent": "Raze",
-            "Average ADR": 152.646666208903,
-            "Average KAST": 70.1666666666667,
-            "Average HS%": 23.6404995918274,
-            "First Kills": 14,
-            "First Deaths": 15
-        },
-        "@fraudulent0200": {
-            "Riot Id": "lettuce#miow",
-            "Rank": "Silver",
-            "Average ACS": 113.0,
-            "Average K/D": 0.5735294117647058,
-            "Most Played Agent": "Cypher",
-            "Average ADR": 79.776000213623,
-            "Average KAST": 63.6,
-            "Average HS%": 27.6189992904663,
-            "First Kills": 1,
-            "First Deaths": 4
-        },
         "@littlebeo927": {
             "Riot Id": "bobbysauce#mild",
             "Rank": "Platinum",
@@ -74,6 +50,30 @@
             "Average HS%": 24.7321669260661,
             "First Kills": 11,
             "First Deaths": 7
+        },
+        "@dilligent12": {
+            "Riot Id": "itachi#tuff",
+            "Rank": "Gold",
+            "Average ACS": 237.66666666666666,
+            "Average K/D": 1.03,
+            "Most Played Agent": "Raze",
+            "Average ADR": 152.646666208903,
+            "Average KAST": 70.1666666666667,
+            "Average HS%": 23.6404995918274,
+            "First Kills": 14,
+            "First Deaths": 15
+        },
+        "@fraudulent0200": {
+            "Riot Id": "lettuce#miow",
+            "Rank": "Silver",
+            "Average ACS": 113.0,
+            "Average K/D": 0.5735294117647058,
+            "Most Played Agent": "Cypher",
+            "Average ADR": 79.776000213623,
+            "Average KAST": 63.6,
+            "Average HS%": 27.6189992904663,
+            "First Kills": 1,
+            "First Deaths": 4
         }
     }
 }
